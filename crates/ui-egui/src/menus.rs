@@ -31,6 +31,7 @@ pub const UI_COMMANDS: &[UiCommand] = &[
     // the Latin ones. Settings ▸ General ▸ Interface Language lists them the same way.
     uic!("app.language.indonesian", "Bahasa Indonesia", ["Edit", "Language"], None),
     uic!("app.language.bosnian", "Bosanski", ["Edit", "Language"], None),
+    uic!("app.language.thai", "ไทย", ["Edit", "Language"], None),
     uic!("app.language.czech", "Čeština", ["Edit", "Language"], None),
     uic!("app.language.german", "Deutsch", ["Edit", "Language"], None),
     uic!("app.language.spanish", "Español", ["Edit", "Language"], None),
@@ -243,6 +244,7 @@ pub fn invoke_command(app: &mut FilmcraftApp, ctx: &egui::Context, id: &str, mut
             | "app.language.indonesian"
             | "app.language.italian"
             | "app.language.bosnian"
+            | "app.language.thai"
             | "app.language.korean"
             | "app.language.czech"
             | "app.language.polish"
@@ -261,6 +263,9 @@ pub fn invoke_command(app: &mut FilmcraftApp, ctx: &egui::Context, id: &str, mut
         if id == "app.language.korean" && !crate::i18n::korean_font_available() {
             return Err("no Korean font is installed on this system (for example Malgun Gothic or Noto Sans CJK KR); the interface stays in English".into());
         }
+        if id == "app.language.thai" && !crate::cjk::thai_available() {
+            return Err("no Thai font is installed on this system (for example Noto Sans Thai or Thonburi); the interface stays unchanged".into());
+        }
         let language = match id {
             "app.language.japanese" => crate::i18n::Language::Ja,
             "app.language.spanish" => crate::i18n::Language::Es,
@@ -273,6 +278,7 @@ pub fn invoke_command(app: &mut FilmcraftApp, ctx: &egui::Context, id: &str, mut
             "app.language.indonesian" => crate::i18n::Language::Id,
             "app.language.italian" => crate::i18n::Language::It,
             "app.language.bosnian" => crate::i18n::Language::Bs,
+            "app.language.thai" => crate::i18n::Language::Th,
             "app.language.korean" => crate::i18n::Language::Ko,
             "app.language.czech" => crate::i18n::Language::Cs,
             "app.language.polish" => crate::i18n::Language::Pl,
@@ -939,6 +945,7 @@ pub fn menu_items(app: &FilmcraftApp) -> Vec<MenuItem> {
             "app.language.indonesian" => it.checked = Some(app.ui.language == crate::i18n::Language::Id),
             "app.language.italian" => it.checked = Some(app.ui.language == crate::i18n::Language::It),
             "app.language.bosnian" => it.checked = Some(app.ui.language == crate::i18n::Language::Bs),
+            "app.language.thai" => it.checked = Some(app.ui.language == crate::i18n::Language::Th),
             "app.language.korean" => it.checked = Some(app.ui.language == crate::i18n::Language::Ko),
             "app.language.czech" => it.checked = Some(app.ui.language == crate::i18n::Language::Cs),
             "app.language.polish" => it.checked = Some(app.ui.language == crate::i18n::Language::Pl),

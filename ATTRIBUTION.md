@@ -18,6 +18,8 @@ iconography, images or other Adobe assets; open licences only; every asset attri
 | `crates/ui-egui/src/i18n/fr.tsv` | FilmCraft contributors | Original work: clean-room French interface translations | MIT OR Apache-2.0 |
 | `crates/ui-egui/src/i18n/pl.tsv` | FilmCraft contributors | Original work: clean-room Polish interface translations | MIT OR Apache-2.0 |
 | `crates/ui-egui/src/i18n/pt-br.tsv` | FilmCraft contributors | Original work: clean-room Brazilian Portuguese interface translations | MIT OR Apache-2.0 |
+| `tools/thai/reviewed.tsv` | Local contributor | Original Thai editing terminology corrections | MIT OR Apache-2.0 |
+| `crates/ui-egui/src/i18n/th.tsv` | FilmCraft and craft-i18n contributors | Original and shared Thai translations; AI-assisted, full linguistic review pending | MIT OR Apache-2.0 |
 | `crates/ui-egui/src/i18n/bs.tsv` | FilmCraft contributors | Original work: AI-assisted clean-room Bosnian interface translations, not yet native-reviewed | MIT OR Apache-2.0 |
 | `crates/ui-egui/src/i18n/ru.tsv` | FilmCraft contributors | Original work: clean-room Russian interface translation (full catalog) | MIT OR Apache-2.0 |
 | `crates/ui-egui/src/i18n/uk.tsv` | FilmCraft contributors | Original work: clean-room Ukrainian interface translations | MIT OR Apache-2.0 |
@@ -186,3 +188,9 @@ SHA-256 (`crates/speech/src/models.rs`, `docs/transcripts.md`).
 | `epaint_default_fonts::UBUNTU_LIGHT` (dependency font input) | Canonical Ltd. | [egui 6d518fc7](https://github.com/storytold/egui/tree/6d518fc799681571963842f95b55a6b68431b15a/crates/epaint_default_fonts/fonts) | Ubuntu Font Licence 1.0 (Copyright 2011 Canonical Ltd.; full upstream text in `NOTICE`) | Ubuntu-Light.ttf is egui's default proportional fallback, included by `default_fonts`; `system_fonts` is not enabled. Dependency asset unmodified here; no font file copied into this repository. |
 | `epaint_default_fonts::NOTO_EMOJI_REGULAR` (dependency font input) | The Noto Project Authors (Google) | [egui 6d518fc7](https://github.com/storytold/egui/tree/6d518fc799681571963842f95b55a6b68431b15a/crates/epaint_default_fonts/fonts), [Noto Emoji](https://fonts.google.com/noto/specimen/Noto+Emoji) | OFL-1.1 (Copyright 2013 Google Inc.; full upstream text in `NOTICE`) | NotoEmoji-Regular.ttf is the monochrome emoji fallback, included because the workspace enables `monochrome_emoji_fonts`. Dependency asset unmodified here; no font file copied into this repository. |
 | `epaint_default_fonts::HACK_REGULAR` (dependency font input) | Source Foundry Authors; Bitstream Inc.; DejaVu contributors | [egui 6d518fc7](https://github.com/storytold/egui/tree/6d518fc799681571963842f95b55a6b68431b15a/crates/epaint_default_fonts/fonts), [Hack](https://github.com/source-foundry/Hack) | MIT (Copyright (c) 2018 Source Foundry Authors) and the Bitstream Vera License (Copyright (c) 2003 Bitstream, Inc.); the DejaVu work is public domain; full upstream notices in `NOTICE` | Hack-Regular.ttf is egui's default monospace fallback, included by `default_fonts`. Dependency asset unmodified here; no font file copied into this repository. |
+
+| `docs/images/thai/editing.png` | FilmCraft Thai editing screenshot, generated demo media | FilmCraft contributors; Thai localization contributors | MIT OR Apache-2.0 | Original screenshot of modified FilmCraft |
+
+| `docs/images/thai/settings.png` | FilmCraft Thai settings screenshot, generated demo media | FilmCraft contributors; Thai localization contributors | MIT OR Apache-2.0 | Original screenshot of modified FilmCraft |
+
+| `docs/images/thai/export.png` | FilmCraft Thai export screenshot, generated demo media | FilmCraft contributors; Thai localization contributors | MIT OR Apache-2.0 | Original screenshot of modified FilmCraft |

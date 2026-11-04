@@ -1,0 +1,8 @@
+asset:        reviewed.tsv
+title:        Reviewed Thai editing terminology overrides
+author:       Local FilmCraft contributor, AI-assisted
+source:       original work
+license:      MIT OR Apache-2.0
+license-file: LICENSE-MIT and LICENSE-APACHE
+added:        2026-11-04 by local contributor
+notes:        Translation corrections for the Thai catalog.

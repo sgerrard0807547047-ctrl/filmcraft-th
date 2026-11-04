@@ -15,6 +15,7 @@ fn catalog_text(l: Language) -> Option<&'static str> {
         Language::Id => Some(include_str!("id.tsv")),
         Language::It => Some(include_str!("it.tsv")),
         Language::Bs => Some(include_str!("bs.tsv")),
+        Language::Th => Some(include_str!("th.tsv")),
         Language::Ko => Some(include_str!("ko.tsv")),
         Language::Cs => Some(include_str!("cs.tsv")),
         Language::Pl => Some(include_str!("pl.tsv")),
@@ -884,4 +885,39 @@ fn system_language_picks_bosnian() {
         assert_eq!(l(&[tag]), Language::Bs, "{tag}");
     }
     assert_eq!(l(&["hr-HR", "bs-BA"]), Language::Bs, "Croatian has no catalog here, so the next preference wins");
+}
+
+#[test]
+fn thai_switches_persists_and_detects_system_locales() {
+    for tag in ["th", "TH", "th-TH", "th_TH.UTF-8"] {
+        assert_eq!(locales(&[tag]), Language::Th);
+    }
+    let mut app = crate::FilmcraftApp::new(filmcraft_engine::Session::default());
+    let ctx = egui::Context::default();
+    crate::theme::install(&ctx, &crate::theme::Tokens::for_kind(crate::theme::ThemeKind::default()));
+    let result = crate::menus::invoke(&mut app, &ctx, "app.language.thai", serde_json::json!({}));
+    if !crate::cjk::thai_available() {
+        assert!(result.is_err());
+        assert_eq!(app.ui.language, Language::En);
+        return;
+    }
+    assert_eq!(result.unwrap(), serde_json::json!("th"));
+    assert_eq!(app.ui.language, Language::Th);
+    assert_eq!(app.session.prefs.general.interface_language, "th");
+    assert_ui_persists(&app, Language::Th, "th");
+    assert_restart_keeps(&app, Language::Th);
+    assert_only_checked(&app, "app.language.thai");
+    assert_eq!(Language::Th.tr("Timeline"), "ไทม์ไลน์");
+    assert!(matches_query("Timeline", "ไทม์ไลน์"));
+    set_current(Language::En);
+}
+
+#[test]
+fn thai_catalog_characters_render_in_every_ui_family() {
+    if !crate::cjk::thai_available() {
+        return;
+    }
+    let (entries, _) = catalog::parse_entries(include_str!("th.tsv"));
+    let letters = entries.iter().flat_map(|(_, _, th)| th.chars()).filter(|ch| ('\u{0e01}'..='\u{0e5b}').contains(ch));
+    assert_bundled_fonts_cover(letters);
 }

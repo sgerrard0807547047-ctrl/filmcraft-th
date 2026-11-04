@@ -60,7 +60,6 @@ fn thai_font() -> Option<Arc<FontData>> {
 }
 
 /// Whether [`install`] has a Thai face to add: a craft-fonts one, or an installed system face.
-#[cfg(test)]
 pub(crate) fn thai_available() -> bool {
     thai_craft_fonts().next().is_some() || thai_font().is_some()
 }

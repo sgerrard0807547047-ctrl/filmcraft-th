@@ -109,3 +109,14 @@ creative effect names, and the shared `Subtitle` key (caption format and graphic
 | 2026-10-13 | minor | German (de) covers the whole interface: every entry of the Spanish catalog (3,590); the tests require the core menus and the macOS app menu and reject entries without a Spanish one |
 | 2026-10-11 | minor | German (de) ships the menus (#630): 371 of 3,498 strings (10.6%), native-reviewed; dimension now 2 menus-only, 5 none |
 | 2026-10-10 | major | Created from ROADMAP.md's "Interface localization" section; catalog coverage measured (es 3,496, ja 3,487, zh-cn 3,485, pt-br 348, uk 351 of 3,498); the 12-language table and script-support gaps added |
+
+
+## Local Thai build (2026-11-04)
+
+Thai (`th`) is selectable in both the native menu and Settings and recognizes `th-*` locales.
+The local catalog contains 3,763 entries: the union of existing catalogs plus currently detected
+interface keys. `python3 tools/thai/validate_catalog.py` checks union coverage and formatting.
+A system Thai face (Thonburi on this Mac) or craft-fonts is required. Language selection, persistence,
+search and Thai glyph rendering are covered by the i18n tests. This is an AI-assisted local
+translation with reviewed editing terminology; complete independent linguistic review is pending.
+Engine/OS error text outside the catalog can remain English. See the Thai `README.md` for build and usage details. The model used to draft translations is not bundled with the application.

@@ -188,6 +188,8 @@ pub fn install(app: &FilmcraftApp, ctx: egui::Context) -> (Receiver<String>, Men
             filmcraft_ui_egui::i18n::Language::Id
         } else if checked("app.language.italian") {
             filmcraft_ui_egui::i18n::Language::It
+        } else if checked("app.language.thai") {
+            filmcraft_ui_egui::i18n::Language::Th
         } else if checked("app.language.bosnian") {
             filmcraft_ui_egui::i18n::Language::Bs
         } else if checked("app.language.korean") {

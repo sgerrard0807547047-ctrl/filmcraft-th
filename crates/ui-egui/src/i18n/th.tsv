@@ -1,0 +1,3767 @@
+# Thai (th) interface catalog. context<TAB>English source<TAB>Thai translation
+# Escapes: \n, \t, \\. Keep placeholders and terminal ellipsis unchanged.
+# AI-assisted translations; core editing terminology reviewed. Full human linguistic review pending.
+# Technical formats, product names, language names and keyboard key names retain their spelling.
+	   Angle	   มุม
+	   Blur	   ความเบลอ
+	   Corner Radius	   รัศมีมุม
+	   Distance	   ระยะ
+	   Opacity	   ความทึบ
+	   Size	   ขนาด
+	   Template: {name}	   แม่แบบ: {name}
+	  (none)	  (ไม่มี)
+	 (removed from {list})	 (ถูกลบออกจาก {list})
+	 (unavailable)	 (ไม่สามารถใช้งานได้)
+	 ({ch} output channels)	 ({ch} ช่องส่งออก)
+	 and 	 และ 
+	 frames	 เฟรม
+	 seconds	 วินาที
+	 · {time} left	 · {time} ที่เหลือ
+	% of all commits	% ของคอมมิตทั้งหมด
+	(Custom)	(กำหนดเอง)
+	(Default)	(ค่าเริ่มต้น)
+	(RGB) Gamma	(RGB) ค่ากามมา
+	(RGB) Input Black Level	(RGB) ระดับดำของแหล่งต้นทาง
+	(RGB) Input White Level	(RGB) ระดับขาวของแหล่งต้นทาง
+	(RGB) Output Black Level	(RGB) ระดับดำของแหล่งปลายทาง
+	(RGB) Output White Level	(RGB) ระดับขาวของแหล่งปลายทาง
+	(empty)	(ว่าง)
+	(gap)	(ช่องว่าง)
+	(no audio)	(ไม่มีเสียง)
+	(no clip selected)	(ไม่มีคลิปที่เลือก)
+	(no clips)	(ไม่มีคลิป)
+	(no sequence)	(ไม่มีซีเควนซ์)
+	(no sequences)	(ไม่มีซีเควนซ์)
+	+ Cmd	+ Cmd
+	+ Opt	+ Opt
+	0 fastest, 8 smallest	0 รวดเร็วที่สุด, 8 น้อยที่สุด
+	1 file	1 ไฟล์
+	1 frame ({seconds} s)	1 เฟรม ({seconds} วินาที)
+	1 pass	1 รอบ
+	1/2	1/2
+	10 Bit Black Point	จุดดำ 10 บิต
+	10 Bit White Point	จุดขาว 10 บิต
+	105mm Prime	เลนส์ไพรม์ 105 มม.
+	16 bit	16 บิต
+	16-bit half float, linear	เลขทศนิยมแบบ half float 16 บิต เชิงเส้น
+	2 pass	2 รอบ
+	24 bit	24 บิต
+	29.97 fps Drop-Frame	29.97 เฟรม/วินาที แบบดรอปเฟรม
+	29.97 fps Non Drop-Frame	29.97 เฟรม/วินาที แบบไม่ดรอปเฟรม
+	32 bit	32 บิต
+	32 bit float	32 บิต ฟลอยต์
+	35mm Prime	เลนส์ไพรม์ 35 มม.
+	3D Roll	การหมุน 3 มิติ
+	3D Rotate	การหมุน 3 มิติ
+	3D Spin	การหมุน 3 มิติ
+	3D Spinback	การหมุนกลับ 3 มิติ
+	4-Color Gradient	ไล่ระดับ 4 สี
+	5.1 Media	สื่อ 5.1
+	5.1 Mixdown Type	ชนิดมิกซ์ดาวน์ 5.1
+	5.1 panner (drag the puck; double-click: front centre)	ตัวแพนเสียง 5.1 (ลากจุดควบคุม; ดับเบิลคลิก: กึ่งกลางด้านหน้า)
+	50-300mm Zoom	เลนส์ซูม 50–300 มม.
+	59.94 fps Drop-Frame	59.94 เฟรม/วินาที แบบดรอปเฟรม
+	59.94 fps Non Drop-Frame	59.94 เฟรม/วินาที แบบไม่ดรอปเฟรม
+	A boxed label with a round pointer; move the label and the pointer follows.	ป้ายกล่องมีจุดเล็กรูปวงกลม; ย้ายป้ายและจุดเล็กจะตามมา
+	A clean-room, pure-Rust non-linear video editor. Part of the ArtCraft family.	โปรแกรมตัดต่อวิดีโอแบบไม่เชิงเส้น พัฒนาด้วย Rust ทั้งหมดโดยอิสระ เป็นส่วนหนึ่งของตระกูล ArtCraft
+	A cut sequence with transitions, effects and music	ซีเควนซ์ตัดต่อพร้อมทรานซิชัน เอฟเฟกต์ และเพลง
+	A file dialog is already open	มีหน้าต่างการเลือกไฟล์เปิดอยู่แล้ว
+	A news-style line that crawls in from the right and leaves at the left.	รูปแบบข่าวที่เคลื่อนตัวเข้าจากด้านขวาแล้วออกจากด้านซ้าย
+	A range marker needs a positive duration	มาร์กเกอร์ช่วงต้องมีระยะเวลามากกว่าศูนย์
+	A rounded tag that fits its text, with a status dot.	ป้ายมุมมนที่ปรับขนาดตามข้อความ พร้อมจุดแสดงสถานะ
+	A title on a rounded card with a soft shadow.	ชื่อเรื่องบนการ์ดมุมมนพร้อมเงานุ่ม
+	AAC Audio	เสียง AAC
+	AAC Audio 48 kHz 320 kbps	เสียง AAC 48 kHz 320 kbps
+	AAF Export Settings	ตั้งค่าการส่งออก AAF
+	AAF…	AAF…
+	AIFF	AIFF
+	AIFF 48 kHz 16-bit	AIFF 48 kHz 16 บิต
+	AIFF, stereo 48 kHz 16-bit PCM	AIFF สเตอริโอ 48 kHz PCM 16 บิต
+	APV	APV
+	APV 422-10	APV 422-10
+	APV 422-12	APV 422-12
+	ASC CDL	ASC CDL
+	AV1	AV1
+	AV1 needs a hardware encoder; none was found on this machine, and FilmCraft has no software AV1 encoder yet.	AV1 ต้องใช้ตัวเข้ารหัสฮาร์ดแวร์ แต่ไม่พบในเครื่องนี้ และ FilmCraft ยังไม่มีตัวเข้ารหัส AV1 แบบซอฟต์แวร์
+	About	เกี่ยวกับ
+	About FilmCraft	เกี่ยวกับ FilmCraft
+	Accent Color	สีเน้น
+	Accessible color contrast	ความต่างของสีที่เข้าถึงได้
+	Action Safe Area	พื้นที่ปลอดภัยสำหรับภาพ
+	Action and Title Safe Areas	พื้นที่ปลอดภัยสำหรับภาพและชื่อเรื่อง
+	Action-Safe Margin	ระยะขอบปลอดภัยสำหรับภาพ
+	Action:	การกระทำ:
+	Active	ใช้งานอยู่
+	Active Monitor	จอที่ใช้งาน
+	Adaptive	ปรับอัตโนมัติ
+	Adaptive ({bpp} bits per pixel)	การเข้ารหัสแบบปรับตัว ({bpp} บิตต่อพิกเซล)
+	Add	เพิ่ม
+	Add Audio Submix Track	เพิ่มแทร็กซับมิกซ์เสียง
+	Add Caption at Playhead	เพิ่มคำบรรยายที่หัวอ่าน
+	Add Chapter Marker…	เพิ่มมาร์กเกอร์บท…
+	Add Custom Color	เพิ่มสีเฉพาะ
+	Add Edit	แบ่งคลิป
+	Add Edit to All Tracks	แบ่งคลิปทุกแทร็ก
+	Add Flash Cue Marker…	เพิ่มมาร์กเกอร์คิว Flash…
+	Add Frame Hold	เพิ่มเฟรมค้าง
+	Add Guide	เพิ่มเส้นไกด์
+	Add Guide…	เพิ่มเส้นไกด์…
+	Add Lumetri Color to clip	เพิ่ม Lumetri Color ไปยังคลิป
+	Add Marker	เพิ่มมาร์กเกอร์
+	Add Marker (M)	เพิ่มมาร์กเกอร์ (M)
+	Add New Caption Track…	เพิ่มแทร็กคำบรรยายใหม่…
+	Add Property…	เพิ่มคุณสมบัติ…
+	Add Range Marker	เพิ่มมาร์กเกอร์ช่วง
+	Add Range Marker to In and Out	เพิ่มมาร์กเกอร์ช่วงระหว่างจุดเข้าและจุดออก
+	Add Track	เพิ่มแทร็ก
+	Add Tracks	เพิ่มแทร็ก
+	Add Tracks…	เพิ่มแทร็ก…
+	Add a timecode row	เพิ่มแถวไทม์โค้ด
+	Add and apply	เพิ่มและใช้งาน
+	Add another shortcut	เพิ่มแป้นพิมพ์ลัดอีก
+	Add audio submix tracks	เพิ่มแทร็กซับมิกซ์เสียง
+	Add audio tracks	เพิ่มแทร็กเสียง
+	Add caption at playhead	เพิ่มคำบรรยายที่หัวอ่าน
+	Add captions	เพิ่มคำบรรยาย
+	Add color	เพิ่มสี
+	Add custom color	เพิ่มสีเฉพาะ
+	Add custom color…	เพิ่มสีเฉพาะ…
+	Add keyframe	เพิ่มคีย์เฟรม
+	Add media to your project. Drop files anywhere in the window, or choose a source below.	เพิ่มสื่อลงในโปรเจกต์ ลากไฟล์มาวางที่ใดก็ได้ในหน้าต่าง หรือเลือกแหล่งข้อมูลด้านล่าง
+	Add to Favorites	เพิ่มลงในรายการที่ชื่นชอบ
+	Add to favorites	เพิ่มลงในรายการที่ชื่นชอบ
+	Add tracks automatically when editing source clips onto the Timeline	เพิ่มแทร็กอัตโนมัติเมื่อตัดคลิปแหล่งต้นฉบับลงบนไทม์ไลน์
+	Add video tracks	เพิ่มแทร็กวิดีโอ
+	Add/Remove Keyframe	เพิ่ม/ลบคีย์เฟรม
+	Added to the export queue	ได้รับการเพิ่มเข้าคิวการส่งออก
+	Additional Scale	การขยายเพิ่มเติม
+	Additive Dissolve	ดิสโซลฟ์แบบบวก
+	Additive Dissolve (Legacy)	ดิสโซลฟ์แบบบวก (รุ่นเก่า)
+	Adjust	ปรับแต่ง
+	Adjust Gain by:	ปรับเกนเพิ่ม/ลด:
+	Adjustment Layer…	เลเยอร์ปรับแต่ง…
+	Adjustments	การปรับแต่ง
+	Advanced	ขั้นสูง
+	After {name}	หลัง {name}
+	Aggressive	รุนแรง
+	Align	จัดแนว
+	Align Bottom	จัดตำแหน่งล่าง
+	Align Center Horizontally	จัดตำแหน่งกลางแนวนอน
+	Align Center Vertically	จัดตำแหน่งกลางแนวตั้ง
+	Align Left	จัดตำแหน่งซ้าย
+	Align Right	จัดตำแหน่งขวา
+	Align Timecode	จัดแนวไทม์โค้ด
+	Align Top	จัดตำแหน่งบน
+	Align and Transform	จัดตำแหน่งและเปลี่ยนรูปแบบ
+	Align center	จัดกึ่งกลาง
+	Align left	จัดชิดซ้าย
+	Align right	จัดชิดขวา
+	Align to Grid	จัดตำแหน่งให้สอดคล้องกับกริด
+	Align to Selection	จัดแนวตามส่วนที่เลือก
+	Align to Video Frame	จัดแนวตามเฟรมวิดีโอ
+	Align to Video Frame as Group	จัดแนวเป็นกลุ่มตามเฟรมวิดีโอ
+	Alignment	การจัดตำแหน่ง
+	All	ทั้งหมด
+	All Cameras	ทุกกล้อง
+	All Caps	ทั้งหมดเป็นตัวใหญ่
+	All Categories	ทุกหมวดหมู่
+	All Empty Tracks	แทร็กว่างทั้งหมด
+	All Events	เหตุการณ์ทั้งหมด
+	All Panels	แผงทั้งหมด
+	All lines	ทุกเส้น
+	All markers are hidden by the colour filter.	ตัวกรองสีซ่อนมาร์กเกอร์ทั้งหมดอยู่
+	All media is online.	สื่อทั้งหมดอยู่ในโหมดออนไลน์
+	Allow Duplicate Media During Project Import	อนุญาตสื่อซ้ำขณะนำเข้าโปรเจกต์
+	Allow Selection tool to choose Roll and Ripple trims without modifier key	ให้เครื่องมือเลือกใช้การตัดแต่งแบบโรลและริปเปิลได้โดยไม่ต้องกดปุ่มเสริม
+	Allow current tool to change trim type of previously selected edit point	อนุญาตให้เครื่องมือปัจจุบันเปลี่ยนประเภทการตัดของจุดการตัดที่เลือกไปแล้ว
+	Allow duplicate media during project import	อนุญาตให้สื่อซ้ำกันในช่วงการนำเข้าโปรเจกต์
+	Alpha	อัลฟา
+	Alpha Adjust	การปรับค่าอัลฟ่า
+	Alpha Blurriness	ความเบลอของอัลฟา
+	Alpha Channel	ช่องอัลฟ่า
+	Alpha Glow	แสงอัลฟ่า
+	Always Deinterlace	แปลงเป็นภาพไม่สลับเส้นเสมอ
+	Always import embedded CEA-708 closed captions with wide aspect.	นำเข้าคำบรรยายปิด CEA-708 ที่ฝังไว้ด้วยอัตราส่วนภาพกว้างเสมอ
+	Always override audio tags	แทนที่แท็กเสียงเสมอ
+	Ambience	บรรยากาศ
+	Ambience Intensity	ความเข้มของบรรยากาศ
+	Ambience Light Color	สีแสงของบรรยากาศ
+	Amount	จำนวน
+	Amount of Noise	ปริมาณสัญญาณรบกวน
+	Amount to Decolor	ปริมาณการลดสี
+	Amount to Tint	ปริมาณการใสสี
+	Amplifier	แอมพลิฟายเออร์
+	Amplify	ขยายเสียง
+	Amplitude	แอมพลิจูด
+	Amplitude and Compression	แอมพลิจูดและการบีบอัด
+	An earlier start failed with the default graphics. Updating the graphics driver usually fixes this.	การเริ่มครั้งก่อนล้มเหลวด้วยกราฟิกเริ่มต้น โดยทั่วไปการอัปเดตไดรเวอร์กราฟิกช่วยแก้ปัญหานี้ได้
+	Analog	แบบอนาล็อก
+	Analog Delay	การเลื่อนแบบอนาล็อก
+	Analyze	วิเคราะห์
+	Analyze all imported media to search for visuals or audio	วิเคราะห์สื่อที่นำเข้าทั้งหมดเพื่อค้นหาภาพหรือเสียง
+	Anamorphic	แบบแอนนามอร์ฟิก
+	Anamorphic 2:1 (2.0)	แบบอามอร์ฟิก 2:1 (2.0)
+	Anchor	จุดยึด
+	Anchor Point	จุดยึด
+	Anchor point	จุดยึด
+	Anchor to In Point	ยึดกับจุดเข้า
+	Anchor to Out Point	ยึดกับจุดออก
+	Angle	มุม
+	Animate zoom, scrolling and menus	เคลื่อนไหวการย่อขยาย การเลื่อน และเมนู
+	Animated GIF	GIF แบบเคลื่อนไหว
+	Animated GIF 640×360	GIF แบบเคลื่อนไหว 640×360
+	Animation	การเคลื่อนไหว
+	Anti-aliasing Quality	คุณภาพการลบรอยหยัก
+	Anti-flicker Filter	กรองป้องกันการกระพริบ
+	Antialiasing for Best Quality	ลบรอยหยักเพื่อคุณภาพสูงสุด
+	Any	ใดก็ได้
+	Appearance	ลักษณะที่ปรากฏ
+	Appearance Mode	โหมดรูปลักษณ์
+	Appearance Settings…	ตั้งค่ารูปลักษณ์…
+	Appearance…	รูปลักษณ์…
+	Apple ProRes	Apple ProRes
+	Apple ProRes 422	Apple ProRes 422
+	Apple ProRes 422 HQ	Apple ProRes 422 HQ
+	Apple ProRes 422 LT	Apple ProRes 422 LT
+	Apple ProRes 422 Proxy	Apple ProRes 422 Proxy
+	Apple ProRes 4444	Apple ProRes 4444
+	Apple ProRes 4444 XQ	Apple ProRes 4444 XQ
+	Apple ProRes 4444 with Alpha	Apple ProRes 4444 พร้อมอัลฟ่า
+	Application	แอปพลิเคชัน
+	Application shortcuts work whatever panel has focus	แป้นพิมพ์ลัดของแอปใช้ได้ไม่ว่าจะโฟกัสอยู่ที่แผงใด
+	Apply	นำไปใช้
+	Apply Audio Transition	ใช้ทรานซิชันเสียง
+	Apply Default Audio Transition	ใช้ทรานซิชันเสียงเริ่มต้น
+	Apply Default Transitions	ใช้ทรานซิชันเริ่มต้น
+	Apply Default Transitions to Selection	ใช้ทรานซิชันเริ่มต้นกับส่วนที่เลือก
+	Apply Default Transitions to Selection (Shift+D)	ใช้ทรานซิชันเริ่มต้นกับส่วนที่เลือก (Shift+D)
+	Apply Default Video Transition	ใช้ทรานซิชันวิดีโอเริ่มต้น
+	Apply Guide Template	ใช้แม่แบบเส้นไกด์
+	Apply Match	ใช้การจับคู่สี
+	Apply Video Transition	ใช้ทรานซิชันวิดีโอ
+	Apply a cut at each detected cut point	ตัดที่จุดที่ตรวจพบ
+	Apply to Selected Clips	ใช้กับคลิปที่เลือก
+	Are you sure you want to discard your changes to '{file}'?	แน่ใจหรือไม่ว่าต้องการทิ้งการเปลี่ยนแปลงของ '{file}'?
+	Arrange	จัดเรียง
+	ArtCraft Website	เว็บไซต์ ArtCraft
+	Aspect	สัดส่วน
+	Assembly	ประกอบคลิป
+	Assign an audio type to the selection:	กำหนดประเภทเสียงให้กับการเลือก:
+	Assign {key} to {command}	จัดคีย์ {key} ให้กับ {command}
+	Asymmetry	ความไม่สมมาตร
+	At Startup	ที่เริ่มต้น
+	At Unnumbered Markers	ที่มาร์กเกอร์ไม่มีหมายเลข
+	At playback end, return to beginning when restarting playback	เมื่อสิ้นสุดการเล่น กลับไปยังจุดเริ่มต้นเมื่อเริ่มเล่นใหม่
+	Att	แอทแทค
+	Attach Proxies…	แนบไฟล์พร็อกซี…
+	Attack	แอทแทค
+	Attempt to force hardware to document sample rate	พยายามให้อุปกรณ์ใช้อัตราสุ่มตัวอย่างของเอกสาร
+	Audio	เสียง
+	Audio Attributes	คุณลักษณะเสียง
+	Audio Bitrate	บิตเรตเสียง
+	Audio Channels…	ช่องเสียง…
+	Audio Clip Mixer	มิกเซอร์เสียงคลิป
+	Audio Codec	ตัวแปลงสัญญาณเสียง
+	Audio Duration	ระยะเวลาเสียง
+	Audio Effects	เอฟเฟกต์เสียง
+	Audio File Format:	รูปแบบไฟล์เสียง:
+	Audio Format	รูปแบบเสียง
+	Audio Gain	เกนเสียง
+	Audio Gain…	เกนเสียง…
+	Audio Hardware	ฮาร์ดแวร์เสียง
+	Audio Hardware…	อุปกรณ์เสียง…
+	Audio In	จุดเข้าเสียง
+	Audio In Point	จุดเข้าของเสียง
+	Audio Info	ข้อมูลเสียง
+	Audio Meters	มิเตอร์เสียง
+	Audio Names	ชื่อเสียง
+	Audio Only	เสียงเท่านั้น
+	Audio Options	ตัวเลือกเสียง
+	Audio Out	จุดออกเสียง
+	Audio Out Point	จุดออกของเสียง
+	Audio Previews:	ไฟล์ตัวอย่างเสียง:
+	Audio Samples	ตัวอย่างเสียง
+	Audio Time Units	หน่วยเวลาของเสียง
+	Audio Track Mixer	มิกเซอร์แทร็กเสียง
+	Audio Track Mixer menu	เมนูมิกเซอร์แทร็กเสียง
+	Audio Tracks	แทร็กเสียง
+	Audio Transition Default Duration	ระยะเวลาเริ่มต้นของทรานซิชันเสียง
+	Audio Transitions	ทรานซิชันเสียง
+	Audio Usage	การใช้งานเสียง
+	Audio Waveform	รูปคลื่นเสียง
+	Audio Waveforms	รูปคลื่นเสียง
+	Audio analysis:	การวิเคราะห์เสียง:
+	Audio effects	เอฟเฟกต์เสียง
+	Audio on track {t}	เสียงบนแทร็ก {t}
+	Audio only	เฉพาะเสียง
+	Audio output failed: playing without sound (check Settings > Audio Hardware)	การส่งเสียงล้มเหลว: กำลังเล่นโดยไม่มีเสียง (ตรวจสอบตั้งค่า > อุปกรณ์เสียง)
+	Audio output failed: playing without sound (check Settings ▸ Audio Hardware)	เอาต์พุตเสียงล้มเหลว กำลังเล่นโดยไม่มีเสียง (ตรวจสอบ การตั้งค่า ▸ อุปกรณ์เสียง)
+	Audio output is not responding: playing without sound (check Settings > Audio Hardware)	การส่งเสียงไม่ตอบสนอง: กำลังเล่นโดยไม่มีเสียง (ตรวจสอบตั้งค่า > อุปกรณ์เสียง)
+	Audio output is not responding: playing without sound (check Settings ▸ Audio Hardware)	เอาต์พุตเสียงไม่ตอบสนอง กำลังเล่นโดยไม่มีเสียง (ตรวจสอบ การตั้งค่า ▸ อุปกรณ์เสียง)
+	Audio {n}:	เสียง {n}:
+	Audio:	เสียง:
+	Audio…	เสียง…
+	Author	ผู้เขียน
+	Auto	อัตโนมัติ
+	Auto (system)	อัตโนมัติ (ระบบ)
+	Auto Align	จัดตำแหน่งอัตโนมัติ
+	Auto Bezier	เบซิเออร์อัตโนมัติ
+	Auto Gate	เกตอัตโนมัติ
+	Auto Makeup	เกนเสริมอัตโนมัติ
+	Auto Reframe	จัดเฟรมอัตโนมัติ
+	Auto Save	บันทึกอัตโนมัติ
+	Auto Save Now	บันทึกอัตโนมัติทันที
+	Auto Save also saves the current project(s)	การบันทึกอัตโนมัติจะบันทึกโปรเจกต์ปัจจุบันด้วย
+	Auto Save…	บันทึกอัตโนมัติ…
+	Auto Tone Map Media (HDR and log into SDR)	จัดการการแปลงโทนอัตโนมัติ (HDR และ log ไปยัง SDR)
+	Auto tone map media (HDR and log into SDR)	ปรับโทนสื่ออัตโนมัติ (HDR และ Log เป็น SDR)
+	Auto-Adjust Multi-Camera Playback Quality	ปรับคุณภาพการเล่นหลายกล้องอัตโนมัติ
+	Auto-Match	จับคู่อัตโนมัติ
+	Auto-Match Loudness	จับค่าความดังอัตโนมัติ
+	Auto-saves go to: {dir}	บันทึกอัตโนมัติไปที่: {dir}
+	Auto-tag audio types in the timeline	จัดป้ายอัตโนมัติประเภทเสียงในไทม์ไลน์
+	Auto-transcribe all imported clips	ถอดเสียงทุกคลิปที่นำเข้าอัตโนมัติ
+	Auto-transcribe only clips in sequences	ถอดเสียงเฉพาะคลิปในซีเควนซ์อัตโนมัติ
+	Automatch Time	จับเวลาอัตโนมัติ
+	Automate To Sequence	จัดคลิปลงซีเควนซ์อัตโนมัติ
+	Automate to Sequence	จัดคลิปลงซีเควนซ์อัตโนมัติ
+	Automate to Sequence…	จัดคลิปลงซีเควนซ์อัตโนมัติ…
+	Automatic	อัตโนมัติ
+	Automatic Click Remover	กำจัดเสียงคลิกอัตโนมัติ
+	Automatically Hide Dependent Clips	ซ่อนคลิปที่ขึ้นต่อกันอัตโนมัติ
+	Automatically Save Every	บันทึกโปรเจกต์ทุกๆ
+	Automatically delete cache files older than	ลบไฟล์แคชที่เกินอายุมากกว่า
+	Automatically delete oldest cache files when cache exceeds	ลบแคชไฟล์ที่เก่าที่สุดเมื่อแคชเกิน
+	Automatically refresh growing files	อัปเดตไฟล์ที่เติบโตอัตโนมัติ
+	Automatically resume playback for growing files in Source Monitor	เริ่มต้นการเล่นอัตโนมัติสำหรับไฟล์ที่เติบโตในจอต้นฉบับ
+	Automatically save projects	บันทึกโปรเจกต์อัตโนมัติ
+	Automatically transcribe clips	ถอดเสียงคลิปอัตโนมัติ
+	Automation Keyframe Optimization	การปรับคีย์เฟรมอัตโนมัติ
+	Average Data Rate	อัตราข้อมูลเฉลี่ย
+	Avid DNxHR	Avid DNxHR
+	Avid DNxHR HQ	Avid DNxHR HQ
+	Avid DNxHR LB	Avid DNxHR LB
+	Avid DNxHR SQ	Avid DNxHR SQ
+	Avid Log Exchange	การแลกข้อมูล Avid Log
+	Avid Log Exchange…	Avid Log Exchange…
+	Avid-style OP-Atom: DNxHR HQ picture file plus one 24-bit 48 kHz PCM file per channel (_A1, _A2…)	Avid-style OP-Atom: ไฟล์ภาพ DNxHR HQ พร้อมไฟล์ 24-bit 48 kHz PCM ต่อช่อง (_A1, _A2…)
+	BMP	BMP
+	BMP Sequence	BMP ซีเควนซ์
+	Background	พื้นหลัง
+	Background Color	สีพื้นหลัง
+	Background Corner Radius	รัศมีมุมพื้นหลัง
+	Background Opacity	ความทึบของพื้นหลัง
+	Background Size	ขนาดพื้นหลัง
+	Background fill	เติมพื้นหลัง
+	Balance	สมดุล
+	Balanced Voice	เสียงสมดุล
+	Band 1	ย่าน 1
+	Band 2	ย่าน 2
+	Band 3	ย่าน 3
+	Band 4	ย่าน 4
+	Band 5	ย่าน 5
+	Band Pass	กรองผ่านย่านความถี่
+	Band Slide	เลื่อนเป็นแถบ
+	Band Stop	กรองตัดย่านความถี่
+	Band {n}	ย่าน {n}
+	Bandpass	กรองผ่านย่านความถี่
+	Bar Color	สีแถบ
+	Barn Doors	บาร์น ดอร์
+	Bars and Tone	แถบสีและเสียงทดสอบ
+	Bars and Tone…	แถบสีและเสียงทดสอบ…
+	Baseline	เบสไลน์
+	Baseline Shift	เลื่อนเส้นฐาน
+	Basic	พื้นฐาน
+	Basic 3D	3D พื้นฐาน
+	Basic Correction	การปรับปรุงพื้นฐาน
+	Bass	เบส
+	Before First Track	ก่อนแทร็กแรก
+	Begin Text Editing for a Graphic Layer	เริ่มแก้ไขข้อความในเลเยอร์กราฟิก
+	Begins With	เริ่มต้นด้วย
+	Behind	ด้านหลัง
+	Bessel	เบสซิล
+	Bevel Alpha	อัลฟ่าเบเวล
+	Bevel join	การรวมเบเวล
+	Bezier	เบซิเออร์
+	Bin	ถังสื่อ
+	Bin From Selection	สร้างถังสื่อจากส่วนที่เลือก
+	Bin: {name}	ถังสื่อ: {name}
+	Binary assets added	ไฟล์ไบนารีที่เพิ่ม
+	Binary assets removed	ไฟล์ไบนารีที่เอาออก
+	Binauralizer - Ambisonics	Binauralizer - Ambisonics
+	Bins	ถังสื่อ
+	Bitrate Encoding	โหมดการเข้ารหัสบิตเรต
+	Bits per Sample:	บิตต่อแซมเปิล:
+	Black	ดำ
+	Black & White	ดำและสีขาว
+	Black Input Level	ระดับสัญญาณเข้าสีดำ
+	Black Video…	วิดีโอสีดำ…
+	Black and white	ขาวดำ
+	Black and white with crushed blacks and strong contrast	ดำและสีขาว พร้อมการบีบอัดสีดำและค่าความต่างสูง
+	Blacks	สีดำ
+	Bleach Bypass	บลีชบายพาส
+	Bleach-bypass style: desaturated with hard contrast	สไตล์บลีชบายพาส: ลดความอิ่มสีและเพิ่มคอนทราสต์จัด
+	Blend	ผสม
+	Blend Mode	โหมดการผสม
+	Blend With Original	ผสมกับต้นฉบับ
+	Blending Mode	โหมดการผสม
+	Block Dissolve	การละลายแบบบล็อก
+	Block Height	ความสูงของบล็อก
+	Block Motion	การเคลื่อนไหวของบล็อก
+	Block Size	ขนาดบล็อก
+	Block Width	ความกว้างของบล็อก
+	Blocks	บล็อก
+	Blue	น้ำเงิน
+	Blue Blurriness	ความเบลอสีน้ำเงิน
+	Blue Curve	เส้นโค้งสีน้ำเงิน
+	Blue Offset	การย้ายตำแหน่งสีน้ำเงิน
+	Blue Power	พลังสีน้ำเงิน
+	Blue Slope	ความชันสีน้ำเงิน
+	Blue-Blue	น้ำเงิน-น้ำเงิน
+	Blue-Const	น้ำเงิน-ค่าคงที่
+	Blue-Green	น้ำเงิน-เขียว
+	Blue-Red	น้ำเงิน-แดง
+	Blur	เบลอ
+	Blur & Sharpen	เบลอและเพิ่มความคมชัด
+	Blur Amount	ปริมาณความเบลอ
+	Blur Angle	มุมเบลอ
+	Blur Dimensions	มิติเบลอ
+	Blur Dissolve	ดิสโซลฟ์แบบเบลอ
+	Blur In	เบลอเข้า
+	Blur Layer	เลเยอร์เบลอ
+	Blur Length	ระยะเบลอ
+	Blur Out	เบลอออก
+	Blurriness	ความเบลอ
+	Bokeh Blur	เบลอโบเก้
+	Boost	การเพิ่มขึ้น
+	Boost Vibrance	เพิ่มความสดใส
+	Border	ขอบ
+	Border Color	สีขอบ
+	Border Width	ความกว้างของขอบ
+	Borders	ขอบ
+	Bottom	ล่าง
+	Bottom Center	ด้านล่างตรงกลาง
+	Bottom Left	ด้านล่างซ้าย
+	Bottom Right	ด้านล่างขวา
+	Bounce	สะท้อน
+	Box	กรอบ
+	Box Color	สีของกรอบ
+	Box Opacity	ความทึบของกล่อง
+	Branching	การแยกกัน
+	Breakout to Mono	แยกเป็นโมโน
+	Breakout to mono	แยกเป็นโมโน
+	Bright	สว่าง
+	Bright Air	อากาศที่สว่าง
+	Bright Studio	ห้องสตูดิโอที่สว่าง
+	Brightens inside a feathered circular mask	เพิ่มความสว่างภายในมาสก์รูปวงกลมที่มีการเบลอ
+	Brightness	ความสว่าง
+	Brightness & Contrast	ความสว่างและความต่าง
+	Bring Forward	เลื่อนไปด้านหน้าหนึ่งระดับ
+	Bring to Front	ย้ายไปหน้าสุด
+	British Stack	สแต็กแบบอังกฤษ
+	Broadcast	การส่งสัญญาณสู่ช่องสื่อ
+	Brown	น้ำตาล
+	Browse	ค้นหา
+	Browse files…	เลือกไฟล์…
+	Browse…	เรียกดู…
+	Brush Hardness	ความแข็งของแปรง
+	Brush Opacity	ความทึบของแปรง
+	Brush Position	ตำแหน่งของแปรง
+	Brush Size	ขนาดของแปรง
+	Brush Spacing (secs)	ระยะห่างของแปรง (วินาที)
+	Brush Strokes	รอยแปรง
+	Bubbles	ฟองอากาศ
+	Bulge	ป่อง
+	Bulge Smoother	ความเรียบของส่วนป่อง
+	Bump Height	ความสูงของการยก
+	Burn Alpha	การเผาผลาญอัลฟ่า
+	Burn Captions Into Video	ฝังคำบรรยายลงในวิดีโอ
+	Burn Chroma	การเผาผลาญโครมา
+	Burn Color	การเผาผลาญสี
+	Butt cap	ปลายเส้นแบบตัดตรง
+	Butterworth	บัตเตอร์วอร์ท
+	Button Editor	ตัวจัดปุ่ม
+	Bypass	ข้ามเอฟเฟกต์
+	CBR	CBR
+	CEA-608	CEA-608
+	CEA-708	CEA-708
+	CRF (constant quality)	CRF (คุณภาพคงที่)
+	Cache analysis results for re-use	เก็บผลวิเคราะห์ในแคชเพื่อใช้ซ้ำ
+	Calculate	คำนวณ
+	Callout – Pointer	ข้อความชี้นำ – ชี้ทิศทาง
+	Callout – Tag	ข้อความชี้นำ – ป้าย
+	Callouts	ข้อความชี้นำ
+	Camera 1	กล้อง 1
+	Camera Angle	มุมกล้อง
+	Camera Angle Metadata	เมทาดาทามุมกล้อง
+	Camera Blur	การเบลอของกล้อง
+	Camera Names	ชื่อกล้อง
+	Camera Shake	การสั่นของกล้อง
+	Camera {n} — {name}	กล้อง {n} — {name}
+	Cameras shown in the Multi-Camera view (uncheck to hide).	กล้องที่แสดงในโหมดหลายกล้อง (ยกเลิกเพื่อซ่อน)
+	Cancel	ยกเลิก
+	Cancel Dynamic Trim	ยกเลิกการตัดแต่งแบบไดนามิก
+	Cancel Queued Export	ยกเลิกการส่งออกที่ถูกคิว
+	Cancelled	ยกเลิกแล้ว
+	Cannot open {dir}: {e}	ไม่สามารถเปิด {dir}: {e}
+	Capitalisation	รูปแบบตัวพิมพ์ใหญ่/เล็ก
+	Caption Export Settings	ตั้งค่าการส่งออกคำบรรยาย
+	Caption Tracks	แทร็กคำบรรยาย
+	Caption track options	ตัวเลือกแทร็กคำบรรยาย
+	Captions	คำบรรยาย
+	Captions and Graphics	คำบรรยายและกราฟิก
+	Captions…	คำบรรยาย…
+	Capture	จับภาพ
+	Capture Format:	รูปแบบการจับภาพ:
+	Captured View:	การดูแบบที่ถูกจับ:
+	Captured and Generated:	ถูกจับและสร้าง:
+	Caribbean	ฟ้าแคริบเบียน
+	Case Sensitive	แยกตัวพิมพ์ใหญ่/เล็ก
+	Category:	หมวดหมู่:
+	Cathedral	คาเธดราล
+	Cell Pattern	รูปแบบเซลล์
+	Center	กึ่งกลาง
+	Center Align Text	จัดตำแหน่งข้อความกลาง
+	Center Channel Pan	แพนช่องกลาง
+	Center Gradient	ไล่ระดับจากกึ่งกลาง
+	Center Horizontally	จัดกึ่งกลางแนวนอน
+	Center Input	ช่องนำเข้ากลาง
+	Center Left	กลางซ้าย
+	Center Out	ช่องส่งออกกลาง
+	Center Point (Latitude)	จุดกึ่งกลาง (ละติจูด)
+	Center Point (Longitude)	จุดกึ่งกลาง (ลองจิจูด)
+	Center Right	กลางขวา
+	Center Split	การแบ่งกลาง
+	Center Vertically	จัดกึ่งกลางแนวตั้ง
+	Center align text	จัดตำแหน่งกลางข้อความ
+	Center at Cut	จุดตัดกลาง
+	Center of Sphere	จุดศูนย์กลางของทรงกลม
+	Centred credits that roll up from below the frame and leave at the top.	เครดิตจัดกึ่งกลาง เลื่อนจากใต้เฟรมขึ้นไปออกด้านบน
+	Cents	เซนต์
+	Cerulean	ฟ้าเซรูเลียน
+	Ch. {n}	ช่อง {n}
+	Change Mask	เปลี่ยนมาสก์
+	Change Sequence Settings	เปลี่ยนการตั้งค่าซีเควนซ์
+	Change the sequence to match the clip's settings?	เปลี่ยนซีเควนซ์ให้ตรงกับการตั้งค่าของคลิปหรือไม่?
+	Change to Color	เปลี่ยนเป็นสี
+	Changes are copied in the background a moment after each edit. If FilmCraft quits unexpectedly, they are offered the next time it starts.	การเปลี่ยนแปลงจะถูกคัดลอกในพื้นหลัง ไม่กี่วินาทีหลังการตัด ถ้า FilmCraft ปิดลงโดยไม่คาดคิด การเปลี่ยนแปลงเหล่านั้นจะถูกนำเสนออีกครั้งเมื่อเปิดโปรแกรมใหม่
+	Channel	ช่อง
+	Channel Blur	การเบลอช่อง
+	Channel Format:	รูปแบบช่อง:
+	Channel Mix	การผสมช่อง
+	Channel Mixer	เครื่องผสมช่อง
+	Channel Volume	ระดับเสียงช่อง
+	Channel {n}	ช่อง {n}
+	Channels	ช่อง
+	Chaos	ความสุ่ม
+	Chapter	บท
+	Chapter Marker	มาร์กเกอร์บท
+	Chebyshev	เชบิสเฮฟฟ์
+	Check for Updates…	ตรวจสอบอัปเดต…
+	Checker Wipe	การลบแบบเช็คเกอร์
+	Checkerboard	รูปแบบเช็คเกอร์
+	Checking for updates…	กำลังตรวจสอบอัปเดต…
+	Chinese	จีน
+	Choke	การยุบ
+	Choose Color…	เลือกสี…
+	Choose color with system picker	เลือกสีด้วยเครื่องมือเลือกของระบบ
+	Chorus	โครัส
+	Chorus/Flanger	โครัส/ฟลังเกอร์
+	Chroma	โครมา
+	Chroma Leak	การรั่วของสี
+	Chromatic Aberration (Blue)	การเบี่ยงเบนสี (น้ำเงิน)
+	Chromatic Aberration (Green)	การเบี่ยงเบนสี (เขียว)
+	Chromatic Aberration (Red)	การเบี่ยงเบนสี (แดง)
+	Cinematic	ภาพยนตร์
+	Cineon Converter	ตัวแปลง Cineon
+	Circle	วงกลม
+	Clamp Signal	จำกัดสัญญาณ
+	Clarity	ความชัดเจน
+	Clean Combo	ชุดการปรับแต่ง
+	Clean Up Noisy Dialogue	ลดเสียงรบกวนในบทสนทนา
+	Clear	ล้าง
+	Clear (Delete)	ล้าง (ลบ)
+	Clear All	ล้างทั้งหมด
+	Clear All Events	ล้างเหตุการณ์ทั้งหมด
+	Clear Audio Type	ล้างประเภทเสียง
+	Clear Edit Point Selection	ล้างการเลือกจุดตัด
+	Clear Finished	ล้างรายการที่เสร็จสิ้น
+	Clear Finished Exports	ล้างการส่งออกที่เสร็จสิ้น
+	Clear Guides	ล้างเส้นไกด์
+	Clear History	ล้างประวัติการกระทำ
+	Clear In	ล้างจุดเข้า
+	Clear In and Out	ล้างจุดเข้าและจุดออก
+	Clear Markers	ล้างมาร์กเกอร์
+	Clear Muddiness	ลดความอู้อี้
+	Clear Out	ล้างจุดออก
+	Clear Poster Frame	ล้างเฟรมภาพตัวแทน
+	Clear Recent Directories	ล้างโฟลเดอร์ล่าสุด
+	Clear Recent Files	ล้างรายการไฟล์ล่าสุด
+	Clear Selected Marker	ล้างมาร์กเกอร์ที่เลือก
+	Clear Transition	ลบทรานซิชัน
+	Cleared {n} shortcut(s) of {command}	ลบแป้นพิมพ์ลัด {n} รายการของ {command}
+	Click a command's Shortcut cell and press keys to assign it; + adds another shortcut.	คลิกเซลล์แป้นพิมพ์ลัดของคำสั่งแล้วกดคีย์เพื่อจัดให้; + เพิ่มแป้นพิมพ์ลัดอีก
+	Click a key on the keyboard to see its shortcuts	คลิกคีย์บนแป้นพิมพ์เพื่อดูแป้นพิมพ์ลัด
+	Click in the Program monitor to place mask points (drag for curves); click the first point or press Enter to close	คลิกในจอโปรแกรมเพื่อวางจุดมาสก์ (ดึงเพื่อสร้างเส้นโค้ง); คลิกจุดแรก หรือกด Enter เพื่อปิด
+	Click to select all clips to the left in all tracks. Shift-click for a single track.	คลิกเพื่อเลือกคลิปทางซ้ายทั้งหมดในทุกแทร็ก กด Shift แล้วคลิกเพื่อเลือกเฉพาะแทร็กเดียว
+	Click to select all clips to the right in all tracks. Shift-click for a single track.	คลิกเพื่อเลือกคลิปทางขวาทั้งหมดในทุกแทร็ก กด Shift แล้วคลิกเพื่อเลือกเฉพาะแทร็กเดียว
+	Click to select, or click in empty space and drag to marquee select. Use Shift, Alt, and Ctrl for other options.	คลิกเพื่อเลือก หรือคลิกในพื้นที่ว่างแล้วดึงเพื่อเลือกแบบช่องสี่ ใช้ Shift, Alt และ Ctrl สำหรับตัวเลือกอื่น ๆ
+	Click to select, or click in empty space and drag to marquee select. Use Shift, Opt, and Cmd for other options.	คลิกเพื่อเลือก หรือคลิกในพื้นที่ว่างแล้วลากเพื่อเลือกช่วง ใช้ Shift, Opt และ Cmd สำหรับตัวเลือกอื่น
+	Click to split a clip. Shift-click to split all tracks.	คลิกเพื่อแยกคลิป กด Shift แล้วคลิกเพื่อแยกทุกแทร็ก
+	Click to zoom in; Alt-click to zoom out.	คลิกเพื่อขยาย คลิกด้วย Alt เพื่อหดเล็กลง
+	Click to zoom in; Opt-click to zoom out.	คลิกเพื่อขยาย กด Opt แล้วคลิกเพื่อย่อ
+	Client	ลูกค้า
+	Clip	คลิป
+	Clip Channel Format:	รูปแบบช่องของคลิป:
+	Clip Fx Editor	ตัวแก้ไขเอฟเฟกต์คลิป
+	Clip ID (fingerprint)	รหัสคลิป (ลายนิ้วมือไฟล์)
+	Clip Keyframes	คีย์เฟรมคลิป
+	Clip Level	ระดับคลิป
+	Clip Marker	มาร์กเกอร์คลิป
+	Clip Mismatch Warning	คำเตือนการตั้งค่าคลิปไม่ตรงกัน
+	Clip Name	ชื่อคลิป
+	Clip Name:	ชื่อคลิป:
+	Clip Names	ชื่อคลิป
+	Clip Names and Markers	ชื่อคลิปและมาร์กเกอร์
+	Clip Overlap:	การซ้อนทับของคลิป:
+	Clip Size	ขนาดคลิป
+	Clip Speed / Duration	ความเร็วของคลิป / ระยะเวลา
+	Clip Volume	ระดับเสียงของคลิป
+	Clip {n}	คลิป {n}
+	Clip: {name}	คลิป: {name}
+	Clip: {settings}	คลิป: {settings}
+	Clipping	การตัดกันของสัญญาณ
+	Clips	คลิป
+	Clock Wipe	กวาดแบบเข็มนาฬิกา
+	Clock Wipe (Legacy)	กวาดแบบเข็มนาฬิกา (รุ่นเก่า)
+	Clockwise	ตามเข็มนาฬิกา
+	Clone	การคัดลอก
+	Close	ปิด
+	Close All	ปิดทั้งหมด
+	Close All Other Projects	ปิดโปรเจกต์อื่นทั้งหมด
+	Close All Projects	ปิดทุกโปรเจกต์
+	Close Bin	ปิดถังสื่อ
+	Close Gap	ปิดช่องว่าง
+	Close Other Timeline Panels	ปิดแผงไทม์ไลน์อื่น
+	Close Panel	ปิดแผง
+	Close Project	ปิดโปรเจกต์
+	Close Sequence	ปิดซีเควนซ์
+	Closed Captions	คำบรรยายปิด
+	Codec:	ตัวแปลงสัญญาณ:
+	Codec: {codec}	ตัวแปลงสัญญาณ: {codec}
+	Cold Mono	ขาวดำโทนเย็น
+	Collect Files and Copy to New Location	รวบรวมไฟล์และคัดลอกไปยังตำแหน่งใหม่
+	Color	สี
+	Color & Alpha	สีและอัลฟ่า
+	Color 1	สี 1
+	Color 2	สี 2
+	Color 3	สี 3
+	Color 4	สี 4
+	Color Balance	การสมดุลสี
+	Color Burn	เบิร์นสี
+	Color Channel	ช่องสี
+	Color Correction	การปรับสี
+	Color Distortion	การเบี่ยงเบนสี
+	Color Dodge	ดอดจ์สี
+	Color Emboss	ปั๊มนูนสี
+	Color Key	การตัดสี
+	Color Management	การจัดการสี
+	Color Management · {n} item	การจัดการสี · {n} รายการ
+	Color Management · {n} items	การจัดการสี · {n} รายการ
+	Color Management…	การจัดการสี…
+	Color Match	จับคู่สี
+	Color Matte Color	สีของพื้นสี
+	Color Matte…	พื้นสี…
+	Color Pass	การส่งผ่านสี
+	Color Replace	การแทนที่สี
+	Color Space	ปริภูมิสี
+	Color Theme	ธีมสี
+	Color To Leave	สีที่เหลือ
+	Color Tolerance	ความคลาดเคลื่อนของสี
+	Color Wheels & Match	วงล้อสีและการจับคู่
+	Color picker	เครื่องมือเลือกสี
+	Color selected markers	กำหนดสีมาร์กเกอร์ที่เลือก
+	Color/Black	สี/ดำ
+	Color/Gray	สี/เทา
+	Color:	สี:
+	Colorize	การเปลี่ยนสี
+	Color…	สี…
+	Colour	สี
+	Colour Space	ปริภูมิสี
+	Column order	ลำดับคอลัมน์
+	Columns	คอลัมน์
+	Command	คำสั่ง
+	Commands:	คำสั่ง:
+	Comment	ความคิดเห็น
+	Comment Marker	มาร์กเกอร์หมายเหตุ
+	Comments:	หมายเหตุ:
+	Commits	คอมมิต
+	Community	ชุมชน
+	Company	บริษัท
+	Comparison	เปรียบเทียบ
+	Comparison View	มุมมองเปรียบเทียบ
+	Complexity	ความซับซ้อน
+	Composite	รวม
+	Composite In Back	รวมภาพด้านหลัง
+	Composite In Front	รวมภาพด้านหน้า
+	Composite Using	รวมภาพด้วยการใช้
+	Composite Video	วิดีโอผสม
+	Composite in Linear Color	รวมภาพในโหมดแสงเชิงเส้น
+	Composite on Original	รวมภาพบนต้นฉบับ
+	Composite on the GPU when available	รวมภาพประกอบบน GPU ถ้ามี
+	Compound Blur	การเบลอแบบรวม
+	Compression	การบีบอัด
+	Compression Before Clipping	การบีบอัดก่อนตัด
+	Compression Level	ระดับการบีบอัด
+	Compressor	คอมเพรสเซอร์
+	Configure…	ตั้งค่า…
+	Conflict: {key} is assigned to {commands} ({ctx})	ขัดแย้ง: {key} ถูกจัดให้กับ {commands} ({ctx})
+	Consolidate Duplicates	รวมรายการซ้ำ
+	Consolidate and Transcode	รวมและแปลงรูปแบบ
+	Constant Gain	การเพิ่มเกนคงที่
+	Constant Power	พลังคงที่
+	Containers	คอนเทนเนอร์
+	Contains	มีอยู่ใน
+	Contains:	มีข้อมูล:
+	Continue	ดำเนินการต่อ
+	Continuous	ต่อเนื่อง
+	Continuous Bezier	เบซิเออร์ต่อเนื่อง
+	Contrast	ความเปรียบต่าง
+	Contributors	ผู้ร่วมพัฒนา
+	Conversion Type	ประเภทการแปลง
+	Convert to Master Clip	แปลงเป็นคลิปหลัก
+	Convolution Reverb	รีเวอร์แบบคอนวอเลชัน
+	Cool Blue	สีฟ้าเย็น
+	Cool, desaturated and punchy	โทนเย็น ลดความอิ่มสี และคอนทราสต์จัด
+	Copy	คัดลอก
+	Copy Paste Includes Sequence Markers	คัดลอกและวางพร้อมมาร์กเกอร์ซีเควนซ์
+	Copy and Create Proxies	คัดลอกและสร้างพร็อกซี
+	Copy of the project saved to {path}	บันทึกสำเนาโปรเจกต์ไปที่ {path} แล้ว
+	Copyright	ลิขสิทธิ์
+	Core Width	ความกว้างหลัก
+	Corner	มุม
+	Corner Pin	การจับมุม
+	Corner Radius	รัศมีมุม
+	Correction	การแก้ไข
+	Could not check for updates:\n{error}	ไม่สามารถตรวจสอบอัปเดตได้:\n{error}
+	Couldn't open your web browser	ไม่สามารถเปิดเบราว์เซอร์ของคุณได้
+	Count	จำนวน
+	Countdown Sound Cues	เสียงสัญญาณนับถอยหลัง
+	Counter-clockwise	ทวนเข็มนาฬิกา
+	Crash Recovery	กู้คืนหลังโปรแกรมขัดข้อง
+	Crawl Left	เคลื่อนซ้าย
+	Crawl Right	เคลื่อนขวา
+	Create 4-point polygon mask	สร้างมาสก์รูปหลายเหลี่ยม 4 จุด
+	Create Captions from Transcript…	สร้างคำบรรยายจากข้อความถอดเสียง…
+	Create Folder For Imported Projects	สร้างโฟลเดอร์สำหรับโปรเจกต์ที่นำเข้า
+	Create Multi-Camera Source Sequence	สร้างซีเควนซ์ต้นฉบับหลายกล้อง
+	Create Multi-Camera Source Sequence…	สร้างซีเควนซ์ต้นฉบับหลายกล้อง…
+	Create Proxies	สร้างพร็อกซี
+	Create Proxies…	สร้างไฟล์พร็อกซี…
+	Create Search Bin	สร้างถังค้นหา
+	Create Sidecar File	สร้างไฟล์คำบรรยายแยก
+	Create a bin of subclips from each detected cut point	สร้างถังสื่อของคลิปย่อยจากแต่ละจุดตัดที่ตรวจพบ
+	Create a caption track or import a caption file.	สร้างแทร็กคำบรรยายหรือนำเข้าไฟล์คำบรรยาย
+	Create a clip marker at each detected cut point	สร้างมาร์กเกอร์คลิปที่รอยตัดแต่ละจุดที่ตรวจพบ
+	Create captions	สร้างคำบรรยาย
+	Create ellipse mask	สร้างมาสก์วงรี
+	Create folder for imported projects	สร้างโฟลเดอร์สำหรับโปรเจกต์ที่นำเข้า
+	Create new caption track	สร้างแทร็กคำบรรยายใหม่
+	Create new graphic	สร้างกราฟิกใหม่
+	Creating {n} proxy file(s)…	กำลังสร้างไฟล์พร็อกซี {n}…
+	Creative	ด้านสร้างสรรค์
+	Creator	โปรแกรมที่สร้าง
+	Credits	เครดิต
+	Crop	ครอบตัด
+	Crop Less <-> Smooth More	ตัดส่วนน้อย <-> ทำให้เรียบมากขึ้น
+	Cross Displacement	การย้ายข้าม
+	Cross Dissolve	ครอสดิสโซลฟ์
+	Cross Dissolve (Legacy)	ครอสดิสโซลฟ์ (รุ่นเก่า)
+	Cross Processed	กระบวนการผสม
+	Cross Zoom	ครอสซูม
+	Cross Zoom (Legacy)	ครอสซูม (รุ่นเก่า)
+	Crossfade	ครอสเฟด
+	Crossovers	จุดแบ่งย่านความถี่
+	Crystallize	ผลึก
+	Crystals	คริสตัล
+	Cube Spin	การหมุนลูกบาศก์
+	Curl Radius	รัศมีการหักเห
+	Current Time	เวลาปัจจุบัน
+	Current duration {seconds} s	ระยะเวลาปัจจุบัน {seconds} วินาที
+	Currently: {loc} — {files} file(s), {size}	ปัจจุบัน: {loc} — {files} ไฟล์, {size}
+	Cursor	จุดที่ชี้
+	Curvature	ความโค้ง
+	Curve	เส้นโค้ง
+	Curves	เส้นโค้ง
+	Custom	กำหนดเอง
+	Custom ({n} points)	กำหนดเอง ({n} จุด)
+	Custom ({ratio})	แบบกำหนดเอง ({ratio})
+	Custom Color	สีเฉพาะ
+	Custom Color…	สีเฉพาะ…
+	Custom Setup	การตั้งค่าเฉพาะตัว
+	Custom Start	เริ่มต้นแบบกำหนดเอง
+	Cut	ตัด
+	Cut to Camera 1	ตัดไปยังกล้อง 1
+	Cut to Camera 2	ตัดไปยังกล้อง 2
+	Cut to Camera 3	ตัดไปยังกล้อง 3
+	Cut to Camera 4	ตัดไปยังกล้อง 4
+	Cut to Camera 5	ตัดไปยังกล้อง 5
+	Cut to Camera 6	ตัดไปยังกล้อง 6
+	Cut to Camera 7	ตัดไปยังกล้อง 7
+	Cut to Camera 8	ตัดไปยังกล้อง 8
+	Cut to Camera 9	ตัดไปยังกล้อง 9
+	Cutoff	จุดตัด
+	Cyan-teal shadows and warm highlights with a little more contrast	เงาโทนฟ้าเขียวและส่วนสว่างโทนอุ่น พร้อมเพิ่มคอนทราสต์เล็กน้อย
+	Cycle (in Revolutions)	การหมุน (ในรอบ)
+	Cycle Evolution	การพัฒนาการหมุน
+	D1/DV NTSC (0.9091)	D1/DV NTSC (0.9091)
+	D1/DV PAL (1.0940)	D1/DV PAL (1.0940)
+	DPX	DPX
+	DPX Sequence	ลำดับ DPX
+	DVCPRO HD (1.5)	DVCPRO HD (1.5)
+	Damping	การหน่วง
+	Damping HF	การหน่วงความถี่สูง
+	Damping LF	การหน่วงความถี่ต่ำ
+	Dark	มืด
+	Dark Theme	ธีมเข้ม
+	Darken	ทำให้เข้มขึ้น
+	Darkens outside a feathered oval mask	ทำให้บริเวณนอกมาสก์วงรีขอบฟุ้งมืดลง
+	Darker Color	สีที่เข้มขึ้น
+	Darkest	มืดที่สุด
+	Date Created	วันที่สร้าง
+	Date Modified	วันที่แก้ไข
+	Day for night: darker, cooler and less saturated	จำลองกลางคืนจากกลางวัน: มืดลง โทนเย็นขึ้น และลดความอิ่มสี
+	DeEss	ลดเสียงเสียดแหลม
+	DeEsser	ลดเสียงเสียดแหลม
+	DeHum	ลดเสียงฮัม
+	DeHummer	ลดเสียงฮัม
+	DeNoise	ลดเสียงรบกวน
+	DeReverb	ลดเสียงสะท้อน
+	Decay	การลดลง
+	Decay Time (RT60)	เวลาการลดลง (RT60)
+	Decoded frames held for the monitors and thumbnails: {used} of {budget}.	เฟรมที่ถอดรหัสที่ถูกเก็บไว้สำหรับจอแสดงผลและภาพตัวอย่าง: {used} จาก {budget}.
+	Decoders	ดีโคเดอร์
+	Decrease Audio Tracks Height	ลดความสูงของแทร็กเสียง
+	Decrease Clip Volume	ลดระดับเสียงคลิป
+	Decrease Clip Volume Many	ลดระดับเสียงคลิปมาก
+	Decrease Font Size by Five Units	ลดขนาดฟอนต์ลง 5 หน่วย
+	Decrease Font Size by One Unit	ลดขนาดฟอนต์ลง 1 หน่วย
+	Decrease Leading by Five Units	ลดระยะห่าง (leading) ลง 5 หน่วย
+	Decrease Leading by One Unit	ลดระยะห่าง (leading) ลง 1 หน่วย
+	Decrease Video Tracks Height	ลดความสูงของแทร็กวิดีโอ
+	Default	ค่าเริ่มต้น
+	Default Audio Tracks	แทร็กเสียงเริ่มต้น
+	Default Emoji font	ฟอนต์อีโมจิเริ่มต้น
+	Default Input	อินพุตเริ่มต้น
+	Default Media Scaling	การปรับขนาดสื่อเริ่มต้น
+	Default Output	การส่งออกเริ่มต้น
+	Default clip size:	ขนาดคลิปเริ่มต้น:
+	Default closed caption font	ฟอนต์คำบรรยายปิดเริ่มต้น
+	Default language	ภาษาเริ่มต้น
+	Default location	ตำแหน่งเริ่มต้น
+	Default paragraph direction	ทิศทางของข้อความเริ่มต้น
+	Default subtitle and text font	ฟอนต์คำบรรยายและข้อความเริ่มต้น
+	Delay	ดีเลย์
+	Delay 1	ดีเลย์ 1
+	Delay 2	ดีเลย์ 2
+	Delay 3	ดีเลย์ 3
+	Delay 4	ดีเลย์ 4
+	Delay and Echo	ดีเลย์และเอคโค
+	Delete	ลบ
+	Delete Arrangement	ลบการจัดเรียง
+	Delete Audio Tracks	ลบแทร็กเสียง
+	Delete Caption Track	ลบแทร็กคำบรรยาย
+	Delete Caption Tracks	ลบแทร็กคำบรรยาย
+	Delete Captions	ลบคำบรรยาย
+	Delete Clips	ลบคลิป
+	Delete Empty Caption Tracks	ลบแทร็กคำบรรยายที่ว่าง
+	Delete Graphic Layer	ลบเลเยอร์กราฟิก
+	Delete Guide Template	ลบแม่แบบเส้นไกด์
+	Delete Layer	ลบเลเยอร์
+	Delete Marker	ลบมาร์กเกอร์
+	Delete Markers	ลบมาร์กเกอร์
+	Delete Mask	ลบมาสก์
+	Delete Media Cache Files	ลบไฟล์แคชสื่อ
+	Delete Preset	ลบค่าที่ตั้งไว้
+	Delete Redoable Actions	ลบการกระทำที่สามารถทำซ้ำได้
+	Delete Render Files	ลบไฟล์เรนเดอร์
+	Delete Render Files In to Out	ลบไฟล์เรนเดอร์ระหว่างจุดเข้าและจุดออก
+	Delete Search Bin	ลบถังค้นหา
+	Delete Track	ลบแทร็ก
+	Delete Tracks	ลบแทร็ก
+	Delete Tracks…	ลบแทร็ก…
+	Delete Transcript	ลบข้อความถอดเสียง
+	Delete Video Tracks	ลบแทร็กวิดีโอ
+	Delete files older than	ลบไฟล์ที่เกินอายุ
+	Delete oldest files when the cache exceeds	ลบไฟล์เก่าสุดเมื่อแคชเกิน
+	Delete selected captions	ลบคำบรรยายที่เลือก
+	Delete selected markers	ลบมาร์กเกอร์ที่เลือก
+	Delete the dimmed actions after the current state? They cannot be redone.	ลบการกระทำที่มีสีเทาหลังจากสถานะปัจจุบัน? ไม่สามารถทำซ้ำได้
+	Delete this preset	ลบค่าตั้งต้นนี้
+	Deleted preset “{active}”	ลบค่าที่ตั้งไว้ “{active}”
+	Deleted {n} file(s), {size}.	ลบไฟล์ {n} ไฟล์, {size}.
+	Delete…	ลบ…
+	Demo Footage	ฟุตเทจสาธิต
+	Demo Project	โปรเจกต์สาธิต
+	Demo footage	ฟุตเทจสาธิต
+	Demo project	โปรเจกต์สาธิต
+	Denoise	ลดสัญญาณรบกวน
+	Depth	ความลึก
+	Desaturate	ลดความอิ่มสี
+	Descending	เรียงจากมากไปน้อย
+	Description	คำอธิบาย
+	Description:	คำอธิบาย:
+	Deselect All	ยกเลิกการเลือกทั้งหมด
+	Deselect All Project Items	ยกเลิกการเลือกทุกชิ้นของโปรเจกต์
+	Destination	จุดหมายปลายทาง
+	Destination Path	เส้นทางจุดหมาย
+	Destination:	จุดหมาย:
+	Destinations	จุดหมาย
+	Detach Proxies	ถอดไฟล์พร็อกซี
+	Detail Amplitude	ความเข้มรายละเอียด
+	Detail Level	ระดับรายละเอียด
+	Detailed Analysis	การวิเคราะห์รายละเอียด
+	Details: {path}	รายละเอียด: {path}
+	Device Class	คลาสของอุปกรณ์
+	Dialogue	การพูด
+	Diamond	สี่เหลี่ยมข้าวหลามตัด
+	Difference	ความแตกต่าง
+	Dimensions	มิติ
+	Dimmed	หรี่แสง
+	Dip to Black	เฟดผ่านสีดำ
+	Dip to Black (Legacy)	เฟดผ่านสีดำ (รุ่นเก่า)
+	Dip to Color	เฟดผ่านสี
+	Dip to White	เฟดผ่านสีขาว
+	Dip to White (Legacy)	เฟดผ่านสีขาว (รุ่นเก่า)
+	DirectX 12 only	รองรับเฉพาะ DirectX 12
+	Direction	ทิศทาง
+	Directional	มีทิศทาง
+	Directional Blur	การเบลอตามทิศทาง
+	Directional Blur (Legacy)	การเบลอตามทิศทาง (แบบเก่า)
+	Disable video output when in the background	ปิดการส่งสัญญาณวิดีโอเมื่ออยู่ในพื้นหลัง
+	Disabled clips	คลิปที่ปิด
+	Discard	ละทิ้ง
+	Discard Unsaved Changes	ยกเลิกการเปลี่ยนแปลงที่ยังไม่เก็บรักษา
+	Discard take	ทิ้งเทคที่บันทึก
+	Disk space: original {original} · resulting {result} ({n} files)	พื้นที่จัดเก็บ: ต้นฉบับ {original} · ผลลัพธ์ {result} ({n} ไฟล์)
+	Disk space: —	พื้นที่จัดเก็บ: —
+	Disperse	กระจาย
+	Displacement	การย้ายตำแหน่ง
+	Display Color Management	การจัดการสีบนหน้าจอ
+	Display Color Settings	การตั้งค่าสีบนหน้าจอ
+	Display Format:	รูปแบบการแสดงผล:
+	Display Mode	โหมดแสดงผล
+	Display name	ชื่อที่แสดง
+	Display out of sync indicators for unlinked clips	แสดงตัวชี้วัดการไม่สอดคล้องสำหรับคลิปที่ไม่เชื่อมโยง
+	Dissolve	ดิสโซลฟ์
+	Dissolve Blocks	ดิสโซลฟ์เป็นบล็อก
+	Distance	ระยะทาง
+	Distance to Image	ระยะห่างจากภาพ
+	Distort	การบิดเบือน
+	Distortion	การเบี่ยงเบน
+	Distortion Complexity	ความซับซ้อนของการเบี่ยงเบน
+	Distortion Rate	อัตราการเบี่ยงเบน
+	Distortion Type	ประเภทการเบี่ยงเบน
+	Distribute	กระจาย
+	Distribute Horizontally	กระจายแนวนอน
+	Distribute Space Horizontally	กระจายช่องว่างแนวนอน
+	Distribute Space Vertically	กระจายช่องว่างแนวตั้ง
+	Distribute Vertically	กระจายแนวตั้ง
+	Divide	แบ่ง
+	Do not delete cache files automatically	ไม่ลบไฟล์แคชอัตโนมัติ
+	Dock Panel	ยึดแผง
+	Docking Action	การจัดแผง
+	Does Not Contain	ไม่ประกอบด้วย
+	Don't Save	ไม่บันทึก
+	Don't label speakers	ไม่ป้ายชื่อผู้พูด
+	Done	เสร็จสิ้น
+	Dot Color	สีของจุด
+	Double-click	ดับเบิลคลิก
+	Double-click a sequence in the Project panel to open it here.	คลิกสองครั้งที่ซีเควนซ์ในแผงโปรเจกต์เพื่อเปิดในที่นี่
+	Download Speech Model	ดาวน์โหลดโมเดลการพูด
+	Draft decoding at reduced playback resolution (H.264: faster, some frames less filtered)	การถอดรหัสแบบเบื้องต้นที่ความละเอียดการเล่นต่ำ (H.264: เร็วขึ้น แต่เฟรมบางส่วนมีการกรองน้อยลง)
+	Drag a clip to slide it between its neighbours.	ลากคลิปเพื่อเลื่อนแบบสไลด์ระหว่างคลิปข้างเคียง
+	Drag a clip to slip its source in/out without moving it.	ลากคลิปเพื่อเลื่อนจุดเข้า/ออกของต้นฉบับแบบสลิป โดยไม่ย้ายตำแหน่งคลิป
+	Drag an edge to change the clip's speed so it fills the new duration.	ลากขอบเพื่อเปลี่ยนความเร็วคลิปให้เต็มระยะเวลาใหม่
+	Drag an edit point to ripple trim; later clips move to keep the gap closed.	ลากรอยตัดเพื่อตัดแต่งแบบริปเปิล คลิปที่ตามมาจะเลื่อนเพื่อไม่ให้เกิดช่องว่าง
+	Drag an edit point to roll it: the out of one clip and the in of the next move together.	ลากรอยตัดเพื่อปรับแบบโรล โดยจุดออกของคลิปหนึ่งและจุดเข้าของคลิปถัดไปจะเลื่อนพร้อมกัน
+	Drag inward to round the corners	ดึงเข้าไปเพื่อทำให้มุมเรียบ
+	Drag the edge of a music clip to remix it to the new duration at musically matching beats.	ลากขอบคลิปเพลงเพื่อรีมิกซ์ให้ได้ระยะเวลาใหม่ โดยต่อจังหวะเพลงให้เข้ากัน
+	Drag to scroll the timeline.	ลากเพื่อเลื่อนไทม์ไลน์
+	Drag: move · Alt-click: smooth/corner · Cmd-click: delete	ดึง: ย้าย · คลิกด้วย Alt: ทำให้เรียบ/มุม · คลิกด้วย Cmd: ลบ
+	Drag: move · Alt-click: smooth/corner · Ctrl-click: delete	ดึง: ย้าย · คลิกด้วย Alt: ทำให้เรียบ/มุม · คลิกด้วย Ctrl: ลบ
+	Drive	ขับ
+	Drop Shadow	เงาทอด
+	Drop media here to create sequence.	วางสื่อที่นี่เพื่อสร้างซีเควนซ์
+	Dry	ส่วนที่ไม่มีการปรับ
+	Dry Out	ส่วนที่ไม่มีการปรับ (ออก)
+	Dry Up a Roomy Voice	ลดเสียงก้องของห้องในเสียงพูด
+	Duck Deep Under Dialogue	ลดเสียงลงมากขณะมีบทสนทนา
+	Duck Under Dialogue	ลดเสียงขณะมีบทสนทนา
+	Duck Under Voice and Effects	ลดเสียงขณะมีเสียงพูดและเอฟเฟกต์
+	Duck against:	ลดเสียงเมื่อมี:
+	Ducking	การลดเสียง
+	Duplicate	ทำสำเนา
+	Duration	ระยะเวลา
+	Duration (frames):	ระยะเวลา (เฟรม):
+	Duration:	ระยะเวลา:
+	Duration: {tc}	ระยะเวลา: {tc}
+	Dutch	ดัตช์
+	Dynamic Audio Waveforms	รูปคลื่นเสียงแบบไดนามิก
+	Dynamic Link	การเชื่อมโยงแบบดินามิก
+	Dynamic Trim Stop	หยุดการตัดแต่งแบบไดนามิก
+	Dynamics	ไดนามิก
+	Dynamics Processing	การประมวลผลด้านดินามิก
+	EDL…	EDL…
+	EQ	EQ
+	Early Reflections	สะท้อนเสียงแรก
+	Earthquake	แผ่นดินไหว
+	Ease In	ชะลอเมื่อเข้า
+	Ease In and Out	การเริ่มและสิ้นสุดแบบช้าลง
+	Ease Out	เร่งเมื่อออก
+	Easing	การเปลี่ยนความเร็ว
+	Echo	อีโค
+	Echo Glow	แสงเรืองสะท้อนซ้ำ
+	Echo Operator	อีโค โอเปอเรเตอร์
+	Echo Time (seconds)	เวลาอีโค (วินาที)
+	Echoes	อีโค หลายชั้น
+	Edge Color	สีขอบ
+	Edge Feather	ขอบฟุ้ง
+	Edge Glow	ขอบเรืองแสง
+	Edge Sharpness	ความคมของขอบ
+	Edge Softness	ความอ่อนของขอบ
+	Edge Thickness	ความหนาของขอบ
+	Edge Thin	ขอบบาง
+	Edge Threshold	ค่าความเข้มของขอบ
+	Edge Type	ประเภทขอบ
+	Edge Width	ความกว้างของขอบ
+	Edit	แก้ไข
+	Edit Cameras	แก้ไขกล้อง
+	Edit Cameras…	แก้ไขกล้อง…
+	Edit Caption Text	แก้ไขข้อความคำบรรยาย
+	Edit Columns	แก้ไขคอลัมน์
+	Edit Columns…	แก้ไขคอลัมน์…
+	Edit Custom Color	แก้ไขสีเฉพาะ
+	Edit Marker	แก้ไขมาร์กเกอร์
+	Edit Markers	แก้ไขมาร์กเกอร์
+	Edit Marker…	แก้ไขมาร์กเกอร์…
+	Edit Narration	แก้ไขการบรรยาย
+	Edit Offline File	แก้ไขไฟล์ออฟไลน์
+	Edit Offline…	แก้ไขสื่อออฟไลน์…
+	Edit Original	แก้ไขต้นฉบับ
+	Edit Project Notes	แก้ไขบันทึกย่อโปรเจกต์
+	Edit Subclip	แก้ไขคลิปย่อย
+	Edit Subclip…	แก้ไขคลิปย่อย…
+	Edit Workspaces	แก้ไขพื้นที่ทำงาน
+	Edit Workspaces…	แก้ไขพื้นที่ทำงาน…
+	Edit color	แก้ไขสี
+	Editable properties:	คุณสมบัติที่สามารถแก้ไขได้:
+	Editing	การแก้ไข
+	Editing Mode:	โหมดการตัด:
+	Editing or removing a swatch leaves assigned colors unchanged.	การแก้ไขหรือการลบสีในชุดสีไม่เปลี่ยนแปลงสีที่กำหนดไว้
+	Edit…	แก้ไข…
+	Effect	เอฟเฟกต์
+	Effect Controls	ตัวควบคุมเอฟเฟกต์
+	Effect presets	ค่าตั้งเอฟเฟกต์
+	Effects	เอฟเฟกต์
+	Ellipse	วงรี
+	Ellipse Tool	เครื่องมือวงรี
+	Elliptical	รูปแบบรูปไข่
+	Embed	ฝัง
+	Emboss	เอ็มโบส
+	Empty tracks	แทร็กว่าง
+	Enable	เปิดใช้งาน
+	Enable HSL Secondary	เปิด HSL ย่อย
+	Enable Mercury Transmit	เปิดใช้ Mercury Transmit
+	Enable ProRes hardware accelerated encoding, if available	เปิดการเข้ารหัสแบบ ProRes ด้วยฮาร์ดแวร์ ถ้ามี
+	Enable Remix	เปิดใช้รีมิกซ์
+	Enable clip and XMP metadata linking	เปิดการเชื่อมโยงคลิปและข้อมูล XMP
+	Enable developer mode	เปิดโหมดพัฒนา
+	Enable hardware accelerated decoding (requires restart)	เปิดการถอดรหัสด้วยฮาร์ดแวร์ (ต้องเริ่มใหม่)
+	Enable language auto-detection	เปิดการตรวจจับภาษาอัตโนมัติ
+	Enable proxies	เปิดใช้พร็อกซี
+	Enable track for recording	เปิดแทร็กสำหรับการบันทึก
+	Encapsulate	รวมในไฟล์เดียว
+	Encoder	ตัวเข้ารหัส
+	Encoding {n}%	การเข้ารหัส {n}%
+	End Color	สีสุดท้าย
+	End Credits	เครดิตสุดท้าย
+	End Credits – Roll	เครดิตท้ายเรื่อง – เลื่อนขึ้น
+	End Off Screen	สิ้นสุดนอกหน้าจอ
+	End Point	จุดสุดท้าย
+	End at Cut	สิ้นสุดที่จุดตัด
+	End of Ramp	จุดสิ้นสุดการไล่ระดับ
+	End:	สิ้นสุด:
+	End: {tc}	สิ้นสุด: {tc}
+	Ends With	สิ้นสุดด้วย
+	Enhance Speech	เสริมเสียงพูด
+	Enter a positive duration within the supported speed range.	กรุณาป้อนระยะเวลาที่เป็นบวกภายในช่วงความเร็วที่รองรับ
+	Enter a valid HH:MM:SS:FF timecode	กรุณาป้อนไทม์โค้ดในรูปแบบ HH:MM:SS:FF ที่ถูกต้อง
+	Enter a valid HTTP or HTTPS URL without credentials	กรุณาป้อน URL ที่ถูกต้องโดยไม่มีข้อมูลเข้าสู่ระบบ (HTTP หรือ HTTPS)
+	Enter six hex digits, for example FF80C0.	ป้อนหกตัวเลขของระบบฐาน 16 เช่น FF80C0
+	Entire Source	ทั้งต้นฉบับ
+	Enumerate Cameras	กำหนดหมายเลขกล้อง
+	Error	ข้อผิดพลาด
+	Errors Only	เฉพาะข้อผิดพลาด
+	Essential Graphics	กราฟิกหลัก
+	Essential Sound	เสียงหลัก
+	EssentialSound	เสียงหลัก
+	Estimated file size: {size}	ขนาดไฟล์ประมาณ: {size}
+	Events	เหตุการณ์
+	Evolution	การพัฒนา
+	Evolution Options	ตัวเลือกการพัฒนา
+	Exact name matches only	จับคู่ชื่อที่ตรงกันเท่านั้น
+	Exciter Amount	ปริมาณ Exciter
+	Exciter Mode	โหมด Exciter
+	Exclude Unused Clips	ไม่รวมคลิปที่ไม่ได้ใช้
+	Exclusion	การยกเว้น
+	Existing XMP files written by other applications are left unchanged.	ไฟล์ XMP ที่มีอยู่ก่อนหน้าที่ถูกเขียนโดยแอปพลิเคชันอื่นจะไม่ถูกเปลี่ยนแปลง.
+	Exit Trim Mode	ออกจากโหมดตัดแต่ง
+	Expand All Tracks	ขยายแทร็กทั้งหมด
+	Expander	เอ็กซ์พานเดอร์
+	Exponential Fade	การลดความเข้มแบบเอ็กซ์โพเนนเชียล
+	Export	ส่งออก
+	Export As Motion Graphics Template	ส่งออกเป็นแม่แบบกราฟิกเคลื่อนไหว
+	Export As Motion Graphics Template…	ส่งออกเป็นแม่แบบกราฟิกเคลื่อนไหว…
+	Export Audio	ส่งออกเสียง
+	Export Frame	ส่งออกเฟรม
+	Export Frame (Shift+E)	ส่งออกเฟรม (Shift+E)
+	Export Frame: use Export mode (M6)	ส่งออกเฟรม: ใช้โหมดส่งออก (M6)
+	Export Markers as CSV…	ส่งออกมาร์กเกอร์เป็น CSV…
+	Export Options	ตัวเลือกการส่งออก
+	Export Preset…	ส่งออกค่าที่ตั้งไว้…
+	Export formats	รูปแบบการส่งออก
+	Export presets	ส่งออกค่าที่ตั้งไว้
+	Export the labels to a preset file…	ส่งป้ายไปยังไฟล์ค่าตั้งต้น…
+	Export: no file chosen (agents: export.presets.export {path, names})	ส่งออก: ไม่ได้เลือกไฟล์ (agent: export.presets.export {path, names})
+	Export: no file chosen (agents: shortcuts.export {path})	ส่งออก: ไม่ได้เลือกไฟล์ (agent: shortcuts.export {path})
+	Exported graphics template to {path}	ส่งออกแม่แบบกราฟิกไปที่ {path} แล้ว
+	Exported to {path}	ส่งออกไปที่ {path} แล้ว
+	Exported {path}	ส่งออกแล้ว {path}
+	Exported {path} as {format}, from its file extension	ส่งออก {path} เป็น {format} ตามนามสกุลไฟล์แล้ว
+	Exporting	กำลังส่งออก
+	Exporting {path}	กำลังส่งออก {path}
+	Export…	ส่งออก…
+	Exposure	ความเข้มของแสง
+	Extend Next Edit To Playhead	ขยายการตัดช่วงถัดไปไปยังหัวอ่าน
+	Extend Previous Edit To Playhead	ขยายการตัดช่วงก่อนหน้าไปยังหัวอ่าน
+	Extend Selected Edit to Playhead	ขยายการตัดที่เลือกไปยังหัวอ่าน
+	Extend Selection Down	ขยายการเลือกลง
+	Extend Selection Left	ขยายการเลือกซ้าย
+	Extend Selection Right	ขยายการเลือกขวา
+	Extend Selection Up	ขยายการเลือกขึ้น
+	Extended Dynamic Range Monitoring	แสดงผลช่วงไดนามิกขยาย
+	Extract	แยกออกมา
+	Extract (')	ตัดออกพร้อมปิดช่องว่าง (')
+	Extract Audio	แยกเสียง
+	Extract selected text	ตัดข้อความที่เลือกพร้อมปิดช่องว่าง
+	Eyedropper (pick a color from the Program monitor)	หลอดดูดสี (เลือกสีจากจอโปรแกรม)
+	Eyedropper: no picture to sample	หลอดดูดสี: ไม่มีภาพให้เลือกสี
+	FCPXML…	FCPXML…
+	FFT Filter	กรอง FFT
+	FLAC	FLAC
+	FLAC (lossless)	FLAC (ไม่สูญเสียคุณภาพ)
+	FLAC 48 kHz 24-bit	FLAC 48 kHz 24-bit
+	FLAC stores whole-number samples only	FLAC บันทึกเฉพาะตัวอย่างที่เป็นจำนวนเต็ม
+	FLAC, stereo 48 kHz 24-bit, lossless	FLAC สเตอริโอ 48 kHz 24 บิต แบบไม่สูญเสียข้อมูล
+	Face Detection (protect skin tones)	ตรวจจับใบหน้า (ป้องกันสีผิว)
+	Fade	การเปลี่ยนความเข้ม
+	Fade In	เฟดเข้า
+	Fade Out	เฟดออก
+	Faded Film	ฟิล์มซีด
+	Faded Matte	แมตต์ซีด
+	Faded Print	ภาพพิมพ์ที่สีอ่อน
+	Fades	การเปลี่ยนระดับ
+	Failed: {e}	ล้มเหลว: {e}
+	Falloff	การลดลง
+	Far Away	ไกลมาก
+	Fast	เร็ว
+	Faster Motion	การเคลื่อนไหวเร็วขึ้น
+	Faux Bold	ตัวหนาจำลอง
+	Faux Italic	ตัวเอียงจำลอง
+	Favorites	รายการที่ชื่นชอบ
+	Favorites only	เฉพาะที่ชื่นชอบ
+	Feather	ขอบฟุ้ง
+	Feedback	ฟีดแบ็ก
+	Feedback 1	ฟีดแบ็ก 1
+	Feedback 2	ฟีดแบ็ก 2
+	Feedback 3	ฟีดแบ็ก 3
+	Feedback 4	ฟีดแบ็ก 4
+	Feet + Frames 16mm	ฟุต + เฟรม 16 มม.
+	Feet + Frames 35mm	ฟุต + เฟรม 35 มม.
+	Female	หญิง
+	Fewer · More	น้อย · มาก
+	Field Options	ตัวเลือกฟิลด์
+	Field Options…	ตัวเลือกฟิลด์…
+	Field Order	ลำดับฟิลด์
+	Fields:	ฟิลด์:
+	File	ไฟล์
+	File Extension	นามสกุลไฟล์
+	File Format	รูปแบบไฟล์
+	File Name	ชื่อไฟล์
+	File Name & Location	ชื่อไฟล์และตำแหน่ง
+	File Name:	ชื่อไฟล์:
+	File Path	เส้นทางไฟล์
+	File Size	ขนาดไฟล์
+	File Types Displayed	รูปแบบไฟล์ที่แสดง
+	File…	ไฟล์…
+	Fill	กรอก
+	Fill Background	เติมพื้นหลัง
+	Fill Color	เติมสี
+	Fill Left with Right	เติมด้านซ้ายด้วยด้านขวา
+	Fill Point	เติมจุด
+	Fill Right with Left	เติมด้านขวาด้วยด้านซ้าย
+	Fill Selector	เลือกการเติม
+	Fill Type	รูปแบบการเติม
+	Fill frame	เติมเต็มเฟรม
+	Fill the slots above first	เติมช่องข้างต้นก่อน
+	Film Dissolve	การละลายแบบฟิล์ม
+	Film Dissolve (Legacy)	การละลายแบบฟิล์ม (แบบเก่า)
+	Film Emulation	จำลองฟิล์ม
+	Film Roll	การหมุนฟิล์ม
+	FilmCraft Graphics Template	แม่แบบกราฟิก FilmCraft
+	FilmCraft Help…	วิธีใช้ FilmCraft…
+	FilmCraft Project	โปรเจกต์ FilmCraft
+	FilmCraft Updates	การอัปเดต FilmCraft
+	FilmCraft always composites in linear light	FilmCraft รวมภาพในโหมดแสงเชิงเส้นเสมอ
+	FilmCraft hit an error	FilmCraft พบข้อผิดพลาด
+	FilmCraft keeps the rest of the RAM free for other applications.	FilmCraft คงพื้นที่ RAM ที่เหลือไว้สำหรับแอปพลิเคชันอื่นๆ.
+	FilmCraft on GitHub	FilmCraft บน GitHub
+	FilmCraft on getartcraft.com	FilmCraft บน getartcraft.com
+	FilmCraft quit unexpectedly while “{name}” had unsaved changes.	FilmCraft ปิดโดยไม่คาดคิดขณะที่ “{name}” มีการเปลี่ยนแปลงที่ยังไม่บันทึก
+	FilmCraft was closed while “{name}” had unsaved changes.	FilmCraft ถูกปิดขณะที่ “{name}” มีการเปลี่ยนแปลงที่ยังไม่บันทึก
+	FilmCraft {version} is currently the newest version available.	FilmCraft {version} เป็นเวอร์ชันล่าสุดที่มีอยู่ปัจจุบัน
+	Filter	กรอง
+	Filter Frequency	ความถี่กรอง
+	Filter Resonance	เรโซแนนซ์ของฟิลเตอร์
+	Filter and EQ	กรองและEQ
+	Final Cut Pro XML…	Final Cut Pro XML…
+	Final Delay	ดีเลย์สุดท้าย
+	Find	ค้นหา
+	Find Edges	ค้นหาขอบ
+	Find Next	ค้นหาถัดไป
+	Find in:	ค้นหาใน:
+	Find:	ค้นหา:
+	Find…	ค้นหา…
+	First commit	คอมมิตแรก
+	Fit	พอดี
+	Fit to frame	พอดีเฟรม
+	Flanger	ฟลังเกอร์
+	Flare	ฟลาร์
+	Flare Brightness	ความสว่างของฟลาร์
+	Flare Center	จุดศูนย์กลางของฟลาร์
+	Flare Color	สีของฟลาร์
+	Flash	ฟลัช
+	Flash Cue Marker	มาร์กเกอร์คิว Flash
+	Flash Cue Point	จุดคิว Flash
+	Flatten	รวมเข้ากับหน้า
+	Flicker	ฟลิคเกอร์
+	Flicker Removal	ลดการกะพริบ
+	Flickers	ฟลิคเกอร์
+	Flip Motion	การเคลื่อนไหวการกลับ
+	Flip Over	กลับข้าง
+	Float	ลอย
+	Focus	โฟกัส
+	Focus Blur	โฟกัสเบลอ
+	Focus Point	จุดโฟกัส
+	Focus Shape	รูปร่างโฟกัส
+	Focus Size	ขนาดโฟกัส
+	Fold Motion	การหดตัว
+	Foldback	การกลับตัว
+	Folder	โฟลเดอร์
+	Font	แบบอักษร
+	Font Size	ขนาดตัวอักษร
+	Font Style	รูปแบบตัวอักษร
+	Font family	ตระกูลฟอนต์
+	Fonts used in the project:	ฟอนต์ที่ใช้ในโปรเจกต์:
+	For color management parameters, go to the Settings tab in the Lumetri Color panel.	ตั้งค่าการจัดการสีได้ที่แท็บการตั้งค่าในแผงสี Lumetri
+	Forest	เขียวป่า
+	Format	รูปแบบ
+	Format and size	รูปแบบและขนาด
+	Four Scopes (RGB, 8 bit)	สโคปสี่จอ (RGB, 8 บิต)
+	Four Scopes (YUV, float, no clamp)	สโคปสี่จอ (YUV, ทศนิยม, ไม่จำกัดสัญญาณ)
+	Fractal Influence	อิทธิพลของฟราคทัล
+	Fractal Type	ประเภทฟราคทัล
+	Frame	เฟรม
+	Frame Blending	ผสมเฟรม
+	Frame Color	สีเฟรม
+	Frame Count	จำนวนเฟรม
+	Frame Hold Options	ตัวเลือกเฟรมค้าง
+	Frame Hold Options…	ตัวเลือกเฟรมค้าง…
+	Frame Layout	การจัดเรียงเฟรม
+	Frame Rate	อัตราเฟรม
+	Frame Rate:	อัตราเฟรม:
+	Frame Sampling	สุ่มตัวอย่างเฟรม
+	Frame Size	ขนาดเฟรม
+	Frame Size / Rate	ขนาดเฟรม/อัตราเฟรม
+	Frame Size:	ขนาดเฟรม:
+	Frame Width	ความกว้างเฟรม
+	Frame cache for monitors and thumbnails	แคชเฟรมสำหรับจอแสดงผลและภาพย่อ
+	Frames	เฟรม
+	Frames per Still:	เฟรมต่อภาพนิ่ง:
+	Framing	การจัดเฟรม
+	Free draw bezier	วาดแบบฟรีด้วยเบซิเออร์
+	Freeform	ฟรีฟอร์ม
+	Freeform View	โหมดฟรีฟอร์ม
+	Freeform View Options	ตัวเลือกมุมมองอิสระ
+	Freeform View Options…	ตัวเลือกของโหมดฟรีฟอร์ม…
+	French	ฝรั่งเศส
+	Frequency	ความถี่
+	From	จาก
+	From Bin	จากถังสื่อ
+	From East	จากด้านตะวันออก
+	From North	จากด้านเหนือ
+	From Source Monitor	จากจอต้นฉบับ
+	From Source Monitor, Match Frame	จากจอต้นฉบับ โดยจับคู่เฟรม
+	From South	จากด้านใต้
+	From West	จากด้านตะวันตก
+	From file…	จากไฟล์…
+	From the Left	จากด้านซ้าย
+	From the Right	จากด้านขวา
+	Front + LFE	ด้านหน้า + LFE
+	Front + Rear	ด้านหน้า + ด้านหลัง
+	Front + Rear + LFE	ด้านหน้า + ด้านหลัง + LFE
+	Front Only	ด้านหน้าเท่านั้น
+	Full	เต็ม
+	Full screen	เต็มหน้าจอ
+	Fuzz	ความคลุมเครือ
+	GB	GB
+	GPU Rendering	การเรนเดอร์ด้วย GPU
+	GPU acceleration is unavailable; preview renders on the CPU	การเร่งด้วย GPU ไม่สามารถใช้งานได้; การดูตัวอย่างจะเกิดขึ้นบน CPU
+	Gain	เกน
+	Gamma	แกมมา
+	Gamma Correction	แก้ไขแกมมา
+	Gamut Warning	เตือนขอบเขตสี
+	Gamut Warning Color	สีเตือนขอบเขตสี
+	Gang to Program	เชื่อมการเลื่อนกับจอโปรแกรม
+	Gap	ช่องว่าง
+	Gap Color	สีช่องว่าง
+	Gaps	ช่องว่าง
+	Gaussian Blur	การเบลอแบบกัวสิยัน
+	Gaussian Blur (Legacy)	การเบลอ Gaussian (แบบเก่า)
+	Gaussian Blur from 0 to 60 over the last second	เบลอเกาส์เซียนจาก 0 ถึง 60 ในช่วงวินาทีสุดท้าย
+	Gaussian Blur from 60 to 0 over the first second	การบลูร์แบบ Gaussian จาก 60 ถึง 0 ภายในช่วงแรก 1 วินาที
+	General	ทั่วไป
+	General…	ทั่วไป…
+	Generate	สร้าง
+	Generate Audio Waveform	สร้างรูปคลื่นเสียง
+	Generate Ducking Keyframes	สร้างคีย์เฟรมแบบ Ducking
+	Generate Keyframes	สร้างคีย์เฟรม
+	Generate Timecode	สร้างไทม์โค้ด
+	Generate waveforms and conform audio using multithreading	สร้างเวฟฟอร์มและปรับเสียงโดยใช้การจัดการหลายคอร์
+	Generate waveforms automatically during import	สร้างเวฟฟอร์มอัตโนมัติเมื่อนำเข้า
+	Generating waveform…	กำลังสร้างรูปคลื่น…
+	German	เยอรมัน
+	Get Media File Properties for	ดูคุณสมบัติไฟล์สื่อของ
+	Get Project Notes	อ่านบันทึกย่อโปรเจกต์
+	Ghosts	ภาพสะท้อน
+	Glass	กระจก
+	Glint	แสงสะท้อน
+	Glitch	การขัดขวาง
+	Glow	เรืองแสง
+	Glow Brightness	ความสว่างของแสงเรือง
+	Glow Color	สีแสงเรือง
+	Glow Only	เฉพาะแสงเรือง
+	Glow Radius	รัศมีแสงเรือง
+	Glow Saturation	ความอิ่มสีของแสงเรือง
+	Glow Width	ความกว้างแสงเรือง
+	Go Back	ย้อนกลับ
+	Go Forward	ไปข้างหน้า
+	Go to Gap	ไปยังช่องว่าง
+	Go to In	ไปยังจุดเข้า
+	Go to In (Shift+I)	ไปยังจุดเข้า (Shift+I)
+	Go to In Point	ไปยังจุดเข้า
+	Go to Next Caption Segment	ไปยังช่วงคำบรรยายถัดไป
+	Go to Next Edit Point	ไปยังจุดแก้ไขถัดไป
+	Go to Next Edit Point on Any Track	ไปยังจุดแก้ไขถัดไปบนแทร็กใดๆ
+	Go to Next Marker	ไปยังมาร์กเกอร์ถัดไป
+	Go to Out	ไปยังจุดออก
+	Go to Out (Shift+O)	ไปยังจุดออก (Shift+O)
+	Go to Out Point	ไปยังจุดออก
+	Go to Previous Caption Segment	ไปยังช่วงคำบรรยายก่อนหน้า
+	Go to Previous Edit Point	ไปยังจุดแก้ไขก่อนหน้า
+	Go to Previous Edit Point on Any Track	ไปยังจุดแก้ไขก่อนหน้าบนแทร็กใดๆ
+	Go to Previous Marker	ไปยังมาร์กเกอร์ก่อนหน้า
+	Go to Selected Clip End	ไปยังจุดสิ้นสุดของคลิปที่เลือก
+	Go to Selected Clip Start	ไปยังจุดเริ่มต้นของคลิปที่เลือก
+	Go to Sequence End	ไปยังจุดสิ้นสุดของซีเควนซ์
+	Go to Sequence Start	ไปยังจุดเริ่มต้นของซีเควนซ์
+	Go to Split	ไปยังจุดแยก
+	Go to next keyframe	ไปยังคีย์เฟรมถัดไป
+	Go to previous keyframe	ไปยังคีย์เฟรมก่อนหน้า
+	Golden Dusk	พลบค่ำสีทอง
+	Golden Hour	ช่วงเวลาของแสงทอง
+	Good	ดี
+	Grab bag	เบ็ดเตล็ด
+	Gradient	การไล่ระดับ
+	Gradient Angle	มุมไล่ระดับ
+	Gradient End	จุดสิ้นสุดการไล่ระดับ
+	Gradient Layer	เลเยอร์ไล่ระดับ
+	Gradient Placement	ตำแหน่งการไล่ระดับ
+	Gradient Scatter	การกระจายการไล่ระดับ
+	Gradient Shape	รูปร่างการไล่ระดับ
+	Gradient Start	จุดเริ่มการไล่ระดับ
+	Gradient Wipe	กวาดตามการไล่ระดับ
+	Gradient Wipe (Legacy)	กวาดตามการไล่ระดับ (รุ่นเก่า)
+	Grain Size	ขนาดเกรน
+	Graphic Equalizer (10 Bands)	กราฟิกอีควอไลเซอร์ (10 ย่าน)
+	Graphic Equalizer (20 Bands)	กราฟิกอีควอไลเซอร์ (20 ย่าน)
+	Graphic Equalizer (30 Bands)	กราฟิกอีควอไลเซอร์ (30 ย่าน)
+	Graphics	กราฟิก
+	Graphics and Titles	กราฟิกและชื่อเรื่อง
+	Graphics problem: switched to software compositing	เกิดปัญหากราฟิก เปลี่ยนมาใช้การผสมภาพด้วยซอฟต์แวร์แล้ว
+	Graphics text search arrives with M10.1–M10.2	การค้นหาข้อความกราฟิกจะมาใน M10.1–M10.2
+	Graphics…	กราฟิก…
+	Green	เขียว
+	Green Blurriness	ความเบลอสีเขียว
+	Green Curve	เส้นโค้งสีเขียว
+	Green Offset	การย้ายตำแหน่งสีเขียว
+	Green Power	พลังสีเขียว
+	Green Slope	ความชันสีเขียว
+	Green-Blue	สีเขียว-สีน้ำเงิน
+	Green-Const	สีเขียว-คงที่
+	Green-Green	สีเขียว-สีเขียว
+	Green-Red	สีเขียว-สีแดง
+	Grid	กริด
+	Grid spacing:	ระยะห่างตาราง:
+	Group	จัดกลุ่ม
+	Grow	การเติบโต
+	Growing Files	ไฟล์ที่กำลังเติบโต
+	Grunge	กรันจ์
+	Grunge & Distort	กรันจ์และบิดเบือน
+	Guide Templates	แม่แบบเส้นไกด์
+	Guides	เส้นไกด์
+	GuitarSuite	GuitarSuite
+	H.264	H.264
+	H.264 1920×1080 for video sharing sites, VBR 1 pass, 16 Mbps	H.264 1920×1080 สำหรับเว็บไซต์แชร์วิดีโอ ใช้ VBR 1 pass ความเร็ว 16 Mbps
+	H.264 1920×1080, VBR 1 pass, 20 Mbps target, AAC 320 kbps	H.264 1920×1080 ใช้ VBR 1 pass ความเร็วเป้าหมาย 20 Mbps พร้อม AAC 320 kbps
+	H.264 1920×1080, VBR 2 pass, 18 Mbps	H.264 1920×1080 ใช้ VBR 2 pass ความเร็ว 18 Mbps
+	H.264 3840×2160 for video sharing sites, VBR 1 pass, 45 Mbps	H.264 3840×2160 สำหรับเว็บไซต์แชร์วิดีโอ ใช้ VBR 1 pass ความเร็ว 45 Mbps
+	H.264 3840×2160, VBR 1 pass, 60 Mbps target, AAC 320 kbps	H.264 3840×2160 ใช้ VBR 1 pass ความเร็วเป้าหมาย 60 Mbps พร้อม AAC 320 kbps
+	H.264 3840×2160, VBR 2 pass, 50 Mbps	H.264 3840×2160 ใช้ VBR 2 pass ความเร็ว 50 Mbps
+	H.264 9:16 portrait for short-form social video, scaled to fill, 12 Mbps	H.264 รูปแบบแนวตั้ง 9:16 สำหรับวิดีโอโซเชียลสั้นๆ ปรับขนาดให้เต็ม ความเร็ว 12 Mbps
+	H.264 9:16 portrait, scaled to fill, VBR 1 pass, 10 Mbps, loudness normalized to −14 LUFS	H.264 แนวตั้ง 9:16 ขยายเต็มเฟรม, VBR 1 รอบ, 10 Mbps, ปรับความดังเป็น −14 LUFS
+	H.264 9:16 portrait, scaled to fill, VBR 1 pass, 12 Mbps, loudness normalized to −14 LUFS	H.264 แนวตั้ง 9:16 ขยายเต็มเฟรม, VBR 1 รอบ, 12 Mbps, ปรับความดังเป็น −14 LUFS
+	H.264 9:16 portrait, scaled to fill, VBR 1 pass, 8 Mbps, loudness normalized to −14 LUFS	H.264 แนวตั้ง 9:16 ขยายเต็มเฟรม, VBR 1 รอบ, 8 Mbps, ปรับความดังเป็น −14 LUFS
+	H.264 at the sequence's frame size and rate; 0.05 bits per pixel	H.264 ที่ขนาดเฟรมและอัตราเฟรมของซีเควนซ์ 0.05 บิตต่อพิกเซล
+	H.264 at the sequence's frame size and rate; 0.1 bits per pixel	H.264 ที่ขนาดเฟรมและอัตราเฟรมของซีเควนซ์ 0.1 บิตต่อพิกเซล
+	H.264 at the sequence's frame size and rate; bitrate adapts to the frame size (0.2 bits per pixel)	H.264 ที่ขนาดเฟรมและอัตราเฟรมของซีเควนซ์ ความเร็วบิตปรับตามขนาดเฟรม (0.2 บิตต่อพิกเซล)
+	H.265 (HEVC)	H.265 (HEVC)
+	H.265 (HEVC) needs a hardware encoder (NVENC on NVIDIA GPUs, VideoToolbox on macOS); none was found on this machine, and FilmCraft has no software H.265 encoder yet. Choose H.264 or ProRes instead.	H.265 (HEVC) ต้องใช้ตัวเข้ารหัสฮาร์ดแวร์ (NVENC บน GPU ของ NVIDIA หรือ VideoToolbox บน macOS) แต่ไม่พบในเครื่องนี้ และ FilmCraft ยังไม่มีตัวเข้ารหัส H.265 แบบซอฟต์แวร์ โปรดเลือก H.264 หรือ ProRes แทน
+	HD Anamorphic 1080 (1.333)	HD แบบ Anamorphic 1080 (1.333)
+	HDR	HDR
+	HDR Graphics White (Nits)	กราฟิก HDR สีขาว (นิท)
+	HDR Range	ช่วง HDR
+	HDR Specular	ส่วนสะท้อน HDR
+	HDR White	สีขาว HDR
+	HLS Vectorscope + Histogram	เวกเตอร์สโคป HLS + ฮิสโตแกรม
+	HSL Secondary	ปรับ HSL เฉพาะส่วน
+	Half Saturation	ความอิ่มสีครึ่ง
+	Hand Tool	เครื่องมือมือ
+	Handle Frames:	เฟรมเผื่อหัวท้าย:
+	Hard	ฮาร์ด
+	Hard Clip	คลิปฮาร์ด
+	Hard Light	ไลท์ฮาร์ด
+	Hard Limiter	ลิมิเตอร์ฮาร์ด
+	Hard Mix	มิคซ์ฮาร์ด
+	Hard Mono	ขาวดำคอนทราสต์จัด
+	Hard Sun	แสงอาทิตย์ร้อน
+	Hardware (AV1 has no software encoder)	ฮาร์ดแวร์ (AV1 ไม่มีตัวเข้ารหัสแบบซอฟต์แวร์)
+	Hardware (H.265 has no software encoder)	ฮาร์ดแวร์ (H.265 ไม่มีตัวเข้ารหัสแบบซอฟต์แวร์)
+	Hardware Encoding	การเข้ารหัสด้วยฮาร์ดแวร์
+	Hardware decoding	การถอดรหัสด้วยฮาร์ดแวร์
+	Hardware decoding: Auto uses the system's video decoder (VideoToolbox on macOS, Media Foundation on Windows, VA-API for H.264 and HEVC on Linux) for the streams it supports, and FilmCraft's own decoder for everything else or if the hardware fails. Media that is already open keeps its decoder until it is reopened.	การถอดรหัสด้วยฮาร์ดแวร์: โหมดอัตโนมัติใช้ตัวถอดรหัสวิดีโอของระบบ (VideoToolbox บน macOS, Media Foundation บน Windows, VA-API สำหรับ H.264 และ HEVC บน Linux) สำหรับช่องที่รองรับ และใช้ตัวถอดรหัสของ FilmCraft สำหรับส่วนอื่นหรือหากฮาร์ดแวร์ล้มเหลว วิดีโอที่เปิดอยู่แล้วจะยังคงใช้ตัวถอดรหัสเดิมจนกว่าจะเปิดใหม่
+	Hardware decoding: Auto uses the system's video decoder (VideoToolbox on macOS, Media Foundation on Windows, VA-API or NVDEC for H.264 and HEVC on Linux) for the streams it supports, and FilmCraft's own decoder for everything else or if the hardware fails. Media that is already open keeps its decoder until it is reopened.	การถอดรหัสด้วยฮาร์ดแวร์: โหมดอัตโนมัติใช้ตัวถอดรหัสของระบบ (VideoToolbox บน macOS, Media Foundation บน Windows, VA-API หรือ NVDEC สำหรับ H.264 และ HEVC บน Linux) กับสตรีมที่รองรับ และใช้ตัวถอดรหัสของ FilmCraft ในกรณีอื่นหรือเมื่อฮาร์ดแวร์ล้มเหลว สื่อที่เปิดอยู่ยังใช้ตัวถอดรหัสเดิมจนกว่าจะเปิดใหม่
+	Head	หัว
+	Head Size	ขนาดหัว
+	Head and Tail	หัวและท้าย
+	Heading	หัวข้อ
+	Heart	หัวใจ
+	Height	ความสูง
+	Height:	ความสูง:
+	Help	วิธีใช้
+	Hex	ฐาน 16
+	Hex color	สีฐาน 16
+	Hexagon	หกเหลี่ยม
+	Hide All Caption Tracks	ซ่อนแทร็กคำบรรยายทั้งหมด
+	Hide Back Face	ซ่อนด้านหลัง
+	Hide FilmCraft	ซ่อน FilmCraft
+	Hide Others	ซ่อนอย่างอื่น
+	High	สูง
+	High Cutoff	ตัดสูงสุด
+	High Frequency Cut	ตัดความถี่สูง
+	High Frequency Damping	การหน่วงความถี่สูง
+	High Pass	กรองผ่านความถี่สูง
+	High Quality 1080p HD	คุณภาพสูง 1080p HD
+	High Quality 2160p 4K	คุณภาพสูง 2160p 4K
+	High Quality Playback	เล่นด้วยคุณภาพสูง
+	High Shelf	ไฮเชลฟ์
+	High Shelf Gain	เกนไฮเชลฟ์
+	High Tone	เสียงสูง
+	High contrast with held highlights and deep shadows	คอนทราสต์สูง รักษารายละเอียดส่วนสว่างและเงาลึก
+	Highlight	เน้นข้อความ
+	Highlight Balance	สมดุลส่วนสว่าง
+	Highlight Blue Balance	สมดุลสีน้ำเงินของส่วนสว่าง
+	Highlight Brightness	ความสว่างของไฮไลต์
+	Highlight Color	สีของส่วนสว่าง
+	Highlight Green Balance	สมดุลสีเขียวของส่วนสว่าง
+	Highlight Hue	เฉดสีส่วนสว่าง
+	Highlight Level	ระดับส่วนสว่าง
+	Highlight Red Balance	สมดุลสีแดงของส่วนที่สว่าง
+	Highlight Rolloff	การลดความเข้มของส่วนที่สว่าง
+	Highlight Softness	ความนุ่มของส่วนสว่าง
+	Highlight Threshold	ค่าความเข้มของส่วนที่สว่าง
+	Highlight Tint	สีที่ปรับของส่วนที่สว่าง
+	Highlights	ส่วนที่สว่าง
+	Highlights Lightness	ความสว่างของส่วนที่สว่าง
+	Highpass	กรองผ่านความถี่สูง
+	Hindi	ภาษาฮินดี
+	Hindi digits	ตัวเลขภาษาฮินดี
+	Histogram	ฮิสโตแกรม
+	History	ประวัติ
+	Hold	คงระดับ
+	Hold Filters	คงฟิลเตอร์
+	Hold On	ค้างเฟรมที่
+	Home	หน้าแรก
+	Horizontal	แนวนอน
+	Horizontal 16:9	แนวนอน 16:9
+	Horizontal Alignment	การจัดตำแหน่งแนวนอน
+	Horizontal Blocks	การจัดกลุ่มแนวนอน
+	Horizontal Decentering	การย้ายตำแหน่งแนวนอน
+	Horizontal Displacement	การย้ายตำแหน่งแนวนอน
+	Horizontal Flip	การกลับภาพแนวนอน
+	Horizontal Margin	ช่องว่างแนวนอน
+	Horizontal and Vertical	แนวนอนและแนวตั้ง
+	Hover Scrub	เลื่อนดูคลิปเมื่อชี้เมาส์
+	Hue	เฉดสี
+	Hue Center	จุดศูนย์กลางของเฉดสี
+	Hue Range	ช่วงเฉดสี
+	Hue Saturation Curves	เส้นโค้งเฉดสีและความอิ่มสี
+	Hue Shift	เลื่อนเฉดสี
+	Hue Tolerance	ความคลาดเคลื่อนของเฉดสี
+	Hue vs Hue	เฉดสีเทียบเฉดสี
+	Hue vs Luma	เฉดสีเทียบความสว่าง
+	Hue vs Sat	เฉดสีเทียบความอิ่มสี
+	I/O Buffer Size	ขนาดบัฟเฟอร์ I/O
+	Icon	ไอคอน
+	Icon View	โหมดไอคอน
+	Ignore Alpha	ไม่ใช้อัลฟา
+	Ignore Audio	ละเว้นเสียง
+	Ignore Hours	ไม่สนใจชั่วโมง
+	Ignore Options	ละเว้นตัวเลือก
+	Ignore Video	ละเว้นวิดีโอ
+	Image	รูปภาพ
+	Image Control	การควบคุมภาพ
+	Image Overlay	การวางภาพ
+	Image Sequence	ลำดับภาพ
+	Immersive Video	วิดีโอเสมือนจริง
+	Import	นำเข้า
+	Import From	นำเข้าจาก
+	Import Image Sequence…	นำเข้าลำดับภาพ…
+	Import Presets…	นำเข้าค่าที่ตั้งไว้…
+	Import a preset file…	นำเข้าไฟล์ค่าตั้งต้น…
+	Import as Image Sequence	นำเข้าเป็นลำดับภาพ
+	Import captions file…	นำเข้าไฟล์คำบรรยาย…
+	Import from Media Browser	นำเข้าจากเบราว์เซอร์สื่อ
+	Import numbered stills as image sequences	นำเข้าภาพถ่ายที่มีเลขลำดับเป็นลำดับภาพ
+	Import: no file chosen (agents: export.presets.import {path})	นำเข้า: ไม่ได้เลือกไฟล์ (agent: export.presets.import {path})
+	Import: no file chosen (agents: shortcuts.import {path})	นำเข้า: ไม่ได้เลือกไฟล์ (agent: shortcuts.import {path})
+	Imported “{name}”	นำเข้า “{name}”
+	Import…	นำเข้า…
+	Impulse	อิมพูลส์
+	In	จุดเข้า
+	In Point	จุดเข้า
+	In Points	จุดเข้า
+	In a Room	ในห้อง
+	In the Media Cache	ในแคชสื่อ
+	In the project	ในโปรเจกต์
+	In/Out Duration	ระยะเวลาเข้า/ออก
+	In:	จุดเข้า:
+	In: {name}	จุดเข้า: {name}
+	Include Alpha Channel	รวมช่องอัลฟ่า
+	Include Handles:	รวมเฟรมเผื่อหัวท้าย:
+	Include Preview Files	รวมไฟล์ดูตัวอย่าง
+	Include Proxies	รวมพร็อกซี
+	Include captions on import	รวมคำบรรยายเมื่อนำเข้า
+	Incoming	เข้ามา
+	Increase Audio Tracks Height	เพิ่มความสูงของแทร็กเสียง
+	Increase Clip Volume	เพิ่มระดับเสียงคลิป
+	Increase Clip Volume Many	เพิ่มระดับเสียงคลิปมากขึ้น
+	Increase Font Size by Five Units	เพิ่มขนาดฟอนต์ขึ้น 5 หน่วย
+	Increase Font Size by One Unit	เพิ่มขนาดฟอนต์ขึ้น 1 หน่วย
+	Increase Leading by Five Units	เพิ่มระยะห่างขึ้น 5 หน่วย
+	Increase Leading by One Unit	เพิ่มระยะห่างขึ้น 1 หน่วย
+	Increase Video Tracks Height	เพิ่มความสูงของแทร็กวิดีโอ
+	Indeterminate Media Timebase	ช่วงเวลาสื่อไม่แน่นอน
+	Info	ข้อมูล
+	Ingest	นำเข้า
+	Ingest Settings	ตั้งค่าการนำเข้า
+	Ingest Settings…	ตั้งค่าการรับสื่อ…
+	Initial Delay	ดีเลย์เริ่มต้น
+	Inner	ด้านใน
+	Inner Radius	รัศมีด้านใน
+	Input Boost	การเพิ่มสัญญาณเข้า
+	Input LUT	LUT อินพุต
+	Input:	อินพุต:
+	Insert	แทรก
+	Insert (,)	แทรก (,)
+	Insert Edit	แทรกการตัด
+	Insert Frame Hold Segment	แทรกช่วงเฟรมค้าง
+	Insert and overwrite sequences as nests or individual clips	แทรกและเขียนทับซีเควนซ์แบบซ้อนหรือแยกเป็นคลิป
+	Inset	ขอบจม
+	Inside	ด้านใน
+	Inside Color	สีด้านใน
+	Instagram Reels 1080×1920	Instagram Reels 1080×1920
+	Install Motion Graphics Template (.fcgt)	ติดตั้งแม่แบบกราฟิกเคลื่อนไหว (.fcgt)
+	Install Motion Graphics Template…	ติดตั้งแม่แบบกราฟิกเคลื่อนไหว…
+	Install…	ติดตั้ง…
+	Intensity	ความเข้ม
+	Inter	Inter
+	Interface Language	ภาษาของส่วนติดต่อผู้ใช้
+	Interior Room Tone	เสียงพื้นหลังห้อง
+	Internal Black Point	จุดดำภายใน
+	Internal White Point	จุดขาวภายใน
+	Interpolation	การแทรกค่า
+	Interpret Footage	กำหนดการตีความฟุตเทจ
+	Interpret Footage…	กำหนดการตีความฟุตเทจ…
+	Intersect	ตัดกัน
+	Intro Duration	ระยะเวลาการเปิดตัว
+	Invalid duration: {error}	ระยะเวลาไม่ถูกต้อง: {error}
+	Inverse Falloff	การลดลงแบบกลับ
+	Invert	กลับสี
+	Invert Alpha	กลับค่าอัลฟ่า
+	Invert Blur	กลับค่าเบลอ
+	Invert Fill	กลับค่าเติม
+	Invert Gradient	กลับทิศการไล่ระดับ
+	Invert Left	กลับด้านซ้าย
+	Invert Right	กลับด้านขวา
+	Inverted	กลับข้าง
+	Iris	ม่วงไอริส
+	Iris Box	ม่านเปิดรูปสี่เหลี่ยม
+	Iris Cross	ม่านเปิดรูปกากบาท
+	Iris Diamond	ม่านเปิดรูปข้าวหลามตัด
+	Iris Radius	รัศมีม่านเปิด
+	Iris Rotation	การหมุนม่านเปิด
+	Iris Round	ม่านเปิดวงกลม
+	Iris Shape	รูปร่างม่านเปิด
+	Italian	อิตาลี
+	JPEG	JPEG
+	JPEG Sequence	ลำดับ JPEG
+	Japanese	ญี่ปุ่น
+	JetBrains Mono	JetBrains Mono
+	Join Through Edits	เชื่อมรอยตัดต่อเนื่อง
+	Join the ArtCraft Discord	เข้าร่วม Discord ของ ArtCraft
+	Join the ArtCraft Discord (discord.gg/artcraft)	เข้าร่วม Discord ของ ArtCraft (discord.gg/artcraft)
+	Join the ArtCraft Discord…	เข้าร่วม Discord ของ ArtCraft…
+	Join us on Discord	เข้าร่วมกับเราบน Discord
+	Justify	จัดเต็มแนว
+	Kaleidoscope	กัลเลียโดสโคป
+	Keep Existing Settings	คงการตั้งค่าเดิม
+	Keep a recovery copy of unsaved changes	รักษาสำเนาสำรองของข้อมูลที่ยังไม่ได้บันทึก
+	Keep:	รักษา:
+	Kerning	ระยะห่างคู่ตัวอักษร
+	Key	คีย์
+	Key Color	สีคีย์
+	Key Frame Distance	ระยะของคีย์เฟรม
+	Key Out Brights	คีย์ตัดส่วนสว่าง
+	Key:	คีย์:
+	Keyboard Shortcuts	แป้นพิมพ์ลัด
+	Keyboard Shortcuts…	แป้นพิมพ์ลัด…
+	Keyboard: US	แป้นพิมพ์: US
+	Keyboard: US (macOS)	แป้นพิมพ์: US (macOS)
+	Keying	การตัดสี
+	Korean	เกาหลี
+	LUT	LUT
+	Label	ป้ายชื่อ
+	Label Color Presets	ตั้งค่าสีป้าย
+	Label Colors	สีของป้าย
+	Label Defaults	ค่าเริ่มต้นของป้ายชื่อ
+	Label speakers	ระบุผู้พูด
+	Labels	ป้ายชื่อ
+	Labels…	ป้ายกำกับ…
+	Language	ภาษา
+	Language:	ภาษา:
+	Large Hall	ห้องใหญ่
+	Large Trim Offset	ระยะตัดแต่งครั้งละมาก
+	Large Volume Adjustment	ปรับระดับเสียงครั้งละมาก
+	Large blocks resolving to the picture over the first second	ช่องแบ่งขนาดใหญ่ที่แสดงบนภาพในช่วงแรก 1 วินาที
+	Large centred title, accent rule and subtitle.	ชื่อเรื่องขนาดใหญ่ตรงกลาง พร้อมเส้นเน้นและชื่อรอง
+	Larger	ใหญ่ขึ้น
+	Last auto-save {a}	บันทึกอัตโนมัติล่าสุด {a}
+	Last auto-save {a} · last recovery copy {j}	บันทึกอัตโนมัติล่าสุด {a} · สำเนากู้คืนล่าสุด {j}
+	Last commit	คอมมิตล่าสุด
+	Last recovery copy {j}	สำเนากู้คืนล่าสุด {j}
+	Latch	จับค่า
+	Lavender	ม่วงลาเวนเดอร์
+	Layer Name	ชื่อเลเยอร์
+	Layers	เลเยอร์
+	Layout:	การจัดวาง:
+	Leading	ระยะห่างบรรทัด
+	Learning	เรียนรู้
+	Leave Color	สีเดิม
+	Left	ซ้าย
+	Left - Left	ซ้าย - ซ้าย
+	Left - Right	ซ้าย - ขวา
+	Left Align Text	จัดตำแหน่งข้อความซ้าย
+	Left align text	จัดตำแหน่งข้อความด้านซ้าย
+	Left channel to device output	ช่องซ้ายส่งไปยังอุปกรณ์
+	Left to Right	ซ้ายไปขวา
+	Left to right	ซ้ายไปขวา
+	Legacy	รุ่นเก่า
+	Legal Range Squeeze	ย่อช่วงสีตามมาตรฐาน
+	Length	ความยาว
+	Lens Blur	การเบลอเลนส์
+	Lens Distortion	การเบี่ยงเบนเลนส์
+	Lens Flare	การสะท้อนแสงเลนส์
+	Lens Type	ประเภทเลนส์
+	Level	ระดับ
+	Level 1	ระดับ 1
+	Level 2	ระดับ 2
+	Level 3	ระดับ 3
+	Level 4	ระดับ 4
+	Levels	ระดับ
+	Libraries	คลัง
+	Lift	ยกออก
+	Lift (;)	ยกออก (;)
+	Lift Shadows	ยกระดับส่วนเงา
+	Lift selected text	ยกข้อความที่เลือกออก
+	Lifted blacks, softer contrast, muted colour	สีดำถูกยกขึ้น ความต่างของสีเบาลง ความสีดูอ่อน
+	Ligatures	อักษรเชื่อม
+	Light	สว่าง
+	Light 1	แสง 1
+	Light 2	แสง 2
+	Light 3	แสง 3
+	Light 4	แสง 4
+	Light 5	แสง 5
+	Light Angle	มุมแสง
+	Light Color	สีของแสง
+	Light Intensity	ความเข้มของแสง
+	Light Leak	การรั่วของแสง
+	Light Leaks	การรั่วของแสง
+	Light Sweep	การเคลื่อนของแสง
+	Light Theme	ธีมสว่าง
+	Light Type	ประเภทของแสง
+	Lighten	ทำให้แสงสว่างขึ้น
+	Lighter Color	สีที่สว่างขึ้น
+	Lighting Effects	เอฟเฟกต์แสง
+	Lightning	สายฟ้า
+	Lights & Blurs	แสงและภาพเบลอ
+	Lights & Glows	แสงและแสงสะท้อน
+	Limiter	ลิมิเตอร์
+	Limiter Release	รีลีสลิมิเตอร์
+	Limiter Threshold	เกณฑ์ลิมิเตอร์
+	Line Thickness	ความหนาของเส้น
+	Line delta	ผลต่างบรรทัด
+	Linear	เชิงเส้น
+	Linear Burn	ลิเนียร์เบิร์น
+	Linear Dodge (Add)	ลิเนียร์ดอดจ์ (บวก)
+	Linear Gradient	ไล่ระดับเชิงเส้น
+	Linear Light	แสงแบบเส้นตรง
+	Linear Ramp	ไล่ระดับเชิงเส้น
+	Linear Wipe	การตัดแบบเส้นตรง
+	Linear Wipe (Legacy)	การตัดแบบเส้นตรง (แบบเก่า)
+	Linear keyframe thinning	การลดคีย์เฟรมแบบเส้นตรง
+	Linear to Log	จากเชิงเส้นเป็น Log
+	Lines +/−	บรรทัด +/−
+	Lines added	บรรทัดที่เพิ่ม
+	Lines deleted	บรรทัดที่ลบ
+	Link	ลิงก์
+	Link Channels	เชื่อมช่อง
+	Link Media	เชื่อมสื่อ
+	Link Media…	เชื่อมโยงสื่อ…
+	Link to Media	เชื่อมโยงกับสื่อ
+	Linked Selection	เลือกคลิปที่เชื่อมโยงกัน
+	Linked {n} clip(s)	มี {n} คลิปที่เชื่อมโยง
+	Liquid Distortion	การสั่นสะเทือนแบบของเหลว
+	List	รายการ
+	List View	โหมดรายชื่อ
+	Loaded “{name}”	โหลด “{name}”
+	Local Drives	ฮาร์ดดิสก์ท้องถิ่น
+	Local Projects	โปรเจกต์ในเครื่อง
+	Locate…	ค้นหา…
+	Location	ตำแหน่ง
+	Lock Guides	ล็อกเส้นไกด์
+	Log Note	บันทึกย่อ
+	Log Note:	บันทึกข้อมูล:
+	Log to Linear	จาก Log เป็นเชิงเส้น
+	Log to Log	จาก Log เป็น Log
+	Logo Cutout	การตัดรูปโลโก้
+	Long Shadow	เงายาว
+	Look	ลักษณะ
+	Look LUT	LUT ลักษณะ
+	Look-Ahead Time	เวลาด้านหน้า
+	Looks for a newer FilmCraft release and offers to update.	ค้นหาเวอร์ชันใหม่ของ FilmCraft และเสนอการอัปเดต
+	Loop	ลูป
+	Loop marked range	ซ้ำช่วงที่ถูกตั้งเครื่องหมาย
+	Looping GIF, 640×360 at 15 fps	ลูป GIF ขนาด 640×360 ที่ 15 fps
+	Loudness	ความดัง
+	Loudness Maximizer	ตัวเพิ่มความดังสูงสุด
+	Loudness Meter	มิเตอร์ความดัง
+	Loudness Normalization	ปรับความดังให้เป็นมาตรฐาน
+	Louver	ลูเวอร์
+	Low	ต่ำ
+	Low Frequency Cut	การตัดความถี่ต่ำ
+	Low Pass	กรองผ่านความถี่ต่ำ
+	Low Shelf	โลว์เชลฟ์
+	Low Shelf Gain	เกนโลว์เชลฟ์
+	Low Tone	เสียงต่ำ
+	Lower First	ฟิลด์ล่างก่อน
+	Lower Left	ด้านล่างซ้าย
+	Lower Right	ด้านล่างขวา
+	Lower Third – Rule	แถบชื่อด้านล่าง – เส้น
+	Lower Third – Slab	แถบชื่อด้านล่าง – แผ่นสี
+	Lower Thirds	แถบชื่อด้านล่าง
+	Lowpass	กรองผ่านความถี่ต่ำ
+	Luma	ลูม่า
+	Luma Curve	เส้นโค้งลูม่า
+	Luma Fade	การดับสีลูม่า
+	Luma Key	การตัดสีลูม่า
+	Luma Max	ความสว่างสูงสุด
+	Luma Min	ความสว่างต่ำสุด
+	Luma Min / Max	ความสว่างต่ำสุด / สูงสุด
+	Luma Source	แหล่งสีลูม่า
+	Luma and Chroma	ลูม่าและโครมา
+	Luma vs Sat	ความสว่างเทียบความอิ่มสี
+	Lumetri	Lumetri
+	Lumetri Color	สี Lumetri
+	Lumetri Presets	ค่าตั้งต้น Lumetri
+	Lumetri Scopes	สโคป Lumetri
+	Luminance	ความสว่าง
+	Luminance Threshold	เกณฑ์ความสว่าง
+	Luminosity	ความสว่าง
+	MB	MB
+	MIT OR Apache-2.0. Fonts: Inter, Noto Serif and JetBrains Mono (SIL OFL 1.1).	MIT OR Apache-2.0 ฟอนต์: Inter, Noto Serif และ JetBrains Mono (SIL OFL 1.1)
+	MPEG-4 audio (.m4a), stereo 48 kHz AAC-LC at 320 kbps	เสียง MPEG-4 (.m4a) สเตอริโอ 48 kHz AAC-LC ที่ 320 kbps
+	MXF OP-Atom	MXF OP-Atom
+	MXF OP-Atom DNxHR (Avid)	MXF OP-Atom DNxHR (Avid)
+	MXF OP1a	MXF OP1a
+	MXF OP1a DNxHR HQ	MXF OP1a DNxHR HQ
+	MXF OP1a H.264	MXF OP1a H.264
+	MXF OP1a ProRes 422 HQ	MXF OP1a ProRes 422 HQ
+	MXF OP1a, DNxHR HQ (8-bit 4:2:2), 24-bit 48 kHz PCM, start timecode	MXF OP1a, DNxHR HQ (8 บิต 4:2:2), PCM 24 บิต 48 kHz พร้อมไทม์โค้ดเริ่มต้น
+	MXF OP1a, H.264 High long GOP (0.3 bits per pixel), 24-bit 48 kHz PCM	MXF OP1a, H.264 High แบบ GOP ยาว (0.3 บิตต่อพิกเซล), PCM 24 บิต 48 kHz
+	MXF OP1a, ProRes 422 HQ, 24-bit 48 kHz PCM, start timecode	MXF OP1a, ProRes 422 HQ, PCM 24 บิต 48 kHz พร้อมไทม์โค้ดเริ่มต้น
+	MXF export writes integer PCM only	การส่งออกด้วย MXF บันทึกเฉพาะตัวอย่างแบบจำนวนเต็มเท่านั้น
+	Magenta	ม่วงแดง
+	Magnification	การขยาย
+	Magnify	ขยาย
+	Magnify (Legacy)	ขยาย (แบบเก่า)
+	Main	หลัก
+	Main (8-bit)	Main (8 บิต)
+	Main (8-bit; Main 10 for HDR sequences)	Main (8 บิต; Main 10 สำหรับซีเควนซ์ HDR)
+	Main 10 (10-bit, HDR)	Main 10 (10 บิต, HDR)
+	Maintain pitch while shuttling	คงระดับเสียงสูงต่ำขณะเล่นกรอ
+	Major Radius	รัศมีหลัก
+	Make Offline	ทำให้เป็นออฟไลน์
+	Make Offline…	ตั้งเป็นออฟไลน์…
+	Make Subclip	สร้างคลิปย่อย
+	Make Subclip…	สร้างคลิปย่อย…
+	Make Subsequence	สร้างซีเควนซ์ย่อย
+	Make {n} selected clip(s) offline. Their clips show the offline slate until you link them again.	ตั้งคลิปที่เลือก {n} คลิปเป็นออฟไลน์ คลิปจะแสดงภาพแจ้งสื่อออฟไลน์จนกว่าจะเชื่อมโยงอีกครั้ง
+	Makeup	ชดเชยเกน
+	Male	เพศชาย
+	Manage Colors	จัดการสี
+	Manage Colors…	จัดการสี…
+	Manage Guides	จัดการเส้นไกด์
+	Manage Guides…	จัดการเส้นไกด์…
+	Manage Saved View Presets	จัดการค่าตั้งมุมมองที่บันทึกไว้
+	Mango	เหลืองมะม่วง
+	Map Black To	ตั้งสีดำเป็น
+	Map White To	ตั้งสีขาวเป็น
+	Maps full-range levels into 16–235 (video range) with a luma curve	แปลงระดับความเข้มเต็มช่วงเป็น 16–235 (ช่วงสีวิดีโอ) ด้วยเส้นโค้งลูม่า
+	Mark Clip	กำหนดช่วงคลิป
+	Mark In	กำหนดจุดเข้า
+	Mark In (Hover Scrub)	ตั้งจุดเข้า (เลื่อนด้วยเมาส์)
+	Mark In (I)	ตั้งจุดเข้า (I)
+	Mark Out	กำหนดจุดออก
+	Mark Out (Hover Scrub)	ตั้งจุดออก (เลื่อนด้วยเมาส์)
+	Mark Out (O)	ตั้งจุดออก (O)
+	Mark Selection	กำหนดช่วงที่เลือก
+	Mark Split	กำหนดจุดแยก
+	Marker	มาร์กเกอร์
+	Marker Color:	สีมาร์กเกอร์:
+	Marker changed or was removed. Reopen it to continue.	มาร์กเกอร์เปลี่ยนแปลงหรือถูกลบแล้ว เปิดอีกครั้งเพื่อดำเนินการต่อ
+	Marker owner is unavailable	ไม่พบรายการเจ้าของมาร์กเกอร์
+	Markers	มาร์กเกอร์
+	Mask Only	ใช้เฉพาะมาสก์
+	Masks	มาสก์
+	Master Amplitude	แอมพลิจูดหลัก
+	Master Gain	เกนหลัก
+	Master volume: use the Audio Track Mixer	ระดับเสียงหลัก: ใช้มิกเซอร์แทร็กเสียง
+	Master · {name}	คลิปหลัก · {name}
+	Mastering	การปรับแต่งสุดท้าย
+	Match Frame	จับคู่เฟรม
+	Match Playhead	จับคู่ตำแหน่งหัวอ่าน
+	Match Source	ตรงกับต้นฉบับ
+	Match Source ({seq_sr} Hz)	สอดคล้องกับต้นฉบับ ({seq_sr} Hz)
+	Match Source – Adaptive High Bitrate	ตรงตามต้นฉบับ – บิตเรตสูงแบบปรับอัตโนมัติ
+	Match Source – Adaptive Low Bitrate	ตรงตามต้นฉบับ – บิตเรตต่ำแบบปรับอัตโนมัติ
+	Match Source – Adaptive Medium Bitrate	ตรงตามต้นฉบับ – บิตเรตปานกลางแบบปรับอัตโนมัติ
+	Match file properties:	จับคู่คุณลักษณะไฟล์:
+	Match frame sets in point	จับคู่เฟรมในจุดเข้า
+	Match {n} of {total}	พบ {n} จาก {total}
+	Match:	ตรงกับ:
+	Matches	การจับคู่
+	Matches each of the {n} clips on its own.	จับคู่แต่ละคลิป {n} อย่างอิสระ
+	Matte	แมตต์
+	Matte Alpha	อัลฟาแมตต์
+	Matte Cleanup	เก็บรายละเอียดแมตต์
+	Matte Generation	สร้างแมตต์
+	Matte Luma	ลูมาแมตต์
+	Max	สูงสุด
+	Maximize Frame	ขยายแผงเต็มพื้นที่
+	Maximize or Restore Active Frame	ขยายหรือคืนขนาดแผงที่ใช้งาน
+	Maximize or Restore Frame Under Cursor	ขยายหรือคืนขนาดแผงใต้เคอร์เซอร์
+	Maximum	สูงสุด
+	Maximum Amplitude	แอมพลิจูดสูงสุด
+	Maximum Bit Depth	ความลึกของบิตสูงสุด
+	Maximum Bitrate	อัตราบิตสูงสุด
+	Maximum Block Size	ขนาดบล็อกสูงสุด
+	Maximum Blur	ความเบลอสูงสุด
+	Maximum Project Versions	จำนวนเวอร์ชันโปรเจกต์สูงสุด
+	Maximum Reduction	การลดสูงสุด
+	Maximum Render Quality	คุณภาพการเรนเดอร์สูงสุด
+	Maximum Scale	การขยายสูงสุด
+	Media	สื่อ
+	Media Analysis	การวิเคราะห์สื่อ
+	Media Analysis & Transcription	วิเคราะห์สื่อและถอดเสียง
+	Media Analysis & Transcription…	วิเคราะห์สื่อและถอดเสียง…
+	Media Browser	เบราว์เซอร์สื่อ
+	Media Browser Settings	ตั้งค่าเบราว์เซอร์สื่อ
+	Media Cache	แคชสื่อ
+	Media Cache Database	ฐานข้อมูลแคชสื่อ
+	Media Cache Files	ไฟล์แคชสื่อ
+	Media Cache Management	การจัดการแคชสื่อ
+	Media Cache…	แคชสื่อ…
+	Media Duration	ระยะเวลาสื่อ
+	Media End	จุดสิ้นสุดของสื่อ
+	Media File	ไฟล์สื่อ
+	Media Name:	ชื่อสื่อ:
+	Media Source Channels	ช่องแหล่งสื่อ
+	Media Start	จุดเริ่มต้นของสื่อ
+	Media Start:	จุดเริ่มของสื่อ:
+	Media Time	เวลาสื่อ
+	Media Timecode	ไทม์โค้ดของสื่อ
+	Media Type	ประเภทสื่อ
+	Media analysis and transcriptions will be cached in the Media Cache folder. Reanalysis won't be required if the media is imported into another project on this computer.	การวิเคราะห์และแปลงเสียงของสื่อจะถูกเก็บไว้ในโฟลเดอร์แคชสื่อ ไม่จำเป็นต้องวิเคราะห์ซ้ำหากสื่อนั้นถูกนำเข้าไปในโปรเจกต์อื่นบนเครื่องนี้
+	Media colour space (from file metadata): {detected}	ปริภูมิสีของสื่อ (จากเมทาดาทาไฟล์): {detected}
+	Media files are deleted	ไฟล์สื่อจะถูกลบ
+	Media files remain on disk	ไฟล์สื่อจะยังคงอยู่บนฮาร์ดดิสก์
+	Media missing	สื่อขาดหาย
+	MediaBrowser	เบราว์เซอร์สื่อ
+	MediaCache	แคชสื่อ
+	Median	ค่ากลาง
+	Media…	สื่อ…
+	Medium	ปานกลาง
+	Medium Room	ห้องกลาง
+	Memory	หน่วยความจำ
+	Memory…	หน่วยความจำ…
+	Merge Captions	รวมคำบรรยาย
+	Merge Clips	รวมคลิป
+	Merge Clips…	รวมคลิป…
+	Merge selected captions	รวมคำบรรยายที่เลือก
+	Merged PRs	PR ที่ผสานแล้ว
+	Merged clip created	สร้างคลิปรวมแล้ว
+	Metadata	เมทาดาทา
+	Metadata & Timecode Burn-in	ฝังเมทาดาทาและไทม์โค้ดในภาพ
+	Metadata Display	การแสดงเมทาดาทา
+	Metadata Display…	การแสดงเมทาดาทา…
+	Meter Input(s) Only	มิเตอร์เฉพาะอินพุต
+	Method	วิธีการ
+	Method:	วิธี:
+	Metrics Kerning	ระยะห่างคู่ตัวอักษรตามเมตริก
+	Mid	กลาง
+	Mid Point	จุดกลาง
+	Midpoint	จุดกึ่งกลาง
+	Midtone Balance	สมดุลโทนกลาง
+	Midtone Blue Balance	การสมดุลสีน้ำเงินกลาง
+	Midtone Green Balance	การสมดุลสีเขียวกลาง
+	Midtone Hue	เฉดสีโทนกลาง
+	Midtone Level	ระดับโทนกลาง
+	Midtone Red Balance	การสมดุลสีแดงกลาง
+	Midtones	สีกลาง
+	Midtones Lightness	ความสว่างของสีกลาง
+	Milliseconds	มิลลิวินาที
+	Minimize All Tracks	ย่อแทร็กทั้งหมด
+	Minimum	ต่ำสุด
+	Minimum time	ช่วงเวลาต่ำสุด
+	Minimum time interval thinning	การลดช่วงเวลาสั้นที่สุด
+	Minor Radius	รัศมีเล็ก
+	Mirror	สะท้อนภาพ
+	Mirror Alternate	สะท้อนแบบสลับ
+	Missing	ขาด
+	Missing font replacement	การแทนที่ฟอนต์ที่ขาดหาย
+	Miter join	รอยต่อแบบมุมแหลม
+	Miter limit	ขีดจำกัดมุมแหลม
+	Mix	ผสม
+	Mixdown video	มิกซ์ดาวน์วิดีโอ
+	Mixed Crystals	คริสตัลผสม
+	Mixer	มิกเซอร์
+	Mode	โหมด
+	Model	โมเดล
+	Models	โมเดล
+	Modern High Gain	เกนสูงสมัยใหม่
+	Modifier held / selected	กดคีย์เสริม / เลือก
+	Modifiers	ปุ่มเสริม
+	Modify	ปรับแก้
+	Modify Clip: Audio Channels	ปรับคลิป: ช่องเสียง
+	Modify Clip: Timecode	ปรับแก้คลิป: ไทม์โค้ด
+	Modulation	มอดูเลชัน
+	Modulation Rate	อัตรามอดูเลชัน
+	Mono	โมโน
+	Mono Media	สื่อเสียงแบบมอนอ
+	Monochrome	สีดำ-ขาว
+	Monochrome toned cyan-blue	ขาวดำโทนฟ้าไซแอน–น้ำเงิน
+	Monochrome toned warm brown	ขาวดำโทนน้ำตาลอุ่น
+	Monoscopic	มอนอสโคปิก
+	Monospace only	เฉพาะฟอนต์ความกว้างคงที่
+	More colour in the less saturated areas	เพิ่มสีในบริเวณที่ความอิ่มสีต่ำ
+	More presets…	ค่าที่ตั้งไว้เพิ่มเติม…
+	More transport controls	ปุ่มควบคุมการเล่นเพิ่มเติม
+	Morph Cut	ตัดแบบมอร์ฟ
+	Mosaic	โมซาย
+	Mosaic (Legacy)	โมซาย (แบบเก่า)
+	Mosaic In	รวมภาพ
+	Motion	การเคลื่อนไหว
+	Motion Blur	เบลอการเคลื่อนไหว
+	Motion Camera	กล้องการเคลื่อนไหว
+	Motion Graphics Template…	แม่แบบกราฟิกเคลื่อนไหว…
+	Motion Preset	ตั้งค่าการเคลื่อนไหว (Preset)
+	Motion Tween	การเปลี่ยนแปลงแบบเคลื่อนไหว
+	Move	ย้าย
+	Move All Audio Targets Down	ย้ายเป้าหมายเสียงทั้งหมดลงล่าง
+	Move All Audio Targets Up	ย้ายเป้าหมายเสียงทั้งหมดขึ้นบน
+	Move All Video Targets Down	ย้ายเป้าหมายวิดีโอทั้งหมดลงล่าง
+	Move All Video Targets Up	ย้ายเป้าหมายวิดีโอทั้งหมดขึ้นบน
+	Move Selection Down	ย้ายการเลือกลงล่าง
+	Move Selection End	ย้ายจุดสิ้นสุดของการเลือก
+	Move Selection Home	ย้ายจุดเริ่มต้นของการเลือก
+	Move Selection Left	ย้ายการเลือกไปซ้าย
+	Move Selection Page Down	ย้ายหน้าการเลือกลง
+	Move Selection Page Up	ย้ายหน้าการเลือกขึ้น
+	Move Selection Right	ย้ายการเลือกไปขวามือ
+	Move Selection Up	ย้ายการเลือกขึ้น
+	Move clips to the lowest track possible	ย้ายคลิปไปยังแทร็กต่ำสุดที่เป็นไปได้
+	Move source clips to Processed Clips bin	ย้ายคลิปต้นฉบับไปยังถังคลิปที่ประมวลผล
+	Movie	ภาพยนตร์
+	Movie (audio and video)	ภาพยนตร์ (เสียงและวิดีโอ)
+	Movies, audio and stills from disk	ภาพยนตร์ เสียง และภาพนิ่งจากดิสก์
+	Multi-Camera	หลายกล้อง
+	Multi-Camera Audio Follows Video	เสียงตามวิดีโอเมื่อสลับกล้อง
+	Multi-Camera Layout	เค้าโครงหลายกล้อง
+	Multi-Camera Record	บันทึกการสลับกล้อง
+	Multi-Camera Record On/Off (0)	เปิด/ปิดบันทึกการสลับกล้อง (0)
+	Multi-Camera Record On/Off Toggle	สลับการบันทึกหลายกล้อง
+	Multi-Camera Record off	ปิดบันทึกการสลับกล้อง
+	Multi-Camera Record on	เปิดบันทึกการสลับกล้อง
+	Multi-Camera Selection Top Down	เลือกกล้องหลายตัวจากบนลงล่าง
+	Multi-Camera View	มุมมองหลายกล้อง
+	Multi-camera source sequence with {n} camera(s)	ซีเควนซ์ต้นฉบับหลายกล้อง จำนวน {n} กล้อง
+	Multiband Compressor	คอมเพรสเซอร์หลายย่าน
+	Multicam	หลายกล้อง
+	Multichannel Mono Media	สื่อโมโนหลายช่อง
+	Multiple Clips Selected	เลือกคลิปหลายชิ้น
+	Multiplexer	มัลติพลักซ์
+	Multiply	คูณ
+	Multitap Delay	ดีเลย์หลายจุด
+	Music	ดนตรี
+	Mute	ปิดเสียง
+	Mute Send	ปิดการส่ง
+	Mute input during timeline recording	ปิดเสียงอินพุตระหว่างบันทึกไทม์ไลน์
+	My Shortcuts	แป้นพิมพ์ลัดของฉัน
+	My Templates	แม่แบบของฉัน
+	Name	ชื่อ
+	Name (A–Z)	ชื่อ (A–Z)
+	Name Color	สีชื่อ
+	Name Overlay	การวางชื่อ
+	Name Size	ขนาดชื่อ
+	Name and role on a coloured slab that widens with the name.	ชื่อและบทบาทบนแผ่นสีที่ขยายตามขนาดชื่อ
+	Name over a thin rule that always matches the name's width.	ชื่อเหนือเส้นเล็กที่สอดคล้องกับความกว้างของชื่อเสมอ
+	Name:	ชื่อ:
+	Narrow	แคบ
+	Navigate to End of Segment	ไปยังจุดสุดท้ายของส่วน
+	Navigate to Next Line	ไปยังบรรทัดถัดไป
+	Navigate to Next Word	ไปยังคำถัดไป
+	Navigate to Previous Line	ไปยังบรรทัดก่อนหน้า
+	Navigate to Previous Word	ไปยังคำก่อนหน้า
+	Navigate to Start of Segment	ไปยังจุดเริ่มต้นของส่วน
+	Navigation	การนำทาง
+	Neon Color	สีนิโอน
+	Neon Wipe	การตัดแบบนิโอน
+	Nested Sequence Name	ชื่อซีเควนซ์แบบซ้อน
+	Nest…	ซ้อนซีเควนซ์…
+	Network	เครือข่าย
+	Neutral Mono	ขาวดำโทนกลาง
+	New	ใหม่
+	New Bin	สร้างถังสื่อใหม่
+	New Bin From Selection	สร้างถังสื่อใหม่จากการเลือก
+	New Color Matte	พื้นสีใหม่
+	New Ellipse	วงรีใหม่
+	New Item	เพิ่มรายการ
+	New Layer	เลเยอร์ใหม่
+	New Media Browser Panel	แผงเบราว์เซอร์สื่อใหม่
+	New Offline File	ไฟล์ออฟไลน์ใหม่
+	New Project Panel	แผงโปรเจกต์ใหม่
+	New Project Shortcut	ทางลัดโปรเจกต์ใหม่
+	New Rectangle	รูปสี่เหลี่ยมใหม่
+	New Search Bin	สร้างถังค้นหาใหม่
+	New Sequence	ซีเควนซ์ใหม่
+	New Sequence From Clip	สร้างซีเควนซ์ใหม่จากคลิป
+	New Submix	ซับมิคซ์ใหม่
+	New Text	ข้อความใหม่
+	New Text Layer	เลเยอร์ข้อความใหม่
+	New Workspace	พื้นที่ทำงานใหม่
+	New {format} track	แทร็ก {format} ใหม่
+	Next	ถัดไป
+	Next Appearance Mode	โหมดรูปลักษณ์ถัดไป
+	Next Multi-Camera Page	หน้าถัดไปของหลายกล้อง
+	Next in Sequence	รายการถัดไปในซีเควนซ์
+	Next in Track	รายการถัดไปในแทร็ก
+	Next page	หน้าถัดไป
+	Next to original media files	อยู่ข้างๆ ไฟล์สื่อต้นฉบับ
+	Next to the media	ข้างๆ สื่อ
+	Next to the original media, in a Proxies folder	อยู่ข้างๆ ไฟล์ต้นฉบับ ภายในโฟลเดอร์ Proxies
+	Night	กลางคืน
+	Night Exterior	กลางคืนภายนอก
+	No	ไม่
+	No Fields (Progressive Scan)	ไม่มีฟิลด์ (การสแกนแบบโปรเกรสซีฟ)
+	No Motion	ไม่มีการเคลื่อนไหว
+	No Scroll	ไม่มีการเลื่อน
+	No audio	ไม่มีเสียง
+	No background jobs.	ไม่มีงานเบื้องหลัง
+	No candidates yet — Search a folder or Locate the file.	ยังไม่มีตัวเลือก — ค้นหาโฟลเดอร์ หรือ ค้นหาไฟล์
+	No captions on this track. Press + to add one at the playhead.	แทร็กนี้ไม่มีคำบรรยาย กด + เพื่อเพิ่มที่หัวอ่าน
+	No contributor data was built into this copy.	สำเนานี้ไม่ได้รวมข้อมูลผู้ร่วมพัฒนาไว้
+	No effects	ไม่มีเอฟเฟกต์
+	No events.	ไม่มีเหตุการณ์
+	No export preset named `{name}`	ไม่มีค่าที่ตั้งไว้ส่งออกชื่อ `{name}`
+	No markers	ไม่มีมาร์กเกอร์
+	No markers. Press M to add one.	ไม่มีมาร์กเกอร์ กด M เพื่อเพิ่ม
+	No matching captions.	ไม่พบคำบรรยายที่ตรงกัน
+	No matching commands	ไม่พบคำสั่งที่ตรง
+	No matching markers	ไม่พบมาร์กเกอร์ที่ตรงกัน
+	No matching text.	ไม่พบข้อความที่ตรงกัน
+	No model credits were built into this copy.	สำเนานี้ไม่ได้รวมเครดิตของโมเดลไว้
+	No multi-camera clip at the playhead	ไม่มีคลิปหลายกล้องที่ตำแหน่งหัวอ่าน
+	No plugins are installed. Changes will take effect the next time you start FilmCraft.	ไม่มีปลั๊กอินติดตั้ง การเปลี่ยนแปลงจะมีผลเมื่อเปิด FilmCraft ครั้งถัดไป
+	No saved colors	ไม่มีสีที่บันทึกไว้
+	No saved guide templates.	ไม่มีแม่แบบเส้นไกด์ที่บันทึกไว้
+	No sequence open	ไม่มีซีเควนซ์เปิด
+	No source clip open	ไม่มีคลิปต้นฉบับเปิด
+	No templates match.	ไม่พบแม่แบบที่ตรงกัน
+	No text graphics in this sequence. Add text with the Type tool.	ซีเควนซ์นี้ไม่มีกราฟิกข้อความ เพิ่มข้อความด้วยเครื่องมือข้อความ
+	No video	ไม่มีวิดีโอ
+	Noise	สัญญาณรบกวน
+	Noise & Grain	สัญญาณรบกวนและเกรน
+	Noise (Legacy)	สัญญาณรบกวน (รุ่นเก่า)
+	Noise Level	ระดับสัญญาณรบกวน
+	Noise Reduction/Restoration	ลดสัญญาณรบกวน/ฟื้นฟูเสียง
+	Noise Type	ประเภทของเสียงรบกวน
+	Non-Additive Dissolve	ดิสโซลฟ์แบบไม่บวก
+	None	ไม่มี
+	Normal	ปกติ
+	Normalize All Peaks to:	ปรับพีกทั้งหมดเป็น:
+	Normalize Max Peak to:	ปรับพีกสูงสุดเป็น:
+	Normalize Mix Track	ปรับระดับเสียงของแทร็กผสม
+	Normalize Mix Track to:	ปรับระดับของแทร็กผสมเป็น:
+	Normalize Mix Track…	ปรับระดับแทร็กมิกซ์ให้เป็นมาตรฐาน…
+	Not Now	ไว้ภายหลัง
+	Not matched yet	ยังไม่จับคู่
+	Not supported by FilmCraft's encoders yet	ยังไม่รองรับโดยตัวเข้ารหัสของ FilmCraft
+	Not supported in FilmCraft yet	ยังไม่รองรับใน FilmCraft
+	Notch 1	นอตช์ 1
+	Notch 2	นอตช์ 2
+	Notch 3	นอตช์ 3
+	Notch 4	นอตช์ 4
+	Notch 5	นอตช์ 5
+	Notch 6	นอตช์ 6
+	Notch Filter	ฟิลเตอร์นอตช์
+	Notch Width	ความกว้างนอตช์
+	Notes	โน้ต
+	Notes for this project: to-dos, instructions, frame numbers… Saved with the project.	ข้อความสำหรับโปรเจกต์นี้: งานที่ต้องทำ, คำแนะนำ, ตัวเลขเฟรม… บันทึกด้วยโปรเจกต์
+	Nothing found with that name.	ไม่พบข้อมูลด้วยชื่อนี้
+	Nothing is assigned to this key	ยังไม่ได้กำหนดคำสั่งให้ปุ่มนี้
+	Nudge Clip Selection Down	ย้ายการเลือกคลิปลง
+	Nudge Clip Selection Left Five Frames	ย้ายการเลือกคลิปไปซ้าย 5 เฟรม
+	Nudge Clip Selection Left One Frame	ย้ายการเลือกคลิปไปซ้าย 1 เฟรม
+	Nudge Clip Selection Right Five Frames	ย้ายการเลือกคลิปไปขวา 5 เฟรม
+	Nudge Clip Selection Right One Frame	ย้ายการเลือกคลิปไปขวา 1 เฟรม
+	Nudge Clip Selection Up	ย้ายการเลือกคลิปขึ้น
+	Nudge Selected Object down by five	ย้ายวัตถุที่เลือกลง 5
+	Nudge Selected Object down by one	ย้ายวัตถุที่เลือกลง 1
+	Nudge Selected Object to left by five	ย้ายวัตถุที่เลือกไปซ้าย 5
+	Nudge Selected Object to left by one	ย้ายวัตถุที่เลือกไปซ้าย 1
+	Nudge Selected Object to right by five	ย้ายวัตถุที่เลือกไปขวา 5
+	Nudge Selected Object to right by one	ย้ายวัตถุที่เลือกไปทางขวา 1 หน่วย
+	Nudge Selected Object up by five	ย้ายวัตถุที่เลือกขึ้น 5 หน่วย
+	Nudge Selected Object up by one	ย้ายวัตถุที่เลือกขึ้น 1 หน่วย
+	Nudge Volume +1dB	เพิ่มระดับเสียง +1dB
+	Nudge Volume +3dB	เพิ่มระดับเสียง +3dB
+	Nudge Volume -1dB	ลดระดับเสียง -1dB
+	Nudge Volume -3dB	ลดระดับเสียง -3dB
+	Number Of Echoes	จำนวนภาพสะท้อนซ้ำ
+	Number of Audio Clips:	จำนวนคลิปเสียง:
+	Number of Channels:	จำนวนช่อง:
+	Number of Harmonics	จำนวนฮาร์โมนิก
+	Numbered BMP stills (24-bit)	ภาพถ่าย BMP ที่มีเลขลำดับ (24 บิต)
+	Numbered DPX stills (10-bit RGB)	ภาพถ่าย DPX ที่มีเลขลำดับ (10 บิต RGB)
+	Numbered JPEG stills (quality 90)	ภาพถ่าย JPEG ที่มีเลขลำดับ (คุณภาพ 90)
+	Numbered OpenEXR stills (half float, linear, uncompressed)	ภาพถ่าย OpenEXR ที่มีเลขลำดับ (แบบ half float, linear, ไม่บีบอัด)
+	Numbered PNG stills at the sequence's frame size	ภาพถ่าย PNG ที่มีเลขลำดับ ตามขนาดเฟรมของลำดับ
+	Numbered TIFF stills (RGB, 8-bit)	ภาพถ่าย TIFF (RGB, 8 บิต)
+	Numbered Targa stills (24-bit, uncompressed)	ภาพถ่าย Targa ที่มีเลขลำดับ (24 บิต ไม่ถูกบีบอัด)
+	OK	ตกลง
+	OMF Export Settings	ตั้งค่าการส่งออก OMF
+	OMF Title:	ชื่อ OMF:
+	OMF…	OMF…
+	Obsolete	เลิกใช้แล้ว
+	Octagon	แปดเหลี่ยม
+	Off	ปิด
+	Offline	ออฟไลน์
+	Offline All	ตั้งทั้งหมดเป็นออฟไลน์
+	Offline File…	ไฟล์ออฟไลน์…
+	Offset	การย้ายตำแหน่ง
+	Offset (Turbulence)	การย้าย (Turbulence)
+	Offset Audio by:	เลื่อนเวลาเสียง:
+	Offset From	การย้ายจาก
+	Offset To	การย้ายไป
+	Offset:	ระยะเยื้อง:
+	Omni	ทั้งหมด
+	On	เปิด
+	On Original Image	บนภาพต้นฉบับ
+	On Transparent	บนภาพโปร่งใส
+	Opacity	ความทึบ
+	Opacity 0 → 100 % over the first second	ความทึบ 0 → 100 % ในช่วงวินาทีแรก
+	Opacity 100 → 0 % over the last second	ความทึบ 100 → 0 % ในช่วงวินาทีสุดท้าย
+	Open	เปิด
+	Open Air	เปิดช่องว่าง
+	Open Bin	เปิด ถังสื่อ
+	Open Demo Project	เปิดโปรเจกต์ตัวอย่าง
+	Open In Source Monitor	เปิดในจอต้นฉบับ
+	Open Ingest Settings	เปิดตั้งค่าการนำเข้า
+	Open Link	เปิดลิงก์
+	Open Most Recent	เปิดรายการล่าสุด
+	Open Project…	เปิดโปรเจกต์…
+	Open Recent	เปิดไฟล์ล่าสุด
+	Open Search	เปิดการค้นหา
+	Open a sequence to export	เปิดซีเควนซ์เพื่อส่งออก
+	Open a sequence to search its graphics	เปิดซีเควนซ์เพื่อค้นหากราฟิก
+	Open a sequence to see its transcript	เปิดซีเควนซ์เพื่อดูข้อความถอดเสียง
+	Open a sequence to work with captions	เปิดซีเควนซ์เพื่อทำงานกับคำบรรยาย
+	Open in New Tab	เปิดในแท็บใหม่
+	Open in New Window	เปิดในหน้าต่างใหม่
+	Open in Place	เปิดที่จุดนี้
+	Open in Source Monitor	เปิดในจอต้นฉบับ
+	Open in Timeline	เปิดในไทม์ไลน์
+	Open in new window	เปิดในหน้าต่างใหม่
+	Open in place	เปิดในที่เดิม
+	Open new tab	เปิดในแท็บใหม่
+	Open this address in your browser yourself:	เปิดเว็บไซต์นี้ด้วยเบราว์เซอร์ของคุณเอง:
+	OpenEXR	OpenEXR
+	OpenEXR Sequence	ลำดับ OpenEXR
+	OpenTimelineIO…	OpenTimelineIO…
+	OpenType	OpenType
+	Opened {url}	เปิด {url} แล้ว
+	Opens in your web browser: {url}	เปิดในเบราว์เซอร์ของคุณ: {url}
+	Opens this address in your web browser	เปิดที่อยู่นี้ในเบราว์เซอร์ของคุณ
+	Opens up the shadows	เพิ่มรายละเอียดในส่วนเงา
+	Optical Flow	ออปติคัลโฟลว์
+	Options	ตัวเลือก
+	Options:	ตัวเลือก:
+	Order	ลำดับ
+	Ordering:	ลำดับ:
+	Orientation	การวางแนว
+	Orientation:	การวางแนว:
+	Out	จุดออก
+	Out Point	จุดออก
+	Out Points	จุดออก
+	Out: {name}	จุดออก: {name}
+	Outer	ภายนอก
+	Outgoing	ออกจาก
+	Output	ผลลัพธ์
+	Output Gain	เกนเอาต์พุต
+	Output Mapping	การกำหนดช่องเอาต์พุต
+	Outro Duration	ระยะเวลาการปิดตัว
+	Outside	ภายนอก
+	Outside Color	สีภายนอก
+	Overflow	เกินขีดจำกัด
+	Overlay	วางซ้อน
+	Override media colour space:	กำหนดปริภูมิสีของสื่อเอง:
+	Overshoot	เกินเป้าหมาย
+	Overwrite	เขียนทับ
+	Overwrite (.)	เขียนทับ (.)
+	Overwrite Edit	แทนที่การตัด
+	Overwrite with Current View	เขียนทับด้วยมุมมองปัจจุบัน
+	PNG	PNG
+	PNG Sequence	ลำดับ PNG
+	PNG or JPEG file	ไฟล์ PNG หรือ JPEG
+	Page Peel	การเปิดหน้า
+	Page Scroll	การเลื่อนหน้า
+	Page Turn	การหมุนหน้า
+	Page {page} of {pages}	หน้า {page} ของ {pages}
+	Paint Bucket	เครื่องมือเติมสี
+	Paint On Black	วาดบนสีดำ
+	Paint On Original Image	วาดบนภาพต้นฉบับ
+	Paint On Transparent	วาดบนสีโปร่งใส
+	Paint On White	วาดบนสีขาว
+	Paint Style	รูปแบบการวาด
+	Paint Surface	วาดบนพื้นผิว
+	Pan	แพนเสียง
+	Pan (Y Axis)	หมุน (แกน Y)
+	Pan / balance (drag; double-click: centre)	การปรับมุม/สมดุล (ดึง; คลิกสองครั้ง: กลาง)
+	Panel	แผงควบคุม
+	Panel Wipe	การตัดช่อง (Panel Wipe)
+	Panel shortcuts override application shortcuts while that panel has focus	แป้นพิมพ์ลัดของแผงมีลำดับสูงกว่าของแอปเมื่อโฟกัสอยู่ที่แผงนั้น
+	Panels	แผง
+	Panner	ตัวปรับแพนเสียง
+	Panner - Ambisonics	Panner - Ambisonics
+	Parade	พาเหรด
+	Parade (RGB)	พาเหรด (RGB)
+	Parade ({kind})	พาเหรด ({kind})
+	Parade Type	ชนิดพาเหรด
+	Paragraph Text	ข้อความแบบย่อหน้า
+	Parametric Equalizer	พาราเมตริกอีควอไลเซอร์
+	Passband Ripple	ริปเปิลในย่านผ่าน
+	Paste	วาง
+	Paste Attributes	วางคุณลักษณะ
+	Paste Attributes…	วางคุณลักษณะ…
+	Paste Insert	วางแบบแทรก
+	Path	เส้นทาง
+	Path Points	จุดทางเส้น
+	Path: {path}	เส้นทาง: {path}
+	Pause Media Encoder queue during playback	หยุดคิวการเข้ารหัสสื่อขณะเล่น
+	Paused Resolution	ความละเอียดขณะหยุด
+	Peak Amplitude: {peak}	แอมพลิจูดสูงสุด: {peak}
+	Peak Frequency	ความถี่สูงสุด
+	Peak Gain	เกนสูงสุด
+	Pedestal	พื้นฐาน
+	Pen Tool	เครื่องมือปากกา
+	Pentagon	ห้าเหลี่ยม
+	Per line	ต่อแต่ละบรรทัด
+	Percent Blur	ระดับการเบลอ
+	Perspective	มุมมอง
+	Phase Difference	ความแตกต่างของเฟส
+	Phaser	เฟเซอร์
+	Phone Call	การโทรด้วยมือถือ
+	Phosphor	ฟอสฟอร์
+	Phosphor Color	สีฟอสฟอร์
+	Photocopy	การถ่ายสำเนา
+	Photocopy Color	การถ่ายสำเนาสี
+	PiP 35% Upper Right	Picture-in-picture: 35% ด้านบนขวา
+	Picture-in-picture: 35 % scale in the upper right	Picture-in-picture: 35 % ขนาดในด้านบนขวา
+	Pillow	พิลโลว์
+	Pin All	ยึดทั้งหมด
+	Pin Horizontal	ยึดแนวนอน
+	Pin Light	ยึดแสง
+	Pin To	ยึดติดกับ
+	Pin Vertical	ยึดแนวตั้ง
+	Pinned Edges	ขอบที่ยึดติด
+	Pinning	การยึด
+	Pitch Shifter	ตัวปรับระดับเสียงสูงต่ำ
+	Pixel Aspect Ratio:	อัตราส่วนพิกเซล:
+	Place files dropped onto the Timeline directly on the Timeline	วางไฟล์ที่ถูกวางลงบนไทม์ไลน์โดยตรงบนไทม์ไลน์
+	Placement	ตำแหน่ง
+	Placement:	ตำแหน่ง:
+	Plate	แผ่น
+	Plateau Wipe	การตัดแบบพื้นที่
+	Plateaus	พื้นที่
+	Plates	แผ่น
+	Play Around	เล่นรอบ
+	Play Around Edit (Space loops, Shift+K once)	เล่นรอบรอยตัด (Space วนซ้ำ, Shift+K ครั้งเดียว)
+	Play In to Out	เล่นจากจุดเข้าถึงจุดออก
+	Play In to Out with Preroll/Postroll	เล่นจากจุดเข้าถึงจุดออกพร้อมช่วงนำก่อนเริ่มและช่วงต่อหลังจบ
+	Play Source	เล่นต้นฉบับ
+	Play after rendering previews	เล่นหลังจากเรนเดอร์ตัวอย่าง
+	Play audio while scrubbing in Source and Program Monitors	เล่นเสียงขณะเลื่อนในจอต้นฉบับและจอโปรแกรม
+	Play from Playhead to Out Point	เล่นจากหัวอ่านถึงจุดออก
+	Play-Stop Toggle (Space)	สลับเล่น/หยุด (Space)
+	Play/Stop	เล่น/หยุด
+	Playback	การเล่น
+	Playback Resolution	ความละเอียดขณะเล่น
+	Playback starts the pre-roll before the playhead (or the In point); with In/Out marked, recording punches in and out there.	เริ่มเล่นช่วงนำก่อนหัวอ่าน (หรือจุดเข้า) หากกำหนดจุดเข้า/ออกไว้ จะเริ่มและหยุดบันทึกที่จุดเหล่านั้น
+	Playback…	การเล่น…
+	Playhead	หัวอ่าน
+	Playhead position determines trim monitor loop playback	ตำแหน่งหัวอ่านกำหนดการเล่นซ้ำในจอตัด
+	Playhead:	หัวอ่าน:
+	Plugins	ปลั๊กอิน
+	Plugins…	ปลั๊กอิน…
+	Podcast Voice	เสียงพูดจากพอดแคสต์
+	Point 1	จุดที่ 1
+	Point 1 Color	สีจุดที่ 1
+	Point 1 Latitude	ละติจูดจุดที่ 1
+	Point 1 Longitude	ลองจิจูดจุดที่ 1
+	Point 2	จุดที่ 2
+	Point 2 Color	สีจุดที่ 2
+	Point 2 Latitude	ละติจูดจุดที่ 2
+	Point 2 Longitude	ลองจิจูดจุดที่ 2
+	Point 3	จุดที่ 3
+	Point 3 Color	สีจุดที่ 3
+	Point 3 Latitude	ละติจูดจุดที่ 3
+	Point 3 Longitude	ลองจิจูดจุดที่ 3
+	Point 4	จุดที่ 4
+	Point 5	จุดที่ 5
+	Point 6	จุดที่ 6
+	Point 7	จุดที่ 7
+	Point 8	จุดที่ 8
+	Point Text	ข้อความแบบจุด
+	Pointer Color	สีของชี้ทิศทาง
+	Points	จุด
+	Policy	นโยบาย
+	Polygon	รูปหลายเหลี่ยม
+	Polygon Sides	จำนวนด้านของรูปหลายเหลี่ยม
+	Pop Motion	การเคลื่อนไหวแบบป๊อป
+	Portuguese	โปรตุเกส
+	Position	ตำแหน่ง
+	Position & Rotation	ตำแหน่งและการหมุน
+	Position Amount	ปริมาณตำแหน่ง
+	Position, Scale & Rotation	ตำแหน่ง, ขนาด และการหมุน
+	Position, Scale, Rotation	ตำแหน่ง, ขนาด, การหมุน
+	Position:	ตำแหน่ง:
+	Position: bottom	ตำแหน่ง: ด้านล่าง
+	Position: middle	ตำแหน่ง: ตรงกลาง
+	Position: top	ตำแหน่ง: ด้านบน
+	Post-Fader	หลังเฟเดอร์
+	Post-roll	เล่นต่อหลังจุดจบ
+	Post-roll:	เล่นต่อหลังจุดจบ:
+	Posterize	โพสเตอร์ไรซ์
+	Posterize Time	โพสเตอร์ไรซ์ ไทม์
+	Postroll	ช่วงต่อหลังจบ
+	Pre-Delay	พรีดีเลย์
+	Pre-Fader	ก่อนเฟเดอร์
+	Pre-roll:	เล่นก่อนจุดเริ่ม:
+	Preferences	การตั้งค่า
+	Prefix	คำนำหน้า
+	Preroll	ช่วงนำก่อนเริ่ม
+	Presence Lift	เพิ่มความชัดของเสียง
+	Preserve Luminosity	รักษาความสว่าง
+	Preserve Scale	รักษาขนาด
+	Preset	ค่าที่กำหนดไว้ล่วงหน้า
+	Preset Manager	ตัวจัดการค่าที่ตั้งไว้
+	Preset name	ชื่อค่าที่ตั้งไว้
+	Preset:	ค่าที่ตั้งไว้:
+	Presets	ค่าที่ตั้งไว้
+	Preview	ตัวอย่าง
+	Preview Area	พื้นที่ดูตัวอย่าง
+	Preview File Format:	รูปแบบไฟล์สำหรับการดูตัวอย่าง:
+	Previous	ก่อนหน้า
+	Previous Multi-Camera Page	หน้ากล้องหลายช่องก่อนหน้า
+	Previous in Sequence	รายการก่อนหน้าในซีเควนซ์
+	Previous in Track	รายการก่อนหน้าในแทร็ก
+	Previous page	หน้าก่อนหน้า
+	ProcAmp	ProcAmp
+	Processing Options	ตัวเลือกการประมวลผล
+	Profile	โปรไฟล์
+	Program	จอโปรแกรม
+	Programme left → device output {l}, right → device output {r}{dev}. Outputs beyond the device's channels fall back to 1 and 2.	ช่องซ้าย (Programme) → ช่องส่งออกของอุปกรณ์ {l}, ช่องขวา → ช่องส่งออกของอุปกรณ์ {r}{dev}. ช่องส่งออกที่เกินจำนวนช่องของอุปกรณ์จะกลับไปยัง 1 และ 2.
+	Progress	ความคืบหน้า
+	Progressive	โปรเกรสซีฟ
+	Project	โปรเจกต์
+	Project Auto Save:	บันทึกโปรเจกต์อัตโนมัติ:
+	Project Colors	สีของโปรเจกต์
+	Project Manager	ตัวจัดการโปรเจกต์
+	Project Manager: writing {path}	ตัวจัดการโปรเจกต์: กำลังเขียน {path}
+	Project Manager…	ตัวจัดการโปรเจกต์…
+	Project Metadata	เมทาดาทาโปรเจกต์
+	Project Notes	บันทึกย่อโปรเจกต์
+	Project Settings	ตั้งค่าโปรเจกต์
+	Project View Preset {n}	ค่าตั้งมุมมองโปรเจกต์ {n}
+	Project saved to {path}	บันทึกโปรเจกต์ไปที่ {path} แล้ว
+	Project: {name}	โปรเจกต์: {name}
+	ProjectPanel	แผงโปรเจกต์
+	Projecting cap	ปลายเส้นยื่น
+	Projection:	การฉาย:
+	Projects	โปรเจกต์
+	Project…	โปรเจกต์…
+	Properties	คุณสมบัติ
+	Protect Highlights	รักษารายละเอียดส่วนสว่าง
+	Proxies are made in the background and attached when done. Export always uses full-resolution media.	พร็อกซีจะถูกสร้างขึ้นในพื้นหลังและเชื่อมต่อเมื่อเสร็จสิ้น ด้วยการส่งออกจะใช้ไฟล์ดิจิทัลเต็มความละเอียดเสมอ
+	Proxy	พร็อกซี
+	Pull Motion	ดึงการเคลื่อนที่
+	Pulls highlights and whites down	ลดระดับส่วนสว่างและส่วนขาว
+	Purple	ม่วง
+	Push	ดัน
+	Push (Legacy)	ดัน (แบบเก่า)
+	Q	ค่า Q
+	Quality	คุณภาพ
+	Quality (CRF)	คุณภาพ (CRF)
+	Queue ({n})	คิว ({n})
+	Quick Export	ส่งออกด่วน
+	Quick Export: open a sequence first	ส่งออกด่วน: เปิดซีเควนซ์ก่อน
+	Quick Export: {path}	ส่งออกด่วน: {path}
+	QuickTime (Motion JPEG)	QuickTime (Motion JPEG)
+	QuickTime, APV 422-10 (10-bit 4:2:2), 24-bit 48 kHz PCM	QuickTime, APV 422-10 (10-bit 4:2:2), 24-bit 48 kHz PCM
+	QuickTime, APV 422-12 (12-bit 4:2:2), 24-bit 48 kHz PCM	QuickTime, APV 422-12 (12-bit 4:2:2), 24-bit 48 kHz PCM
+	QuickTime, DNxHR HQ (8-bit 4:2:2), 24-bit 48 kHz PCM	QuickTime, DNxHR HQ (8-bit 4:2:2), 24-bit 48 kHz PCM
+	QuickTime, DNxHR LB (8-bit 4:2:2), 24-bit 48 kHz PCM	QuickTime, DNxHR LB (8-bit 4:2:2), 24-bit 48 kHz PCM
+	QuickTime, DNxHR SQ (8-bit 4:2:2), 24-bit 48 kHz PCM	QuickTime, DNxHR SQ (8-bit 4:2:2), 24-bit 48 kHz PCM
+	QuickTime, ProRes 422 HQ, 24-bit 48 kHz PCM	QuickTime, ProRes 422 HQ, 24-bit 48 kHz PCM
+	QuickTime, ProRes 422 LT, 24-bit 48 kHz PCM	QuickTime, ProRes 422 LT, 24-bit 48 kHz PCM
+	QuickTime, ProRes 422 Proxy, 24-bit 48 kHz PCM	QuickTime, ProRes 422 Proxy, 24-bit 48 kHz PCM
+	QuickTime, ProRes 422, 24-bit 48 kHz PCM	QuickTime, ProRes 422, 24-bit 48 kHz PCM
+	QuickTime, ProRes 4444 (4:4:4) with alpha channel, 24-bit 48 kHz PCM	QuickTime, ProRes 4444 (4:4:4) พร้อมช่อง alpha, 24-bit 48 kHz PCM
+	QuickTime, ProRes 4444 (4:4:4), 24-bit 48 kHz PCM	QuickTime, ProRes 4444 (4:4:4), 24-bit 48 kHz PCM
+	QuickTime, ProRes 4444 XQ (4:4:4), 24-bit 48 kHz PCM	QuickTime, ProRes 4444 XQ (4:4:4), 24-bit 48 kHz PCM
+	Quit FilmCraft	ออกจาก FilmCraft
+	RAM reserved for other applications	หน่วย RAM สำหรับแอปพลิเคชันอื่น
+	RGB	RGB
+	RGB Curves	เส้นโค้ง RGB
+	RGB Split	แบ่ง RGB
+	RGB-White	RGB-ขาว
+	RGBA Channels	ช่องสี RGBA
+	Radial	รัศมี
+	Radial Blur	การเบลอรัศมี
+	Radial Ramp	ไล่ระดับแนวรัศมี
+	Radial Wipe	การตัดรัศมี
+	Radial Wipe (Legacy)	การตัดรัศมี (แบบเก่า)
+	Radio Announcer	ผู้ประกาศวิทยุ
+	Radio Voice	เสียงวิทยุ
+	Radius	รัศมี
+	Ramp	ไล่ระดับ
+	Ramp Shape	รูปร่างการไล่ระดับ
+	Random	สุ่ม
+	Random Seed	ค่าสุ่ม
+	Range	ช่วง
+	Range marker	มาร์กเกอร์ช่วง
+	Rate Stretch Tool	เครื่องมือยืดความเร็ว
+	Ratio	อัตราส่วน
+	Ray	รังสี
+	Ray Color	สีรังสี
+	Ray Length	ความยาวรังสี
+	Rays	รังสี
+	Rays Only	รังสีเพียงอย่างเดียว
+	Razor Tool	เครื่องมือตัด
+	Read	อ่าน
+	Ready	พร้อมใช้
+	Real name	ชื่อจริง
+	Rec. 2100	Rec. 2100
+	Rec. 601	Rec. 601
+	Rec. 709	Rec. 709
+	Recent	ล่าสุด
+	Recent Directories	โฟลเดอร์ล่าสุด
+	Recognize when different speakers are talking	ตรวจจับเมื่อผู้พูดต่างกันกำลังพูด
+	Reconnect Full Resolution Media…	เชื่อมต่อสื่อความละเอียดเต็มอีกครั้ง…
+	Record	บันทึก
+	Record (voice-over on the record-enabled track)	บันทึก (เสียงบรรยายบนแทร็กที่เปิดให้บันทึก)
+	Recorded {n} multi-camera cut(s)	บันทึก {n} ช่วงตัดแบบหลายกล้อง
+	Recording voice-over…	กำลังบันทึกเสียงบรรยาย…
+	Recover	กู้คืน
+	Recover Unsaved Changes	กู้คืนการเปลี่ยนแปลงที่ยังไม่บันทึก
+	Recover Unsaved Changes…	กู้คืนการเปลี่ยนแปลงที่ยังไม่บันทึก…
+	Recover unsaved changes from {when}?	กู้คืนการเปลี่ยนแปลงที่ยังไม่บันทึกจาก {when} หรือไม่?
+	Recovery copy: {dir}	สำเนาสำรอง: {dir}
+	Rectangle	สี่เหลี่ยม
+	Rectangle Tool	เครื่องมือรูปสี่เหลี่ยม
+	Red	แดง
+	Red Blurriness	ความเบลอสีแดง
+	Red Curve	เส้นโค้งสีแดง
+	Red Offset	การย้ายสีแดง
+	Red Power	พลังสีแดง
+	Red Slope	ความชันสีแดง
+	Red-Blue	แดง-น้ำเงิน
+	Red-Const	แดง-คงที่
+	Red-Green	แดง-เขียว
+	Red-Red	แดง-แดง
+	Redo	ทำซ้ำ
+	Reduce Axis	ลดแกน
+	Reduce By	ลดลงโดย
+	Reduce Interlace Flicker	ลดการกะพริบของภาพสลับเส้น
+	Reduce Noise	ลดเสียงรบกวน
+	Reduce Reverb	ลดเสียงสะท้อน
+	Reduce Rumble	ลดเสียงรบกวนต่ำ
+	Reference	อ้างอิง
+	Reference  {tc}	อ้างอิง {tc}
+	Reference Monitor	จออ้างอิง
+	Reference track:	แทร็กอ้างอิง:
+	Reference: next frame	อ้างอิง: เฟรมถัดไป
+	Reference: previous frame	อ้างอิง: เฟรมก่อนหน้า
+	Refine	ปรับแต่ง
+	Reflected	สะท้อน
+	Reflection Angle	มุมการสะท้อน
+	Reflection Center	จุดศูนย์กลางการสะท้อน
+	Refraction	การหักเห
+	Reframe Offset	ระยะเยื้องการจัดเฟรมใหม่
+	Reframe Zoom	ซูมการจัดเฟรมใหม่
+	Refresh	รีเฟรช
+	Refresh Changed Media	รีเฟรชสื่อที่เปลี่ยนแปลง
+	Refresh Project	รีเฟรชโปรเจกต์
+	Refresh Sort Order	อัปเดตลำดับการเรียง
+	Refresh growing Files Every	อัปเดตไฟล์ที่เติบโตทุก
+	Rel	รีลีส
+	Relaxed	แบบยืดหยุ่น
+	Release	รีลีส
+	Release Time	เวลาปล่อย
+	Relief	ความนูน
+	Relink others automatically	เชื่อมโยงอื่นอัตโนมัติ
+	Remaining	เหลืออยู่
+	Remix	รีมิกซ์
+	Remix Properties	คุณสมบัติรีมิกซ์
+	Remix Properties…	คุณสมบัติรีมิกซ์…
+	Remix Tool	เครื่องมือรีมิกซ์
+	Remixed to {seconds} s	รีมิกซ์เป็น {seconds} วินาทีแล้ว
+	Remixing music to a target duration is not available yet. Trim the clip and add a crossfade instead.	ยังไม่รองรับการรีมิกซ์เพลงให้ได้ระยะเวลาที่ต้องการ ให้ตัดแต่งคลิปแล้วเพิ่มครอสเฟดแทน
+	Remove	เอาออก
+	Remove Attributes	ลบคุณลักษณะ
+	Remove Attributes…	ลบคุณลักษณะ…
+	Remove Audio from AV Clip	ลบเสียงจากคลิป AV
+	Remove Custom Color	ลบสีเฉพาะ
+	Remove Effect	ลบเอฟเฟกต์
+	Remove Filler Words	ลบคำฟุ่มเฟือย
+	Remove Fringe	ลบขอบสี
+	Remove Media Cache Files	ลบไฟล์แคชสื่อ
+	Remove Pauses	ลบช่วงเงียบ
+	Remove Row	ลบแถว
+	Remove Send	ลบการส่ง
+	Remove Unused	ลบรายการที่ไม่ได้ใช้
+	Remove filler words	ลบคำฟุ่มเฟือย
+	Remove from Favorites	ลบออกจากรายการที่ชื่นชอบ
+	Remove from favorites	ลบออกจากรายการที่ชื่นชอบ
+	Remove keyframe	ลบคีย์เฟรม
+	Remove saved color	ลบสีที่บันทึกไว้
+	Rename	เปลี่ยนชื่อ
+	Rename…	เปลี่ยนชื่อ…
+	Render Audio	เรนเดอร์เสียง
+	Render Edit in Audition files to:	เรนเดอร์การตัดในไฟล์ Audition ไปยัง:
+	Render Effects In to Out	เรนเดอร์เอฟเฟกต์ระหว่างจุดเข้าและจุดออก
+	Render In to Out	เรนเดอร์ระหว่างจุดเข้าและจุดออก
+	Render Selection	เรนเดอร์ส่วนที่เลือก
+	Render at Maximum Depth	เรนเดอร์ด้วยความลึกสีสูงสุด
+	Render audio clip effects	เรนเดอร์เอฟเฟกต์ของคลิปเสียง
+	Render audio when rendering video	เรนเดอร์เสียงเมื่อเรนเดอร์วิดีโอ
+	Rendered preview	ตัวอย่างที่เรนเดอร์แล้ว
+	Renderer:	ตัวเรนเดอร์:
+	Rendering:	การเรนเดอร์:
+	Repair	ซ่อมแซม
+	Repeat Edge Pixels	ซ้ำพิกเซลขอบ
+	Replace	แทนที่
+	Replace Color	แทนสี
+	Replace File	แทนที่ไฟล์
+	Replace Fonts in Projects	แทนที่ฟอนต์ในโปรเจกต์
+	Replace Fonts in Projects…	แทนที่ฟอนต์ในโปรเจกต์…
+	Replace With Clip	แทนที่ด้วยคลิป
+	Replace With Clip From Source Monitor	แทนด้วยคลิปจากจอต้นฉบับ
+	Replace:	แทนที่:
+	Replaced {n} font uses	แทนที่การใช้ฟอนต์แล้ว {n} ตำแหน่ง
+	Replicate	คัดลอก
+	Report an Issue…	รายงานปัญหา…
+	Report an issue	รายงานปัญหา
+	Reset	รีเซ็ต
+	Reset All Parameters	รีเซ็ตพารามิเตอร์ทั้งหมด
+	Reset Duration	รีเซ็ตระยะเวลา
+	Reset Effect	รีเซ็ตเอฟเฟกต์
+	Reset Interface Zoom	รีเซ็ตการย่อขยายของอินเตอร์เฟซ
+	Reset Parameter	รีเซ็ตพารามิเตอร์
+	Reset to Grid	รีเซ็ตตำแหน่งให้สอดคล้องกับกริด
+	Reset to Saved Layout	คืนเค้าโครงที่บันทึกไว้
+	Reset…	รีเซ็ต…
+	Resize floating panel	ปรับขนาดแผงลอย
+	Responsive Design - Position	การออกแบบแบบตอบสนอง - ตำแหน่ง
+	Responsive Design - Time	การออกแบบแบบตอบสนอง - เวลา
+	Responsive Design – Time remaps the graphic's layer keyframes; clip effects like Opacity and Motion keep media time	การออกแบบตอบสนอง – เวลา จะปรับแมปคีย์เฟรมของเลเยอร์กราฟิก ส่วนเอฟเฟกต์คลิป เช่น ความทึบและการเคลื่อนไหว ยังคงใช้เวลาของสื่อ
+	Restore	คืนขนาด
+	Restore Arrangement	คืนค่าการจัดเรียง
+	Restore Captions from Source Clip	คืนคำบรรยายจากคลิปต้นฉบับ
+	Restore Frame	คืนขนาดแผง
+	Restore Original	คืนค่าต้นฉบับ
+	Restore View Preset	คืนค่าตั้งมุมมอง
+	Restore Workspace	คืนพื้นที่ทำงาน
+	Restore open sequences when opening projects	คืนซีเควนซ์ที่เปิดอยู่เมื่อเปิดโปรเจกต์
+	Restrict Trims To Subclip Boundaries	จำกัดการตัดแต่งให้อยู่ในขอบเขตคลิปย่อย
+	Result	ผลลัพธ์
+	Resulting Project	โปรเจกต์ผลลัพธ์
+	Retro	รีโตร
+	Reveal Log Files…	แสดงไฟล์บันทึกเหตุการณ์…
+	Reveal Nested Sequence	แสดงซีเควนซ์ที่ซ้อนอยู่
+	Reveal Original Image	แสดงภาพต้นฉบับ
+	Reveal Project in Finder…	แสดงโปรเจกต์ใน Finder…
+	Reveal Sequence in Project	แสดงซีเควนซ์ในโปรเจกต์
+	Reveal in Finder	แสดงใน Finder
+	Reveal in Project	แสดงในโปรเจกต์
+	Reverb	เสียงสะท้อน
+	Reverb Amount	ปริมาณเรเวิร์บ
+	Reverse	กลับด้าน
+	Reverse Field Dominance	สลับลำดับฟิลด์
+	Reverse Match Frame	จับคู่เฟรมย้อนกลับ
+	Reverse Speed	ความเร็วกลับ
+	Reverse the order	กลับลำดับ
+	Revert	ย้อนกลับเป็นฉบับที่บันทึกไว้
+	Revert Remix	ย้อนคืนรีมิกซ์
+	Revert to the preset's colors and names	ย้อนกลับสู่สีและชื่อตามค่าตั้งต้น
+	Review	ตรวจทาน
+	Right	ขวา
+	Right - Left	ขวา - ซ้าย
+	Right - Right	ขวา - ขวา
+	Right Align Text	จัดตำแหน่งข้อความขวา
+	Right align text	จัดตำแหน่งข้อความให้อยู่ด้านขวา
+	Right channel to device output	ส่งช่องขวาไปยังอุปกรณ์ส่งออก
+	Right to left	จากขวาไปซ้าย
+	Ripple Delete	ลบพร้อมปิดช่องว่าง
+	Ripple Delete Head Frame	ลบเฟรมต้นพร้อมปิดช่องว่าง
+	Ripple Edit Tool	เครื่องมือตัดต่อแบบริปเปิล
+	Ripple Edit, Shifting Trailing Clips	ตัดต่อแบบริปเปิล โดยเลื่อนคลิปที่ตามมา
+	Ripple Sequence Markers	เลื่อนมาร์กเกอร์ซีเควนซ์ตามการตัดต่อ
+	Ripple Trim In	ตัดแต่งจุดเข้าแบบริปเปิล
+	Ripple Trim Next Edit to Playhead	ตัดแต่งรอยตัดถัดไปแบบริปเปิลถึงหัวอ่าน
+	Ripple Trim Out	ตัดแต่งจุดออกแบบริปเปิล
+	Ripple Trim Previous Edit to Playhead	ตัดแต่งรอยตัดก่อนหน้าแบบริปเปิลถึงหัวอ่าน
+	Ripple trim adds edits to keep both sides of trim in sync	การตัดแต่งแบบริปเปิลเพิ่มรอยตัดเพื่อรักษาการซิงค์ทั้งสองด้าน
+	Role	บทบาท
+	Roll	เลื่อนข้อความ
+	Roll (Z Axis)	หมุน (แกน Z)
+	Roll Edit	ตัดต่อแบบโรล
+	Rolling Edit Tool	เครื่องมือตัดต่อแบบโรล
+	Room Size	ขนาดห้อง
+	Rose	ชมพูกุหลาบ
+	Rotation	การหมุน
+	Rotation Amount	ปริมาณการหมุน
+	Roughen	ทำให้ดูไม่เรียบ
+	Roughen Color	ทำให้ดูไม่เรียบ (สี)
+	Roughen Edges	ทำให้ขอบดูไม่เรียบ
+	Round cap	ปลายรูปแบบกลม
+	Round join	การต่อแบบกลม
+	Rounded Crop	ครอบตัดมุมมน
+	Roundness	ความกลม
+	Rows	แถว
+	Rule Color	สีเส้น
+	Russian	รัสเซีย
+	Rusty	สนิม
+	Rusty Color	สีสนิม
+	SFX	SFX
+	SMPTE HD bars with 1 kHz reference tone	แถบสี SMPTE HD พร้อมเสียงอ้างอิง 1 kHz
+	Safe Margins	ขอบเขตปลอดภัย
+	Safe graphics mode: {mode}	โหมดกราฟิกปลอดภัย: {mode}
+	Same as Project	เหมือนกับโปรเจกต์
+	Sample Rate	อัตราสุ่มตัวอย่าง
+	Sample Rate:	อัตราสุ่มตัวอย่าง:
+	Sample Size	ขนาดตัวอย่าง
+	Sat vs Sat	ความอิ่มสีเทียบความอิ่มสี
+	Saturation	ความอิ่มสี
+	Saturation Min	ความอิ่มสีต่ำสุด
+	Saturation at 50 %	ความอิ่มสีที่ 50 %
+	Save	บันทึก
+	Save .cfa and .pek media cache files next to original media files when possible	บันทึกไฟล์ข้อมูล .cfa และ .pek ของสื่อไว้ข้างๆ ไฟล์สื่อต้นฉบับเมื่อเป็นไปได้
+	Save All	บันทึกทั้งหมด
+	Save Arrangement	บันทึกการจัดวาง
+	Save Arrangement…	บันทึกการจัดเรียง…
+	Save As New View Preset	บันทึกเป็นค่าตั้งมุมมองใหม่
+	Save As…	บันทึกเป็น…
+	Save Changes to this Workspace	บันทึกการเปลี่ยนแปลงพื้นที่ทำงานนี้
+	Save Current View Preset	บันทึกค่าตั้งมุมมองปัจจุบัน
+	Save Guides as Template	บันทึกเส้นไกด์เป็นแม่แบบ
+	Save Guides as Template…	บันทึกเส้นไกด์เป็นแม่แบบ…
+	Save Preset	บันทึกค่าที่ตั้งไว้
+	Save Preset…	บันทึกค่าที่ตั้งไว้…
+	Save Project	บันทึกโปรเจกต์
+	Save a Copy…	บันทึกสำเนา…
+	Save as New Workspace…	บันทึกเป็นพื้นที่ทำงานใหม่…
+	Save as Template	บันทึกเป็นแม่แบบ
+	Save as Template…	บันทึกเป็นแม่แบบ…
+	Save changes to “{project_name}” before closing?	บันทึกการเปลี่ยนแปลงลงใน “{project_name}” ก่อนปิด?
+	Save color	บันทึกสี
+	Save current settings as:	บันทึกการตั้งค่าปัจจุบันเป็น:
+	Save preset as:	บันทึกค่าที่ตั้งไว้เป็น:
+	Saved as a FilmCraft graphics template (.fcgt) in your templates folder.	บันทึกเป็นแม่แบบกราฟิก FilmCraft (.fcgt) ในโฟลเดอร์แม่แบบของคุณ
+	Saved preset “{name}”	บันทึกค่าตั้ง “{name}” แล้ว
+	Saved template {path}	แม่แบบที่เก็บไว้: {path}
+	Saves the view, columns, sort, thumbnail and font size.	บันทึกมุมมอง คอลัมน์ การเรียงลำดับ ภาพย่อ และขนาดฟอนต์
+	Saves this session's log and shows it in your file manager.	บันทึกบันทึกการใช้งานและแสดงในโฟลเดอร์ไฟล์ของคุณ
+	Scale	มาตราส่วน
+	Scale (Degrees)	การขยาย (องศา)
+	Scale Amount	ปริมาณการขยาย
+	Scale Attribute Times	ปรับสัดส่วนเวลาของคุณลักษณะ
+	Scale From	ขยายจาก
+	Scale Height	ความสูงการขยาย
+	Scale Match	การจับคู่การขยาย
+	Scale To	ขยายไปยัง
+	Scale To Fill	ปรับขนาดให้เต็มพื้นที่
+	Scale To Fit	ปรับขนาดให้เข้ากับพื้นที่
+	Scale Width	ความกว้างการขยาย
+	Scale motion effects proportionally when changing frame size	ปรับขนาดเอฟเฟกต์การเคลื่อนที่ให้สัดส่วนเมื่อเปลี่ยนขนาดเฟรม
+	Scale to Frame Size	ปรับขนาดให้พอดีเฟรม
+	Scale to frame size	ขยายไปยังขนาดเฟรม
+	Scaling	การขยายขนาด
+	Scan Lines	เส้นแนวนอน
+	Scene	ฉาก
+	Scene Edit Detection	ตรวจจับจุดตัดฉาก
+	Scene Edit Detection: analysing in the background (see Progress)	การตรวจจับการตัดฉาก: กำลังวิเคราะห์ในพื้นหลัง (ดูข้อมูลความก้าวหน้า)
+	Scene Edit Detection…	ตรวจจับรอยตัดของฉาก…
+	Scene:	ฉาก:
+	Scientific Filter	กรองทางวิทยาศาสตร์
+	Scratch Disks	ดิสก์พักข้อมูล
+	Scratch Disks…	ดิสก์พักข้อมูล…
+	Scratch disk location for Captured Audio	ตำแหน่งดิสก์สำหรับการจัดเก็บเสียงที่ถูกจับ
+	Screen	หน้าจอ
+	Search	ค้นหา
+	Search Bin	ถังสื่อค้นหา
+	Search commands or keys	ค้นหาคำสั่งหรือคีย์
+	Search effects	ค้นหาเอฟเฟกต์
+	Search fields	ค้นหาฟิลด์
+	Search in:	ค้นหาใน:
+	Search markers	ค้นหามาร์กเกอร์
+	Search name, notes, author	ค้นหาชื่อ โน้ต ผู้สร้าง
+	Search presets	ค้นหาค่าที่ตั้งไว้
+	Search templates	ค้นหาแม่แบบ
+	Search:	ค้นหา:
+	Seconds	วินาที
+	Segmentation Marker	มาร์กเกอร์แบ่งช่วง
+	Segments	ส่วนย่อย
+	Segments:	ช่วง:
+	Select	เลือก
+	Select All	เลือกทั้งหมด
+	Select All Matching	เลือกรายการที่ตรงกันทั้งหมด
+	Select All Project Items	เลือกทุกชิ้นของโปรเจกต์
+	Select Camera 1	เลือกกล้อง 1
+	Select Camera 2	เลือกกล้อง 2
+	Select Camera 3	เลือกกล้อง 3
+	Select Camera 4	เลือกกล้อง 4
+	Select Camera 5	เลือกกล้อง 5
+	Select Camera 6	เลือกกล้อง 6
+	Select Camera 7	เลือกกล้อง 7
+	Select Camera 8	เลือกกล้อง 8
+	Select Camera 9	เลือกกล้อง 9
+	Select Clip at Playhead	เลือกคลิปที่หัวอ่าน
+	Select Find Box	เลือกกล่องค้นหา
+	Select Label Group	เลือกกลุ่มป้ายกำกับ
+	Select Next Clip	เลือกคลิปถัดไป
+	Select Next Graphic	เลือกกราฟิกถัดไป
+	Select Next Layer	เลือกเลเยอร์ถัดไป
+	Select Next Panel	เลือกแผงถัดไป
+	Select Previous Clip	เลือกคลิปก่อนหน้า
+	Select Previous Graphic	เลือกกราฟิกก่อนหน้า
+	Select Previous Layer	เลือกเลเยอร์ก่อนหน้า
+	Select Previous Panel	เลือกแผงก่อนหน้า
+	Select a clip to grade	เลือกคลิปเพื่อปรับสี
+	Select a clip to see its properties	เลือกคลิปเพื่อดูคุณลักษณะ
+	Select a clip to view its metadata.	เลือกคลิปเพื่อดูเมทาดาทา
+	Select a graphic clip, or use the Type tool (T) on the Program monitor	เลือกคลิปกราฟิก หรือใช้เครื่องมือข้อความ (T) บนจอโปรแกรม
+	Select a layer to edit its properties.	เลือกเลเยอร์เพื่อแก้ไขคุณสมบัติ
+	Select all	เลือกทั้งหมด
+	Select all visible markers	เลือกมาร์กเกอร์ที่มองเห็นทั้งหมด
+	Select an item to preview it	เลือกไอเทมเพื่อดูตัวอย่าง
+	Select audio clips to edit them here	เลือกคลิปเสียงเพื่อแก้ไขที่นี่
+	Select audio clips, then click a preset to apply it.	เลือกคลิปเสียง แล้วคลิกค่าที่ตั้งไว้เพื่อใช้งาน
+	Select items to clear	เลือกรายการเพื่อล้าง
+	Select one clip (or a linked clip) in the Timeline, or one item in the Project panel, to rename	เลือกคลิปหนึ่ง (หรือคลิปที่เชื่อมโยง) ในไทม์ไลน์ หรือรายการหนึ่งในแผงโปรเจกต์ เพื่อเปลี่ยนชื่อ
+	Select to Next Line	เลือกไปยังบรรทัดถัดไป
+	Select to Next Word	เลือกไปยังคำถัดไป
+	Select to Previous Line	เลือกไปยังบรรทัดก่อนหน้า
+	Select to Previous Word	เลือกไปยังคำก่อนหน้า
+	Select to Segment End	เลือกไปยังจุดสิ้นสุดของส่วน
+	Select to Segment Start	เลือกไปยังจุดเริ่มต้นของส่วน
+	Selected: {command}	เลือก: {command}
+	Selection Follows Playhead	เลือกคลิปตามหัวอ่าน
+	Selection Order	ลำดับการเลือก
+	Selection Tool	เครื่องมือการเลือก
+	Selection as FilmCraft Project…	ส่วนที่เลือกเป็นโปรเจกต์ FilmCraft…
+	Selection…	ส่วนที่เลือก…
+	Semi-tones	ครึ่งเสียง
+	Send Backward	เลื่อนไปด้านหลังหนึ่งระดับ
+	Send exports here with Send to Queue, then start the queue.	ส่งการส่งออกนี้มาที่นี่ด้วย 'ส่งไปยังคิว' แล้วเริ่มคิว
+	Send to Back	ย้ายไปหลังสุด
+	Send to Queue	ส่งไปยังคิว
+	Send {n} Level	ระดับส่งเสียง {n}
+	Sensitivity	ความไว
+	Sensitivity:	ความไว:
+	Separate Audio	แยกเสียง
+	Separate Files	แยกไฟล์
+	Sepia Tone	โทนซีเปีย
+	Sequence	ซีเควนซ์
+	Sequence Color Management	การจัดการสีของซีเควนซ์
+	Sequence From Clip	สร้างซีเควนซ์จากคลิป
+	Sequence Name	ชื่อซีเควนซ์
+	Sequence Name:	ชื่อซีเควนซ์:
+	Sequence Settings	การตั้งค่าซีเควนซ์
+	Sequence Settings…	ตั้งค่าซีเควนซ์…
+	Sequence Time	เวลาของซีเควนซ์
+	Sequence Timecode	ไทม์โค้ดของซีเควนซ์
+	Sequence name	ชื่อซีเควนซ์
+	Sequence, {w}x{h}, {fps} fps, {rate} Hz	ซีเควนซ์, {w}x{h}, {fps} fps, {rate} Hz
+	Sequence: {name}	ซีเควนซ์: {name}
+	Sequence: {settings}	ซีเควนซ์: {settings}
+	Sequences	ซีเควนซ์
+	Sequence…	ซีเควนซ์…
+	Sequentially	เรียงตามลำดับ
+	Set	ตั้งค่า
+	Set Comparison Reference	ตั้งค่าเป็นจุดอ้างอิงสำหรับการเปรียบเทียบ
+	Set Creative Look	ตั้งค่าดีไซน์สร้างสรรค์
+	Set Gain to:	ตั้งเกนเป็น:
+	Set Input LUT	ตั้งค่า LUT แหล่งเข้า
+	Set Poster Frame	ตั้งเฟรมภาพตัวแทน
+	Set Project Panel View	ตั้งค่าการมองเห็นแผงโปรเจกต์
+	Set Timecode:	ตั้งไทม์โค้ด:
+	Set Transition Duration	ตั้งระยะเวลาทรานซิชัน
+	Set Work Area Bar In Point	ตั้งจุดเข้าของแถบพื้นที่ทำงาน
+	Set Work Area Bar Out Point	ตั้งจุดออกของแถบพื้นที่ทำงาน
+	Set as Default Transition	ตั้งเป็นทรานซิชันเริ่มต้น
+	Set focus on the Timeline when performing Insert/Overwrite edits	ตั้งค่าให้โฟกัสอยู่ที่ไทม์ไลน์เมื่อทำการแก้ไขแบบ Insert/Overwrite
+	Set the reference to the playhead	ตั้งค่าอ้างอิงเป็นตำแหน่งหัวอ่าน
+	Set to frame size	ตั้งค่าเป็นขนาดเฟรม
+	Setting	การตั้งค่า
+	Settings	การตั้งค่า
+	Settings:	การตั้งค่า:
+	Shadow	เงา
+	Shadow Angle	มุมเงา
+	Shadow Balance	สมดุลส่วนเงา
+	Shadow Blue Balance	การสมดุลสีน้ำเงินของเงา
+	Shadow Blur	การเบลอของเงา
+	Shadow Color	สีของเงา
+	Shadow Distance	ระยะของเงา
+	Shadow Green Balance	การสมดุลสีเขียวของเงา
+	Shadow Hue	เฉดสีส่วนเงา
+	Shadow Level	ระดับส่วนเงา
+	Shadow Only	เงาเฉพาะ
+	Shadow Opacity	ความทึบของเงา
+	Shadow Red Balance	การสมดุลสีแดงของเงา
+	Shadow Size	ขนาดของเงา
+	Shadow Softness	ความนุ่มของส่วนเงา
+	Shadow Threshold	เกณฑ์ส่วนเงา
+	Shadow Tint	สีสันของเงา
+	Shadows	ส่วนที่มืด
+	Shadows Lightness	ความสว่างส่วนเงา
+	Shake	การสั่น
+	Shape	รูปร่าง
+	Shape Dissolve	การละลายรูปทรง
+	Shape Flow	การไหลของรูปทรง
+	Shape Size	ขนาดรูปทรง
+	Shapes	รูปทรง
+	Shard Size	ขนาดชิ้นส่วน
+	Sharp Colors	สีที่ชัดเจน
+	Sharpen	เพิ่มความคมชัด
+	Sharpen Amount	ปริมาณเพิ่มความคมชัด
+	Shift Center To	ย้ายจุดศูนย์กลางไปยัง
+	Shift clips that overlap trim point during ripple trimming	เลื่อนคลิปที่ทับจุดตัดแต่งขณะตัดแต่งแบบริปเปิล
+	Shortcut	แป้นพิมพ์ลัด
+	Shot	ช็อต
+	Shot/Take:	ช็อต/การถ่าย:
+	Show	แสดง
+	Show "Project:" and "Bin:" in Project panel tab	แสดง "โปรเจกต์:" และ "ถังสื่อ:" บนแท็บแผงโปรเจกต์
+	Show Active Caption Tracks Only	แสดงเฉพาะแทร็กคำบรรยายที่ใช้งาน
+	Show All	แสดงทั้งหมด
+	Show All Caption Tracks	แสดงแทร็กคำบรรยายทั้งหมด
+	Show All Marker Colors	แสดงมาร์กเกอร์ทุกสี
+	Show Audio Names	แสดงชื่อเสียง
+	Show Audio Waveform	แสดงคลื่นเสียง
+	Show Clip Mismatch Warning dialog	แสดงหน้าต่างเตือนข้อผิดพลาดของคลิปไม่ตรงกัน
+	Show Dot	แสดงจุด
+	Show Duplicate Frame Markers	แสดงมาร์กเกอร์เฟรมซ้ำ
+	Show Event Indicator	แสดงตัวชี้เหตุการณ์
+	Show Focus Area	แสดงพื้นที่โฟกัส
+	Show Guides	แสดงเส้นไกด์
+	Show Home	แสดงหน้าแรก
+	Show Keyframes	แสดงคีย์เฟรม
+	Show Mask	แสดงมาสก์
+	Show Mask Tracker Preview	แสดงการดูตัวอย่างการติดตามมาสก์
+	Show Multi-Camera Preview Monitor	แสดงจอแสดงตัวอย่างหลายกล้อง
+	Show Next Screen	แสดงหน้าถัดไป
+	Show Only Noise	แสดงเฉพาะสัญญาณรบกวน
+	Show Open Dialog	แสดงหน้าต่างเปิด
+	Show Previous Screen	แสดงหน้าก่อนหน้า
+	Show Program Transcript	แสดงข้อความถอดเสียงของโปรแกรม
+	Show Project Load Error Dialog	แสดงหน้าต่างเตือนข้อผิดพลาดการโหลดโปรเจกต์
+	Show Rich Tool Tips	แสดงคำอธิบายรายละเอียด (Tool Tips)
+	Show Role	แสดงบทบาท
+	Show Rulers	แสดงไม้บรรทัด
+	Show Through Edits	แสดงรอยตัดต่อเนื่อง
+	Show Tool Tips	แสดงคำอธิบาย (Tool Tips)
+	Show Transport Controls	แสดงปุ่มควบคุมการเล่น
+	Show Video Names	แสดงชื่อวิดีโอ
+	Show Video Thumbnails	แสดงภาพตัวอย่างวิดีโอ
+	Show Workspace Reset Warning dialog on double click	แสดงเตือนการรีเซ็ตพื้นที่ทำงานเมื่อคลิกสองครั้ง
+	Show clip names	แสดงชื่อคลิป
+	Show durations	แสดงระยะเวลา
+	Show finished jobs	แสดงงานที่เสร็จแล้ว
+	Show graphs	แสดงกราฟ
+	Show in the Preset menu	แสดงในเมนูค่าที่ตั้งไว้
+	Show or hide {color} markers	แสดงหรือซ่อนมาร์กเกอร์สี {color}
+	Show system compatibility issues at startup	แสดงปัญหาความเข้ากันได้ของระบบเมื่อเริ่มต้น
+	Show the presets folder	แสดงโฟลเดอร์ค่าตั้งต้น
+	Show {n}	แสดง {n}
+	Show/Hide Effects and Sends	แสดง/ซ่อนเอฟเฟกต์และช่องส่งเสียง
+	Show/Hide Tracks	แสดง/ซ่อนแทร็ก
+	Show/Hide Tracks…	แสดง/ซ่อนแทร็ก…
+	Show:	แสดง:
+	Shows a report on this computer.	แสดงรายงานเกี่ยวกับคอมพิวเตอร์นี้
+	Shows the version, community links and credits in a FilmCraft window.	แสดงเวอร์ชัน ลิงก์ของชุมชน และเครดิตในหน้าต่างของ FilmCraft
+	Shrink	ย่อ
+	Shutter Angle	มุมชัตเตอร์
+	Shuttle Left	เล่นกรอย้อนกลับ
+	Shuttle Right	เล่นกรอไปข้างหน้า
+	Shuttle Slow Left	เล่นกรอย้อนกลับช้า
+	Shuttle Slow Right	เล่นกรอไปข้างหน้าช้า
+	Shuttle Stop	หยุดเล่นกรอ
+	Signal Scale	มาตราส่วนสัญญาณ
+	Silver Retention	คงสารเงิน
+	Similarity	ความคล้ายกัน
+	Simple Notch Filter	กรองแบบง่าย (Notch Filter)
+	Simple Parametric EQ	Equalizer แบบพารามิเตอร์ง่าย
+	Simple Text	ข้อความง่าย
+	Simplify	ลดความซับซ้อน
+	Simplify Sequence	ลดความซับซ้อนของซีเควนซ์
+	Simplify Sequence…	ลดความซับซ้อนของซีเควนซ์…
+	Single-band Compressor	คอมเพรสเซอร์ย่านเดียว
+	Sinusoidal	รูปคลื่นไซน์
+	Six procedural 1080p clips with sound	คลิป 1080p ที่สร้างด้วยโปรแกรม 6 คลิปพร้อมเสียง
+	Size	ขนาด
+	Size / Opacity	ขนาด / ความทึบ
+	Skew	เอียง
+	Skew Axis	แกนเอียง
+	Slab Color	สีของแผ่น
+	Slats	แผงสี่เหลี่ยม
+	Slice	ตัดชิ้น
+	Slices	ชิ้นหลายชิ้น
+	Slide	เลื่อน
+	Slide (Legacy)	เลื่อน (แบบเก่า)
+	Slide Clip Selection Left Five Frames	เลื่อนคลิปที่เลือกแบบสไลด์ไปซ้าย 5 เฟรม
+	Slide Clip Selection Left One Frame	เลื่อนคลิปที่เลือกแบบสไลด์ไปซ้าย 1 เฟรม
+	Slide Clip Selection Right Five Frames	เลื่อนคลิปที่เลือกแบบสไลด์ไปขวา 5 เฟรม
+	Slide Clip Selection Right One Frame	เลื่อนคลิปที่เลือกแบบสไลด์ไปขวา 1 เฟรม
+	Slide Tool	เครื่องมือสไลด์คลิป
+	Slip Clip Selection Left Five Frames	เลื่อนเนื้อหาคลิปที่เลือกแบบสลิปไปซ้าย 5 เฟรม
+	Slip Clip Selection Left One Frame	เลื่อนเนื้อหาคลิปที่เลือกแบบสลิปไปซ้าย 1 เฟรม
+	Slip Clip Selection Right Five Frames	เลื่อนเนื้อหาคลิปที่เลือกแบบสลิปไปขวา 5 เฟรม
+	Slip Clip Selection Right One Frame	เลื่อนเนื้อหาคลิปที่เลือกแบบสลิปไปขวา 1 เฟรม
+	Slip Tool	เครื่องมือสลิปเนื้อหาคลิป
+	Slope	ความชัน
+	Slow	ช้า
+	Slower Motion	การเคลื่อนไหวช้า
+	Small Caps	ตัวเล็กเป็นตัวใหญ่
+	Small Room	ห้องเล็ก
+	Smaller	เล็กลง
+	Smart Limit	ขีดจำกัดอัตโนมัติ
+	Smart Tools	เครื่องมืออัตโนมัติ
+	Smart quotes	เครื่องหมายอัญประกาศอัจฉริยะ
+	Smooth	เรียบ
+	Smooth Motion	การเคลื่อนไหวเรียบ
+	Smooth Scroll	การเลื่อนเรียบ
+	Smoothness	ความเรียบ
+	Snap in Program Monitor	ดูดติดในจอโปรแกรม
+	Snap in Timeline	ดูดติดในไทม์ไลน์
+	Snap in Timeline (S)	ดูดติดในไทม์ไลน์ (S)
+	Snap playhead in Timeline when Snap is enabled	ดูดหัวอ่านให้ติดตำแหน่งในไทม์ไลน์เมื่อเปิดการดูดติด
+	Snap to grid	ดูดติดตาราง
+	Social Vertical 1080×1920	วิดีโอโซเชียลแนวตั้ง 1080×1920
+	Soft	อ่อน
+	Soft Clamp	การปิดกั้นแบบอ่อน
+	Soft Clip	จำกัดพีกแบบนุ่มนวล
+	Soft Edges (Best Quality)	ขอบอ่อน (คุณภาพดีที่สุด)
+	Soft Light	แสงอ่อน
+	Soft Vignette	ขอบมืดนุ่มนวล
+	Soft Wipe	การลบแบบอ่อน
+	Soften	นุ่มขึ้น
+	Soften Harshness	ลดความรุนแรง
+	Softness	ความอ่อน
+	Solarize	สีสันแบบโซลารายซ์
+	Solid	เส้นทึบ
+	Solid Colors	สีคงที่
+	Solo	เล่นเดี่ยว
+	Solo safe	ยกเว้นการปิดเสียงเมื่อแทร็กอื่นเล่นเดี่ยว
+	Something went wrong while drawing the window. Your project is still open; save it to be safe.	เกิดข้อผิดพลาดขณะแสดงหน้าต่าง โปรเจกต์ยังเปิดอยู่ กรุณาบันทึกเพื่อป้องกันงานสูญหาย
+	Sort	เรียงลำดับ
+	Sort Icons	เรียงไอคอน
+	Sort Order	ลำดับการเรียง
+	Source	แหล่งที่มา
+	Source In/Out	จุดเข้า/จุดออกของต้นฉบับ
+	Source In/Out is only 1 frame. Choose Entire Source to export the whole sequence.	ช่วงจุดเข้า/ออกของต้นฉบับมีเพียง 1 เฟรม เลือกทั้งต้นฉบับเพื่อส่งออกทั้งซีเควนซ์
+	Source Play/Stop	เล่น/หยุดต้นฉบับ
+	Source Point	จุดต้นฉบับ
+	Source Settings	ตั้งค่าต้นฉบับ
+	Source Settings…	ตั้งค่าต้นฉบับ…
+	Source Text	ข้อความต้นฉบับ
+	Source Timecode	ไทม์โค้ดต้นฉบับ
+	Source channels the selected audio clips play:	ช่องต้นฉบับที่คลิปเสียงที่เลือกจะเล่น:
+	Source code on GitHub	ซอร์สโค้ดบน GitHub
+	Source · {name}	ต้นฉบับ · {name}
+	Source:	แหล่งเสียง:
+	Source: {name}	ต้นฉบับ: {name}
+	Source: {name} (shared source markers)	ต้นฉบับ: {name} (มาร์กเกอร์ต้นฉบับร่วมกัน)
+	Spacer	ช่องว่าง
+	Spanish	สเปน
+	Speaker	ผู้พูด
+	Speaker Angle	มุมลำโพง
+	Speaker Labeling	การจัดป้ายผู้พูด
+	Special	พิเศษ
+	Special Effects	เอฟเฟกต์พิเศษ
+	Speech model	โมเดลการพูด
+	Speech-to-text turns the dialogue into editable text.	การถอดเสียงจะเปลี่ยนบทสนทนาเป็นข้อความที่แก้ไขได้
+	Speed	ความเร็ว
+	Speed {n}%	ความเร็ว {n}%
+	Speed/Duration…	ความเร็ว/ระยะเวลา…
+	Speed:	ความเร็ว:
+	Spherize	ทำให้เป็นทรงกลม
+	Spiky	รูปแบบแหลม
+	Spill	สีปนเปื้อน
+	Spill Suppression	ลดสีปนเปื้อน
+	Spin	หมุน
+	Spin Direction	ทิศทางการหมุน
+	Spin Motion	การเคลื่อนไหวหมุน
+	Split	แบ่ง
+	Split (Legacy)	แบ่ง (แบบเก่า)
+	Split Caption	แยกคำบรรยาย
+	Split caption at playhead	แยกคำบรรยายที่หัวอ่าน
+	Spotlight	แสงจุด
+	Spread	การกระจาย
+	Spring Motion	การเคลื่อนไหวแบบสปริง
+	Square	สี่เหลี่ยมจัตุรัส
+	Square (Width Only)	สี่เหลี่ยม (เฉพาะความกว้าง)
+	Square 1:1	สี่เหลี่ยม 1:1
+	Square Pixels (1.0)	พิกเซลรูปสี่เหลี่ยม (1.0)
+	Stabilization	ลดการสั่นไหว
+	Stabilize Only	ลดการสั่นไหวเท่านั้น
+	Stabilize, Crop	ลดการสั่นไหวและครอบตัด
+	Stabilize, Crop, Auto-scale	ลดการสั่นไหว ครอบตัด และปรับขนาดอัตโนมัติ
+	Stabilize, Synthesize Edges	ลดการสั่นไหวและสังเคราะห์ขอบ
+	Stack	ซ้อนกอง
+	Stack Clips	ซ้อนกองคลิป
+	Stages	ขั้นตอน
+	Standard	มาตรฐาน
+	Star	ดาว
+	Star Wipe	การลบแบบดาว
+	Start Angle	มุมเริ่มต้น
+	Start Color	สีเริ่มต้น
+	Start Export Queue	เริ่มคิวการส่งออก
+	Start Off Screen	เริ่มต้นนอกหน้าจอ
+	Start Point	จุดเริ่มต้น
+	Start Queue	เริ่มคิว
+	Start Voice-over Recording	เริ่มบันทึกเสียง
+	Start at 0	เริ่มที่ 0
+	Start at 1	เริ่มที่ 1
+	Start at Cut	เริ่มที่จุดตัด
+	Start of Ramp	จุดเริ่มของการเปลี่ยนแปลง
+	Start with an Empty Project	เริ่มด้วยโปรเจกต์ว่าง
+	Start:	เริ่ม:
+	Start: {tc}	เริ่มต้น: {tc}
+	Starting Intensity	ความเข้มเริ่มต้น
+	Static Plates	แผ่นคงที่
+	Status	สถานะ
+	Steel Blue	ฟ้าเหล็ก
+	Step Back 1 Frame	ย้อนกลับ 1 เฟรม
+	Step Back 1 Frame (Left)	ย้อนกลับ 1 เฟรม (ซ้าย)
+	Step Back Five Frames	ย้อนกลับ 5 เฟรม
+	Step Back One Frame	ย้อนกลับ 1 เฟรม
+	Step Forward 1 Frame	เดินหน้า 1 เฟรม
+	Step Forward 1 Frame (Right)	ก้าวไปหน้า 1 เฟรม (ขวา)
+	Step Forward Five Frames	ก้าวไปหน้า 5 เฟรม
+	Step Forward One Frame	ก้าวไปหน้า 1 เฟรม
+	Step forward/back many	เดินหน้า/ย้อนกลับครั้งละหลายเฟรม
+	Stereo	สเตอริโอ
+	Stereo Expand	ขยายสเตอริโอ
+	Stereo Expander	ตัวขยายสเตอริโอ
+	Stereo Imagery	ภาพสเตอริโอ
+	Stereo Media	สื่อสเตอริโอ
+	Stereo Phasing	การจัดระยะสเตอริโอ
+	Stereo Width	ความกว้างแบบสเตอริโอ
+	Stereoscopic - Over/Under	สเตอริโอ - บน/ล่าง
+	Stereoscopic - Side by Side	สเตอริโอ - ข้างกัน
+	Still	ภาพนิ่ง
+	Still Image Default Duration	ระยะเวลาเริ่มต้นของภาพนิ่ง
+	Stone Church	โบสถ์สโตน
+	Stop	หยุด
+	Stop Export Queue	หยุดคิวการส่งออก
+	Stop Multi-Camera Recording	หยุดบันทึกหลายกล้อง
+	Stop Source	หยุดต้นฉบับ
+	Stop Voice-over Recording	หยุดบันทึกเสียง
+	Stop tracking	หยุดการติดตาม
+	Stopband Attenuation	การดูดซับความถี่ที่ตัดออก
+	Straight Color	สีคงที่
+	Strength	ความเข้ม
+	Stretch	ยืดตัว
+	Stretch Gradient to Fit	การยืดสีให้เข้ากับขนาด
+	Stretch Map to Fit	การยืดแผนผังให้เข้ากับขนาด
+	Stretch To Fill	ยืดขยายเพื่อเติมพื้นที่
+	Stretch Width or Height	การยืดความกว้างหรือความสูง
+	Stretch Wipe	การยืดภาพตัด
+	Stretch to Fit Frame	ยืดให้เข้ากับเฟรม
+	Strikethrough	ขีดฆ่า
+	Stripe	เส้นแนวนอน
+	Stripes	เส้นแนวนอนหลายเส้น
+	Strobe Color	สีสโตรบ
+	Strobe Duration (secs)	ระยะเวลาสโตรบ (วินาที)
+	Strobe Light	แสงสโตรบ
+	Strobe Period (secs)	คาบสโตรบ (วินาที)
+	Stroke	เส้นขอบ
+	Stroke 2	เส้นขอบ 2
+	Stroke 2 Color	สีของเส้นที่ 2
+	Stroke 2 Type	ประเภทของเส้นที่ 2
+	Stroke 2 Width	ความกว้างของเส้นที่ 2
+	Stroke Angle	มุมของเส้น
+	Stroke Color	สีของเส้น
+	Stroke Density	ความหนาแน่นของเส้น
+	Stroke Length	ความยาวของเส้น
+	Stroke Length (secs)	ความยาวของเส้น (วินาที)
+	Stroke Only	ใช้เฉพาะเส้น
+	Stroke Randomness	ความสุ่มของเส้น
+	Stroke Type	ประเภทของเส้น
+	Stroke Width	ความกว้างของเส้น
+	Stroke line cap	รูปทรงปลายเส้น
+	Stroke line join	รูปทรงจุดต่อเส้น
+	Studio Reverb	รีเวอร์สตูดิโอ
+	Style	ลักษณะ
+	Stylize	ปรับลักษณะ
+	SubRip Subtitle (.srt)	คำบรรยาย SubRip (.srt)
+	Subclip End	จุดสิ้นสุดคลิปย่อย
+	Subclip Start	จุดเริ่มคลิปย่อย
+	Subclip: {name}	คลิปย่อย: {name}
+	Subspace Warp	บิดปรับเฉพาะบริเวณ
+	Subtitle	คำบรรยาย
+	Subtract	ลบออก
+	Sum multichannel outputs to mono in Source Monitor	รวมช่องเสียงหลายช่องเป็นเสียงเดียวในจอต้นฉบับ
+	Summary	สรุป
+	Super Narrow	แคบมาก
+	Surface Gloss	ความเงาของพื้นผิว
+	Surface Material	วัสดุพื้นผิว
+	Surround Reverb	รีเวอร์รอบตัว
+	Swap	สลับ
+	Swap Channels	สลับช่อง
+	Switch Audio	สลับเสียง
+	Swivel	หมุน
+	Sync Voice-over Capture	ซิงค์การบันทึกเสียงบรรยาย
+	Sync with system	สอดคล้องกับระบบ
+	Synchronize Clips	ซิงโครไนซ์คลิป
+	Synchronize Point	จุดซิงโครไนซ์
+	Synchronized {n} clip group(s)	ซิงโครไนซ์คลิปแล้ว {n} กลุ่ม
+	Synchronize…	ซิงโครไนซ์…
+	Synthetic	สังเคราะห์
+	System Compatibility Report	รายงานความเข้ากันได้กับระบบ
+	System Compatibility Report…	รายงานความเข้ากันได้ของระบบ…
+	System Default	ค่าเริ่มต้นของระบบ
+	System Language	ภาษาของระบบ
+	System color picker unavailable: {error}	ไม่สามารถเปิดตัวเลือกสีของระบบได้: {error}
+	TIFF	TIFF
+	TIFF Sequence	ซีเควนซ์ TIFF
+	TV Power	พลังสัญญาณโทรทัศน์
+	Table	ตาราง
+	Tag Color	สีของป้าย
+	Tan	น้ำตาลอ่อน
+	Tape	เทป
+	Tape Name	ชื่อเทป
+	Tape Name:	ชื่อเทป:
+	Tape/Tube	เทป/หลอดสุญญากาศ
+	Targa	Targa
+	Targa Sequence	ลำดับ Targa
+	Target	เป้าหมาย
+	Target Aspect	อัตราส่วนเป้าหมาย
+	Target Bitrate	อัตราบิตเป้าหมาย
+	Target Color	สีเป้าหมาย
+	Target Duration:	ระยะเวลาเป้าหมาย:
+	Target Field of View	มุมมองเป้าหมาย
+	Target Loudness	ความดังเป้าหมาย
+	Teal	เขียวน้ำทะเล
+	Teal & Orange	เขียวน้ำทะเลและส้ม
+	Teal Shadows, Warm Skin	เงาเขียวน้ำทะเล ผิวโทนอุ่น
+	Technical	เทคนิค
+	Telephone	โทรศัพท์
+	Teletext	เทเลท็กซ์
+	Temperature	อุณหภูมิ
+	Template Name:	ชื่อแม่แบบ:
+	Template Properties	คุณลักษณะแม่แบบ
+	Temporal Interpolation	การแทรกค่าตามเวลา
+	Text	ข้อความ
+	Text (graphics and captions)	ข้อความ (กราฟิกและคำบรรยาย)
+	Text Animator	ผู้ควบคุมข้อความ
+	Text Box Height	ความสูงของกล่องข้อความ
+	Text Box Width	ความกว้างของกรอบข้อความ
+	Text Color	สีข้อความ
+	Text Layer Type	ชนิดเลเยอร์ข้อความ
+	Text Properties	คุณสมบัติข้อความ
+	Text Styling	การจัดรูปแบบข้อความ
+	Text to Speech	แปลงข้อความเป็นเสียง
+	TextPanel	แผงข้อความ
+	The control server is disabled: FILMCRAFT_CONTROL_TOKEN must contain 64 random hex characters (see docs/control-protocol.md)	เซิร์ฟเวอร์ควบคุมถูกปิด: FILMCRAFT_CONTROL_TOKEN ต้องมี 64 ตัวเลขเฮกซาเดซิมอลที่สุ่ม (ดูเอกสาร control-protocol.md)
+	The default graphics are used from the next start.	ใช้กราฟิกเริ่มต้นจากครั้งถัดไป
+	The language changed but could not be saved: {e}	ภาษาถูกเปลี่ยน แต่ไม่สามารถบันทึกได้: {e}
+	The media cache holds render previews of unsaved projects and other files FilmCraft can recreate. Deleting them is always safe; FilmCraft rebuilds them as needed.	ไฟล์แคชของสื่อเก็บภาพสรุปการเรนเดอร์ของโปรเจกต์ที่ยังไม่ได้รับการบันทึกและไฟล์อื่นๆ ที่ FilmCraft สามารถสร้างขึ้นได้ การลบมันเป็นเรื่องที่ปลอดภัยเสมอ; FilmCraft จะสร้างใหม่เมื่อจำเป็น
+	The project had not been saved yet.	โปรเจกต์นี้ยังไม่เคยบันทึก
+	The selected clips have different audio types. Assign one type to edit them together.	คลิปที่เลือกมีประเภทเสียงที่ต่างกัน ต้องกำหนดประเภทเสียงเดียวกันเพื่อให้สามารถตัดต่อได้ร่วมกัน
+	The sequence has no caption track.	ซีเควนซ์นี้ไม่มีแทร็กคำบรรยาย
+	Thickness	ความหนา
+	This build has no speech-to-text; import a transcript with transcript.set.	รุ่นนี้ไม่มีระบบถอดเสียง นำเข้าข้อความถอดเสียงด้วย transcript.set
+	This clip does not match the sequence settings.	คลิปนี้มีการตั้งค่าไม่ตรงกับซีเควนซ์
+	Thr	เกณฑ์
+	Three-Way Color Corrector	ตัวแก้สีสามช่วง
+	Threshold	ค่าเกณฑ์
+	Thumbnail Size Next	ขนาดตัวอย่างภาพถัดไป
+	Thumbnail Size Previous	ขนาดตัวอย่างภาพก่อนหน้า
+	Thumbnail View	โหมดภาพย่อ
+	Thumbnail controls for all pointing devices	การควบคุมภาพตัวอย่างสำหรับอุปกรณ์ที่ชี้จุด
+	Thumbnails	ภาพขนาดย่อ
+	Thumbnails show effects applied	ภาพตัวอย่างแสดงเอฟเฟกต์ที่ใช้
+	Ticked attributes are removed from the selected clips.	คุณลักษณะที่ทำเครื่องหมายจะถูกลบออกจากคลิปที่เลือก
+	Ticker – Crawl	แถบข่าว – เลื่อนแนวนอน
+	TikTok 1080×1920	TikTok 1080×1920
+	Tile Gradient	กราดแบบแบ่งชิ้น
+	Tilt	การเอียง
+	Tilt (X Axis)	การเอียง (แกน X)
+	Time	เวลา
+	Time Interpolation	การแทรกค่าเวลา
+	Time Remapping	ปรับแมปเวลา
+	Time and Pitch	เวลาและระดับเสียงสูงต่ำ
+	Time is outside the supported range	เวลาอยู่นอกช่วงที่รองรับ
+	Timebase:	ฐานเวลา:
+	Timecode	ไทม์โค้ด
+	Timecode Conversion	การแปลงไทม์โค้ด
+	Timecode Overlay	การวางไทม์โค้ด
+	Timecode:	ไทม์โค้ด:
+	Timecode…	ไทม์โค้ด…
+	Timeline	ไทม์ไลน์
+	Timeline Display Settings	การตั้งค่าการแสดงไทม์ไลน์
+	Timeline Mouse Scrolling	การเลื่อนเมาส์บนไทม์ไลน์
+	Timeline Playback Auto-Scrolling	การเลื่อนอัตโนมัติขณะเล่นบนไทม์ไลน์
+	Timeline: (no sequences)	ไทม์ไลน์: (ไม่มีซีเควนซ์)
+	Timeline…	ไทม์ไลน์…
+	Tint	โทนสี
+	Tint Color	สีปรับโทน
+	Title	ชื่อเรื่อง
+	Title Color	สีของหัวข้อ
+	Title Safe Area	พื้นที่ปลอดภัยสำหรับชื่อเรื่อง
+	Title Size	ขนาดหัวข้อ
+	Title – Boxed	หัวข้อ – ติดกรอบ
+	Title – Centered	หัวข้อ – จัดอยู่ตรงกลาง
+	Titles	หัวข้อ
+	To	ไปยัง
+	To {name}	ไปยัง {name}
+	Toggle All Audio Targets	สลับเป้าหมายเสียงทั้งหมด
+	Toggle All Source Audio	สลับเสียงต้นฉบับทั้งหมด
+	Toggle All Source Video	สลับวิดีโอต้นฉบับทั้งหมด
+	Toggle All Video Targets	สลับเป้าหมายวิดีโอทั้งหมด
+	Toggle Audio During Scrubbing	สลับเสียงขณะเลื่อน
+	Toggle Full Screen	สลับหน้าจอเต็มหน้าจอ
+	Toggle Mute for All Targeted Audio Tracks	สลับการปิดเสียงสำหรับแทร็กเสียงเป้าหมายทั้งหมด
+	Toggle Proxies	สลับใช้พร็อกซี
+	Toggle Solo for All Targeted Audio Tracks	สลับการเล่นเดี่ยวสำหรับแทร็กเสียงเป้าหมายทั้งหมด
+	Toggle Source/Program Monitor Focus	สลับโฟกัสจอต้นฉบับ/จอโปรแกรม
+	Toggle Target Audio 1	สลับเสียงเป้าหมาย 1
+	Toggle Target Audio 2	สลับเสียงเป้าหมาย 2
+	Toggle Target Audio 3	สลับเสียงเป้าหมาย 3
+	Toggle Target Audio 4	สลับเสียงเป้าหมาย 4
+	Toggle Target Audio 5	สลับเสียงเป้าหมาย 5
+	Toggle Target Audio 6	สลับเสียงเป้าหมาย 6
+	Toggle Target Audio 7	สลับเสียงเป้าหมาย 7
+	Toggle Target Audio 8	สลับเสียงเป้าหมาย 8
+	Toggle Target Video 1	สลับวิดีโอเป้าหมาย 1
+	Toggle Target Video 2	สลับวิดีโอเป้าหมาย 2
+	Toggle Target Video 3	สลับวิดีโอเป้าหมาย 3
+	Toggle Target Video 4	สลับวิดีโอเป้าหมาย 4
+	Toggle Target Video 5	สลับวิดีโอเป้าหมาย 5
+	Toggle Target Video 6	สลับวิดีโอเป้าหมาย 6
+	Toggle Target Video 7	สลับวิดีโอเป้าหมาย 7
+	Toggle Target Video 8	สลับวิดีโอเป้าหมาย 8
+	Toggle Track Output for All Targeted Video Tracks	สลับการส่งออกของแทร็กสำหรับทุกแทร็กวิดีโอที่เลือก
+	Toggle Trim Type	สลับรูปแบบการตัด
+	Toggle View	สลับโหมดการดู
+	Toggle animation	สลับการเคลื่อนไหว
+	Tolerance	ค่าความคลาดเคลื่อน
+	Tonal Range	ช่วงโทน
+	Tone	โทน
+	Tools	เครื่องมือ
+	Top	บน
+	Top Center	กลางด้านบน
+	Top Left	ซ้ายด้านบน
+	Top Right	ขวาด้านบน
+	Total Duration	ระยะเวลาทั้งหมด
+	Touch	สัมผัส
+	Track Color	สีของแทร็ก
+	Track Fx Editor	ตัวแก้ไขเอฟเฟกต์แทร็ก
+	Track Keyframes	คีย์เฟรมแทร็ก
+	Track Matte Key	คีย์แมตต์จากแทร็ก
+	Track Select Backward Tool	เครื่องมือเลือกแทร็กย้อนหลัง
+	Track Select Forward Tool	เครื่องมือเลือกแทร็กไปข้างหน้า
+	Track Selected Mask	ติดตามมาสก์ที่เลือก
+	Track selected mask backward	ติดตามมาสก์ที่เลือกย้อนกลับ
+	Track selected mask backward 1 frame	ติดตามมาสก์ที่เลือกย้อนกลับ 1 เฟรม
+	Track selected mask forward	ติดตามมาสก์ที่เลือกไปข้างหน้า
+	Track selected mask forward 1 frame	ติดตามมาสก์ที่เลือกไปข้างหน้า 1 เฟรม
+	Track type	ชนิดแทร็ก
+	Tracking	ระยะห่างตัวอักษร
+	Tracking method: {method}	วิธีการติดตาม: {method}
+	Tracks	แทร็ก
+	Transcode	แปลงสื่อ
+	Transcribe	ถอดเสียง
+	Transcribe Sequence	ถอดเสียงซีเควนซ์
+	Transcribe Sequence…	ถอดเสียงซีเควนซ์…
+	Transcribe sequence	ถอดเสียงซีเควนซ์
+	Transcribe…	ถอดเสียง…
+	Transcript	ข้อความถอดเสียง
+	Transcription	การถอดเสียง
+	Transcription preferences	ตั้งค่าการถอดเสียง
+	Transform	การเปลี่ยนรูปแบบ
+	Transformers	เครื่องมือการเปลี่ยนรูปแบบ
+	Transience	ทรานเซียนต์
+	Transition Completion	ความคืบหน้าทรานซิชัน
+	Transition Softness	ความอ่อนของทรานซิชัน
+	Transitions	ทรานซิชัน
+	Transmit Multi-Camera View	ส่งออกมุมมองหลายกล้องไปยังจอภายนอก
+	Transparency	ความโปร่งใส
+	Transparency Grid	กริดความโปร่งใส
+	Transparent Video…	วิดีโอโปร่งใส…
+	Trash	ขยะ
+	Travel Motion	การเคลื่อนที่แบบเดินทาง
+	Treble	เสียงแหลม
+	Triangle	สามเหลี่ยม
+	Trim	ตัดช่วง
+	Trim Backward	ตัดแต่งย้อนหนึ่งเฟรม
+	Trim Backward Many	ตัดแต่งย้อนหลายเฟรม
+	Trim Edit	ตัดแต่งรอยต่อ
+	Trim Forward	ตัดแต่งไปข้างหน้าหนึ่งเฟรม
+	Trim Forward Many	ตัดแต่งไปข้างหน้าหลายเฟรม
+	Trim In	ตัดแต่งจุดเข้า
+	Trim Next Edit to Playhead	ตัดแต่งรอยตัดถัดไปถึงหัวอ่าน
+	Trim Out	ตัดแต่งจุดออก
+	Trim Previous Edit to Playhead	ตัดแต่งรอยตัดก่อนหน้าถึงหัวอ่าน
+	Trim audio files	ตัดแต่งไฟล์เสียง
+	Trimming	การตัดแต่ง
+	Trim…	ตัดแต่ง…
+	True Peak Limit	ขีดจำกัดทรูพีก
+	Tube	หลอดสุญญากาศ
+	Tube-modeled Compressor	คอมเพรสเซอร์จำลองหลอดสุญญากาศ
+	Tubular	รูปทรงท่อ
+	Turbulent	ปั่นป่วน
+	Turbulent Displace	บิดแบบปั่นป่วน
+	Turbulent Sharp	ปั่นป่วนแบบคม
+	Turbulent Smooth	ปั่นป่วนแบบเรียบ
+	Turbulent Smoother	ปั่นป่วนแบบเรียบมาก
+	Turn on animation and add keyframe	เปิดการเคลื่อนไหวและเพิ่มคีย์เฟรม
+	Tweed	สไตล์ทวีด
+	Twirl	หมุน
+	Twirl (Legacy)	หมุน (รุ่นเก่า)
+	Twirl Center	หมุนที่ศูนย์กลาง
+	Twirl Radius	หมุนตามรัศมี
+	Twist	หมุน
+	Twist Smoother	หมุนราบรื่น
+	Type	ชนิด
+	Type Tool	เครื่องมือข้อความ
+	Type a shortcut… (Esc cancels)	พิมพ์แป้นพิมพ์ลัด… (กด Esc เพื่อยกเลิก)
+	Type:	ชนิด:
+	Typewriter	พิมพ์ดีด
+	UI Scale	ขนาดส่วนติดต่อผู้ใช้
+	UI:	ส่วนติดต่อผู้ใช้:
+	URL	URL
+	Ultra Key	อัลตราคีย์
+	Uncompressed	ไม่บีบอัด
+	Uncompressed (PCM)	ไม่ถูกบีบอัด (PCM)
+	Underline	ขีดเส้นใต้
+	Undo	เลิกทำ
+	Undock Panel	แยกแผงลอย
+	Ungroup	ยกเลิกการจัดกลุ่ม
+	Uniform Scale	การขยายขนาดแบบสม่ำเสมอ
+	Uniform Spacing	การจัดระยะแบบสม่ำเสมอ
+	Universal Counting Leader…	วิดีโอนับถอยหลังมาตรฐาน…
+	Unlink	ยกเลิกการเชื่อมโยง
+	Unreadable	ไม่สามารถอ่านได้
+	Unrendered: render to play back in real time	ยังไม่เรนเดอร์: ต้องเรนเดอร์เพื่อเล่นแบบเรียลไทม์
+	Unrendered: should play back in real time	ยังไม่เรนเดอร์: ควรเล่นแบบเรียลไทม์
+	Unsharp Mask	อันชาร์ปมาสก์
+	Unstack	แยกกอง
+	Unstack Clips	ถอดคลิปออกจากกัน
+	Untagged	ไม่มีการจัดประเภท
+	Untitled	ไม่มีชื่อ
+	Untitled Workspace	พื้นที่ทำงานไม่มีชื่อ
+	Up One Level	ขึ้นหนึ่งระดับ
+	Up one level	ขึ้นหนึ่งระดับ
+	Update Metadata	อัปเดตเมทาดาทา
+	Update Metadata…	อัปเดตเมทาดาทา…
+	Update it at least every	อัปเดตอย่างน้อยทุก
+	Update timeline dynamically during ripple edits.	อัปเดตไทม์ไลน์ทันทีขณะตัดต่อแบบริปเปิล
+	Upgrade Caption to Graphic	แปลงคำบรรยายเป็นกราฟิก
+	Upgrade to Source Graphic	แปลงเป็นกราฟิกต้นฉบับ
+	Upper First	ฟิลด์บนก่อน
+	Upper Frequency	ความถี่สูง
+	Upper Left	ด้านบนซ้าย
+	Upper Right	ด้านบนขวา
+	Use Color Noise	ใช้สีรบกวน
+	Use Default Graphics	ใช้กราฟิกเริ่มต้น
+	Use Effect Shutter Angle	ใช้ค่ามุมของชัตเตอร์ของเอฟเฟกต์
+	Use End Color	ใช้สีสุดท้าย
+	Use File	ใช้ไฟล์
+	Use Glow Color	ใช้สีแสง
+	Use Maximum Render Quality	ใช้คุณภาพการเรนเดอร์สูงสุด
+	Use Media Source	ใช้แหล่งสื่อ
+	Use Tint Color	ใช้สีปรับโทน
+	Use file metadata	ใช้เมทาดาทาของไฟล์
+	Use the file's timecode	ใช้ไทม์โค้ดของไฟล์
+	Use the hardware encoder when available	ใช้ตัวเข้ารหัสฮาร์ดแวร์เมื่อพร้อมใช้งาน
+	User	ผู้ใช้
+	User Order	ลำดับของผู้ใช้
+	Username	ชื่อผู้ใช้
+	Utility	เครื่องมือ
+	VBR, 1 pass	VBR, 1 รอบ
+	VBR, 2 pass	VBR, 2 รอบ
+	VHS Damage	ความเสียหายของ VHS
+	VR Blur	เบลอ VR
+	VR Chroma Leaks	สีรั่ว VR
+	VR Chromatic Aberrations	ความคลาดสี VR
+	VR Color Gradients	ไล่ระดับสี VR
+	VR De-Noise	ลดสัญญาณรบกวน VR
+	VR Digital Glitch	ภาพผิดเพี้ยนดิจิทัล VR
+	VR Fractal Noise	สัญญาณรบกวนแฟรกทัล VR
+	VR Glow	เรืองแสง VR
+	VR Gradient Wipe	กวาดตามการไล่ระดับ VR
+	VR Iris Wipe	ม่านเปิด VR
+	VR Light Leaks	แสงรั่ว VR
+	VR Light Rays	ลำแสง VR
+	VR Mobius Zoom	ซูมเมอบิอุส VR
+	VR Plane to Sphere	แปลงระนาบเป็นทรงกลม VR
+	VR Projection	การฉายภาพ VR
+	VR Properties	คุณสมบัติ VR
+	VR Random Blocks	บล็อกสุ่ม VR
+	VR Rotate Sphere	หมุนทรงกลม VR
+	VR Sharpen	เพิ่มความคมชัด VR
+	VR Spherical Blur	เบลอทรงกลม VR
+	Validate Content Credentials on import	ตรวจสอบข้อมูลรับรองเนื้อหาเมื่อนำเข้า
+	Value	ค่า
+	Variations:	รูปแบบ:
+	Vectorscope (YUV)	เวกเตอร์สโคป (YUV)
+	Vectorscope + Waveform YC	เวกเตอร์สโคป + รูปคลื่น YC
+	Vectorscope HLS	เวกเตอร์สโคป HLS
+	Vectorscope Targets	เป้าหมายของเวกเตอร์สโคป
+	Vectorscope YUV	เวกเตอร์สโคป YUV
+	Velocity	ความเร็ว
+	Venetian Blinds	ม่านเกล็ด
+	Version	เวอร์ชัน
+	Version {version}	เวอร์ชัน {version}
+	Vertical	แนวตั้ง
+	Vertical 4:5	แนวตั้ง 4:5
+	Vertical 9:16	แนวตั้ง 9:16
+	Vertical Alignment	การจัดตำแหน่งแนวตั้ง
+	Vertical Blocks	บล็อกแนวตั้ง
+	Vertical Decentering	การย้ายศูนย์แนวตั้ง
+	Vertical Displacement	การย้ายตำแหน่งแนวตั้ง
+	Vertical Flip	การกลับแนวตั้ง
+	Vertical Margin	ช่องว่างแนวตั้ง
+	Vertical Text	ข้อความแนวตั้ง
+	Vertical Type Tool	เครื่องมือข้อความแนวตั้ง
+	Very Narrow	แคบมาก
+	Vibrance	ความเข้มสี
+	Video	วิดีโอ
+	Video 1	วิดีโอ 1
+	Video 2	วิดีโอ 2
+	Video 3	วิดีโอ 3
+	Video 4	วิดีโอ 4
+	Video 5	วิดีโอ 5
+	Video 6	วิดีโอ 6
+	Video 7	วิดีโอ 7
+	Video 8	วิดีโอ 8
+	Video Attributes	คุณลักษณะวิดีโอ
+	Video Codec	ตัวแปลงสัญญาณวิดีโอ
+	Video Duration	ระยะเวลาวิดีโอ
+	Video Effects	เอฟเฟกต์วิดีโอ
+	Video Frame	เฟรมวิดีโอ
+	Video In	จุดเข้าวิดีโอ
+	Video In Point	จุดเข้าของวิดีโอ
+	Video Info	ข้อมูลวิดีโอ
+	Video Limiter	ขีดจำกัดวิดีโอ
+	Video Names	ชื่อวิดีโอ
+	Video Only	วิดีโอเท่านั้น
+	Video Options	ตัวเลือกวิดีโอ
+	Video Out	จุดออกวิดีโอ
+	Video Out Point	จุดออกของวิดีโอ
+	Video Previews	ตัวอย่างวิดีโอ
+	Video Previews:	ไฟล์ตัวอย่างวิดีโอ:
+	Video Rendering and Playback	การเรนเดอร์และการเล่นวิดีโอ
+	Video Thumbnails	ภาพย่อวิดีโอ
+	Video Tracks	แทร็กวิดีโอ
+	Video Transition Default Duration	ระยะเวลาเริ่มต้นของทรานซิชันวิดีโอ (ค่าเริ่มต้น)
+	Video Transitions	ทรานซิชันวิดีโอ
+	Video Usage	การใช้งานวิดีโอ
+	Video Usage: {vu}  Audio Usage: {au}	การใช้งานวิดีโอ: {vu} การใช้งานเสียง: {au}
+	Video and Audio	วิดีโอและเสียง
+	Video and Audio Waveform Split	แยกวิดีโอและรูปคลื่นเสียง
+	Video and Waveform	วิดีโอและรูปคลื่น
+	Video effects	เอฟเฟกต์วิดีโอ
+	Video {n}:	วิดีโอ {n}:
+	Video:	วิดีโอ:
+	View	มุมมอง
+	Vignette	ขอบมืด
+	Vimeo 1080p Full HD	Vimeo 1080p Full HD
+	Vimeo 2160p 4K Ultra HD	Vimeo 2160p 4K Ultra HD
+	Violet	ม่วงไวโอเลต
+	Vivid Light	แสงสด
+	Vocal Booth	ห้องพูด
+	Vocal Enhancer	เพิ่มคุณภาพเสียงพูด
+	Voice	เสียง
+	Voice in a Hall	เสียงในห้อง
+	Voice-Over Record Settings	ตั้งค่าบันทึกเสียงบรรยาย
+	Voice-Over Record Settings…	ตั้งค่าบันทึกเสียงบรรยาย…
+	Voice-over Record	บันทึกเสียงบรรยาย
+	Voice-over record (right-click: Voice-Over Record Settings…)	บันทึกเสียงบรรยาย (คลิกขวา: ตั้งค่าบันทึกเสียงบรรยาย…)
+	Voice-over recorded: {p}	บันทึกเสียงบรรยายแล้ว: {p}
+	Voice-over recording stopped (nothing recorded)	หยุดบันทึกเสียงบรรยายแล้ว (ไม่มีเสียงที่บันทึก)
+	Voice-over take discarded	ทิ้งเทคเสียงบรรยายแล้ว
+	Voiceover	เสียงบรรยาย
+	Volume	ระดับเสียง
+	Volume (drag; double-click: 0 dB)	ระดับเสียง (ดึง; คลิกสองครั้ง: 0 dB)
+	Volumetric Rays	รังสีสามมิติ
+	WAV, stereo 48 kHz 16-bit PCM	WAV, สองช่อง 48 kHz 16-bit PCM
+	WAV, stereo 48 kHz 24-bit PCM	WAV, สองช่อง 48 kHz 24-bit PCM
+	Warm Film	แสงอุ่นแบบฟิล์ม
+	Warm Negative	เนกาทีฟโทนอุ่น
+	Warm Room	ห้องอุ่น
+	Warm Tint	สีอุ่น
+	Warm Voice	เสียงอุ่น
+	Warm highlights, brown shadows	ส่วนสว่างโทนอุ่นและเงาสีน้ำตาล
+	Warm print stock with gentle roll-off	สต็อกพิมพ์อุ่นพร้อมการลดลงอ่อนๆ
+	Warm, soft late-afternoon light	แสงช่วงบ่ายที่อ่อนโยน
+	Warning	คำเตือน
+	Warnings and Errors	คำเตือนและข้อผิดพลาด
+	Warp Stabilizer	ลดการสั่นไหวแบบวาร์ป
+	Wave	คลื่น
+	Wave Height	ความสูงของคลื่น
+	Wave Speed	ความเร็วของคลื่น
+	Wave Warp	บิดแบบคลื่น
+	Wave Width	ความกว้างของคลื่น
+	Waveform	รูปคลื่น
+	Waveform (Luma)	รูปแบบคลื่น (ลูม่า)
+	Waveform (RGB)	รูปแบบคลื่น (RGB)
+	Waveform ({kind})	รูปคลื่น ({kind})
+	Waveform Audio	คลื่นเสียง
+	Waveform Audio 48 kHz 16-bit	คลื่นเสียง 48 kHz 16-bit
+	Waveform Audio 48 kHz 24-bit	คลื่นเสียง 48 kHz 24-bit
+	Waveform Type	ชนิดรูปคลื่น
+	Wavelength	ความยาวคลื่น
+	Web & Social	เว็บและโซเชียล
+	Web Link	ลิงก์เว็บ
+	WebVTT (.vtt)	ข้อความแบบ WebVTT (.vtt)
+	Wet	สัญญาณผ่านเอฟเฟกต์
+	Wet Out	เอาต์พุตสัญญาณผ่านเอฟเฟกต์
+	When Opening a Project	เมื่อเปิดโปรเจกต์
+	When enabled, GIF transparency is on/off: alpha below 128 is transparent; 128 and above is opaque.	เมื่อเปิดใช้ ความโปร่งใส GIF จะมีสองระดับ: อัลฟาต่ำกว่า 128 คือโปร่งใส ตั้งแต่ 128 ขึ้นไปคือทึบ
+	Whip	หมุน
+	Whip (Legacy)	หมุน (แบบเก่า)
+	Whisper base (balanced)	Whisper base (สมดุล)
+	Whisper small (most accurate)	Whisper small (แม่นยำที่สุด)
+	Whisper tiny (fastest)	Whisper tiny (เร็วที่สุด)
+	White	สีขาว
+	White Input Level	ระดับสัญญาณสีขาว
+	White Is High	สีขาวคือสูง
+	White/Black	ขาว/ดำ
+	Whites	สีขาว
+	Wide Outdoor	ภายนอกที่กว้าง
+	Wide gamut color (composite in BT.2020)	สีช่วงกว้าง (ผสมใน BT.2020)
+	Widener	ขยายความกว้าง
+	Width	ความกว้าง
+	Width:	ความกว้าง:
+	Wiggle	สั่น
+	Window	หน้าต่าง
+	Wipe	กวาดภาพ
+	Wipe Angle	มุมกวาดภาพ
+	Without keyframes	ไม่รวมคีย์เฟรม
+	Wonder Glow	แสงประกายพิเศษ
+	Work Area	พื้นที่ทำงาน
+	Work Area Bar	แถบพื้นที่ทำงาน
+	Working Color Space	ปริภูมิสีทำงาน
+	Working Color Space:	ปริภูมิสีทำงาน:
+	Workspaces	พื้นที่ทำงาน
+	Wrap Back	กลับมา
+	Write	เขียน
+	Write Automation	เขียนการอัตโนมัติ
+	Write XMP ID to files on import	เขียน ID XMP ลงไฟล์เมื่อนำเข้า
+	Write clip markers to XMP	เขียนมาร์กเกอร์คลิปลงใน XMP
+	Write keyframes	สร้างคีย์เฟรม
+	Write the metadata of the selected clip(s) ({n}) to XMP files next to their media?	เขียนเมทาดาทาของคลิปที่เลือก ({n}) ลงในไฟล์ XMP ข้างไฟล์สื่อหรือไม่?
+	Write-on	เขียนข้อมูล
+	X Rotation	การหมุน X
+	Y Rotation	การหมุน Y
+	YC	YC
+	YC no Chroma	YC ไม่มีโครมา
+	YUV	YUV
+	Yellow	เหลือง
+	Yellow-green highlights and blue-lifted shadows from crossed channel curves	สีเหลืองเขียวในจุดสูงสุดและเงาสีน้ำเงินจากเส้นโค้งช่องที่ตัดกัน
+	Yes	ใช่
+	YouTube 1080p Full HD	YouTube 1080p Full HD
+	YouTube 2160p 4K Ultra HD	YouTube 2160p 4K Ultra HD
+	YouTube Shorts 1080×1920	YouTube Shorts 1080×1920
+	Z Position	ตำแหน่ง Z
+	Z Rotation	การหมุน Z
+	ZIP (1 scan line)	ZIP (1 ไลน์สแกน)
+	ZIP (16 scan lines)	ZIP (16 ไลน์สแกน)
+	Zoom	ย่อ/ขยาย
+	Zoom Amount	ปริมาณการขยาย
+	Zoom Blur	การเบลอการขยาย
+	Zoom In	ขยาย
+	Zoom Out	ย่อ
+	Zoom Program Monitor to 100%	ขยายจอโปรแกรมเป็น 100%
+	Zoom Program Monitor to Fit	ขยายจอโปรแกรมให้เข้ากับขนาด
+	Zoom Source Monitor to 100%	ขยายจอต้นฉบับเป็น 100%
+	Zoom Source Monitor to Fit	ขยายจอต้นฉบับให้เข้ากับขนาด
+	Zoom Strength	ความเข้มของการขยาย
+	Zoom Tool	เครื่องมือขยาย
+	Zoom to Sequence	ซูมให้พอดีซีเควนซ์
+	auto level	ระดับอัตโนมัติ
+	compression	การบีบอัด
+	days	วัน
+	first marker	มาร์กเกอร์แรก
+	frames	เฟรม
+	hardware encoder	ตัวเข้ารหัสฮาร์ดแวร์
+	horizontal	แนวนอน
+	in	เข้า
+	just now	เมื่อสักครู่
+	keyframe every	คีย์เฟรมทุก
+	level	ระดับ
+	lossless	ไม่สูญเสียข้อมูล
+	lowest (V1…)	ต่ำที่สุด (V1…)
+	milliseconds	มิลลิวินาที
+	minute(s)	นาที
+	no Chinese font is installed on this system; the interface stays in English	ไม่มีฟอนต์จีนติดตั้งบนระบบ; หน้าจอจะยังคงเป็นภาษาอังกฤษ
+	no GPU adapter: the CPU compositor is used	ไม่มีฮาร์ดแวร์กราฟิก: ใช้คอมโพสิเตอร์ด้วย CPU
+	no Japanese font is installed on this system; the interface stays in English	ไม่มีฟอนต์ญี่ปุ่นติดตั้งบนระบบ; หน้าจอจะยังคงเป็นภาษาอังกฤษ
+	no Korean font is installed on this system; the interface stays in English	ไม่มีฟอนต์เกาหลีติดตั้งบนระบบ; หน้าจอจะยังคงเป็นภาษาอังกฤษ
+	no Thai font is installed on this system; the interface stays in English	ไม่พบฟอนต์ไทยในระบบ จึงยังแสดงหน้าจอเป็นภาษาอังกฤษ
+	not available in this session	ไม่สามารถใช้งานในช่วงเวลานี้
+	out	ออก
+	pre 	ก่อน 
+	quality	คุณภาพ
+	second(s)	วินาที
+	seconds	วินาที
+	software rendering	การเรนเดอร์ด้วยซอฟต์แวร์
+	tracks	แทร็ก
+	uncompressed	ไม่บีบอัด
+	vertical	แนวตั้ง
+	with:	พร้อม:
+	{active} (modified)	{active} (แก้ไข)
+	{category} · My Template	{category} · แม่แบบของฉัน
+	{codec} · {rate} Hz · {n} channel(s)	{codec} · {rate} Hz · {n} ช่อง
+	{count} selected	{count} ถูกเลือก
+	{first} - Merged	{first} - รวม
+	{first} Multicam	{first} หลายกล้อง
+	{fps} fps · {n} frames queued	{fps} เฟรม/วินาที · รอเล่น {n} เฟรม
+	{frames} frames ({seconds} s)	{frames} เฟรม ({seconds} วินาที)
+	{f} (missing)	{f} (ขาดหายไป)
+	{key} can't be used as a shortcut	ไม่สามารถใช้ {key} เป็นแป้นพิมพ์ลัดได้
+	{mode} · no clip	{mode} · ไม่มีคลิป
+	{mode} · no sequence	{mode} · ไม่มีซีเควนซ์
+	{name} (Modified)	{name} (แก้ไขแล้ว)
+	{name} (Simplified)	{name} (เรียบง่าย)
+	{name} (copy)	{name} (สำเนา)
+	{name} (user)	{name} (ผู้ใช้)
+	{name} - Edited	{name} - แก้ไขแล้ว
+	{name} Selection.fcproj	{name} Selection.fcproj
+	{name} already exists, so nothing was exported. To replace it, choose it in the save dialog.	มี {name} อยู่แล้ว จึงยังไม่ได้ส่งออก หากต้องการแทนที่ ให้เลือกไฟล์นั้นในหน้าต่างบันทึก
+	{n} Color	{n} สี
+	{n} Font	ฟอนต์ {n}
+	{n} Position	{n} ตำแหน่ง
+	{n} Size	{n} ขนาด
+	{n} clip(s) can't find their media. Locate them, search a folder, or leave them offline.	{n} คลิปไม่พบสื่อ ค้นหา หรือค้นในโฟลเดอร์ หรือปล่อยให้อยู่ออฟไลน์
+	{n} clip(s) selected.	{n} คลิปถูกเลือก
+	{n} clip(s) selected; the clip on the reference track stays put.	{n} คลิปถูกเลือก; คลิปบนแทร็กอ้างอิงจะยังคงอยู่
+	{n} clip(s): {names}	{n} คลิป: {names}
+	{n} editable properties	{n} คุณสมบัติที่สามารถแก้ไขได้
+	{n} files	{n} ไฟล์
+	{n} h ago	{n} ชม. ที่แล้ว
+	{n} items	{n} รายการ
+	{n} min ago	{n} นาทีที่แล้ว
+	{n} s ago	{n} วินาทีที่แล้ว
+	{n} sessions have unsaved changes:	มี {n} เซสชันที่ยังมีการเปลี่ยนแปลงที่ไม่ได้บันทึก:
+	{n}. (empty)	{n}. (ว่าง)
+	{panel} Panel	แผง {panel}
+	{panel} — coming in a later milestone	{panel} — จะพร้อมใช้งานในระยะถัดไป
+	{rate} fps Drop-Frame Timecode	ไทม์โค้ด {rate} เฟรม/วินาที แบบดรอปเฟรม
+	{rate} fps Non Drop-Frame Timecode	ไทม์โค้ด {rate} เฟรม/วินาที แบบไม่ดรอปเฟรม
+	{rate} fps Timecode	ไทม์โค้ดที่ {rate} fps
+	{rate} frames/second	{rate} เฟรม/วินาที
+	{sel} of {total} items selected	{sel} จาก {total} รายการถูกเลือก
+	{tc}  Chapter	{tc}  บท
+	{total} items	{total} รายการ
+	“{file}” already exists in “{folder}”. Do you want to replace it?	ไฟล์ "{file}" อยู่ใน "{folder}" แล้ว คุณต้องการแทนที่มันหรือไม่?
+	● Recording	● กำลังบันทึก
+	✓ Enable	✓ เปิดใช้งาน
+	✔ matches	✔ ตรงกัน
+	✔ same file	✔ ไฟล์เดียวกัน
+	✖ different file	✖ ไฟล์ต่างกัน

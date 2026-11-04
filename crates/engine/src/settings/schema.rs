@@ -217,6 +217,7 @@ pub(super) static CATEGORIES: &[Category] = &[
                     // CJK names follow the Latin ones. Edit ▸ Language lists them the same way.
                     ("id", "Bahasa Indonesia"),
                     ("bs", "Bosanski"),
+                    ("th", "ไทย"),
                     ("cs", "Čeština"),
                     ("de", "Deutsch"),
                     ("es", "Español"),

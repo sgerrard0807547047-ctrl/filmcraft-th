@@ -10,6 +10,38 @@ use super::{
 
 pub(crate) const RANGES: [(&str, &str); 4] = [("entire", "Entire Source"), ("inOut", "Source In/Out"), ("workArea", "Work Area"), ("custom", "Custom")];
 
+// Only export-generated descriptions enter this helper; never paths or project data.
+fn localized_summary(value: &str) -> String {
+    let mut value = value.to_owned();
+    for source in [
+        "16-bit half float, linear",
+        "No video",
+        "No audio",
+        "auto level",
+        "hardware encoder",
+        "keyframe every",
+        "Uncompressed",
+        "uncompressed",
+        "Progressive",
+        "Upper First",
+        "Lower First",
+        "Stereo",
+        "Mono",
+        "Target",
+        "Max",
+        "1 pass",
+        "2 pass",
+        "frames",
+        "quality",
+        "compression",
+        "lossless",
+        "level",
+    ] {
+        value = value.replace(source, crate::i18n::t(source));
+    }
+    value
+}
+
 pub(super) fn preview_column(app: &mut FilmcraftApp, ui: &mut egui::Ui, rect: Rect, seq_id: filmcraft_engine::project::ItemId) {
     let t = app.tokens;
     let mut reg = Reg::default();
@@ -118,8 +150,8 @@ pub(super) fn preview_column(app: &mut FilmcraftApp, ui: &mut egui::Ui, rect: Re
                 };
                 line(ui, "Output", &output_path(ex));
                 line(ui, "", &sum.format);
-                line(ui, "", &sum.video);
-                line(ui, "", &sum.audio);
+                line(ui, "", &localized_summary(&sum.video));
+                line(ui, "", &localized_summary(&sum.audio));
                 line(
                     ui,
                     "Source",
