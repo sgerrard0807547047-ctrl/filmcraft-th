@@ -2,16 +2,16 @@
 
 **ดาวน์โหลดสำหรับ Mac Apple Silicon:** [FilmCraft TH 0.17.1-th.1 (.dmg)](https://github.com/tapanapon-com/filmcraft-th/releases/download/v0.17.1-th.1/FilmCraft-TH-0.17.1-th.1-macOS-arm64.dmg) · [รายละเอียดรุ่นและ SHA-256](https://github.com/tapanapon-com/filmcraft-th/releases/tag/v0.17.1-th.1)
 
-**Windows 11 / 10 x64 — รุ่นเดิม 0.17.0-th.1:** [โฟลเดอร์ `windows/`](windows/) · [ตัวติดตั้ง MSI](windows/FilmCraft-TH-0.17.0-th.1-windows-x64.msi) · [Portable ZIP](windows/FilmCraft-TH-0.17.0-th.1-windows-x64-portable.zip) · [คู่มือและ SHA-256](windows/README.md)
+**Windows 11 / 10 x64 — 0.17.1-th.1:** [โฟลเดอร์ `windows/`](windows/) · [ตัวติดตั้ง MSI](windows/FilmCraft-TH-0.17.1-th.1-windows-x64.msi) · [Portable ZIP](windows/FilmCraft-TH-0.17.1-th.1-windows-x64-portable.zip) · [คู่มือและ SHA-256](windows/README.md)
 
-**สถานะรุ่น / Release status:** ซอร์สและ DMG ใหม่เป็น **0.17.1-th.1**; ไฟล์ Windows ที่มีอยู่ยังเป็น **0.17.0-th.1**. The new source and Mac DMG are 0.17.1-th.1; the existing Windows downloads remain 0.17.0-th.1.
+**สถานะรุ่น / Release status:** ซอร์ส DMG และแพ็กเกจ Windows เป็น **0.17.1-th.1** ทั้งหมด. Source, Mac DMG and Windows downloads are all 0.17.1-th.1.
 
 แพ็กเกจ arm64 ไม่รองรับ Intel ลงนามแบบ ad-hoc และยังไม่ผ่าน Apple notarization ทดสอบเปิดจาก DMG บน macOS 26.3.1 แล้ว ดูข้อจำกัดและขั้นตอนติดตั้งใน [บทความภาษาไทยและอังกฤษบน Tapanapon.com](https://tapanapon.com/blog/filmcraft-th-thai-video-editor)
 
 
 FilmCraft TH คือรุ่นปรับแต่งส่วนติดต่อภาษาไทยของ **[FilmCraft โดยทีม ArtCraft และผู้ร่วมพัฒนา](https://github.com/storytold/filmcraft)** โปรแกรมตัดต่อวิดีโอแบบ non-linear ที่พัฒนาด้วย Rust โครงการนี้เพิ่มภาษาไทยให้เมนู เครื่องมือ และการตั้งค่า โดยใช้ระบบตัดต่อเดิมของต้นฉบับ
 
-> เป็นรุ่นดัดแปลงโดยชุมชน ไม่ใช่รุ่นภาษาไทยทางการจากทีม FilmCraft/ArtCraft รุ่น 0.17.1-th.1 ตรวจสอบบน macOS Apple Silicon; แพ็กเกจ Windows 11 (x64) ที่เผยแพร่ก่อนหน้านี้เป็นรุ่น 0.17.0-th.1
+> เป็นรุ่นดัดแปลงโดยชุมชน ไม่ใช่รุ่นภาษาไทยทางการจากทีม FilmCraft/ArtCraft รุ่น 0.17.1-th.1 ตรวจสอบบน macOS Apple Silicon และ Windows 11 (x64)
 
 ![หน้าตัดต่อวิดีโอภาษาไทย](docs/images/thai/editing.png)
 
@@ -99,11 +99,11 @@ cargo test --release --locked -p filmcraft-ui-egui --lib i18n::tests
 ### สร้างแพ็กเกจสำหรับ Windows 11 (.zip Portable และ .msi Installer)
 สร้างไฟล์ติดตั้งและแพ็กเกจ Portable ได้ในคำสั่งเดียว:
 ```powershell
-powershell -ExecutionPolicy Bypass -File tools/thai/package_windows.ps1
+powershell -ExecutionPolicy Bypass -File windows/package_windows.ps1
 ```
 จะได้ไฟล์ในโฟลเดอร์ `dist/thai/`:
-- `FilmCraft-TH-0.17.0-th.1-windows-x64-portable.zip` (แบบไม่ต้องติดตั้ง แตกไฟล์แล้วเปิด `filmcraft.exe` ได้ทันที)
-- `FilmCraft-TH-0.17.0-th.1-windows-x64.msi` (ไฟล์ติดตั้ง Windows Installer เมื่อติดตั้ง WiX Toolset แล้ว)
+- `FilmCraft-TH-0.17.1-th.1-windows-x64-portable.zip` (แบบไม่ต้องติดตั้ง แตกไฟล์แล้วเปิด `filmcraft.exe` ได้ทันที)
+- `FilmCraft-TH-0.17.1-th.1-windows-x64.msi` (ไฟล์ติดตั้ง Windows Installer เมื่อติดตั้ง WiX Toolset แล้ว)
 
 ### ทดสอบการทำงานอัตโนมัติบน Windows 11 (Smoke Test)
 ```powershell
