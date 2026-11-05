@@ -1,8 +1,8 @@
 # FilmCraft TH — โปรแกรมตัดต่อวิดีโอภาษาไทย
 
-**ดาวน์โหลดสำหรับ Mac Apple Silicon:** [FilmCraft TH 0.17.0-th.1 (.dmg)](https://github.com/tapanapon-com/filmcraft-th/releases/download/v0.17.0-th.1/FilmCraft-TH-0.17.0-th.1-macOS-arm64.dmg) · [รายละเอียดรุ่นและ SHA-256](https://github.com/tapanapon-com/filmcraft-th/releases/tag/v0.17.0-th.1)
+**ดาวน์โหลดสำหรับ Mac Apple Silicon:** [FilmCraft TH 0.17.1-th.1 (.dmg)](https://github.com/tapanapon-com/filmcraft-th/releases/download/v0.17.1-th.1/FilmCraft-TH-0.17.1-th.1-macOS-arm64.dmg) · [รายละเอียดรุ่นและ SHA-256](https://github.com/tapanapon-com/filmcraft-th/releases/tag/v0.17.1-th.1)
 
-แพ็กเกจ arm64 ประมาณ 28.5 MB ไม่รองรับ Intel ลงนามแบบ ad-hoc และยังไม่ผ่าน Apple notarization ทดสอบเปิดจาก DMG บน macOS 26.3.1 แล้ว ดูข้อจำกัดและขั้นตอนติดตั้งใน [บทความภาษาไทยและอังกฤษบน Tapanapon.com](https://tapanapon.com/blog/filmcraft-th-thai-video-editor)
+แพ็กเกจ arm64 ไม่รองรับ Intel ลงนามแบบ ad-hoc และยังไม่ผ่าน Apple notarization ทดสอบเปิดจาก DMG บน macOS 26.3.1 แล้ว ดูข้อจำกัดและขั้นตอนติดตั้งใน [บทความภาษาไทยและอังกฤษบน Tapanapon.com](https://tapanapon.com/blog/filmcraft-th-thai-video-editor)
 
 
 FilmCraft TH คือรุ่นปรับแต่งส่วนติดต่อภาษาไทยของ **[FilmCraft โดยทีม ArtCraft และผู้ร่วมพัฒนา](https://github.com/storytold/filmcraft)** โปรแกรมตัดต่อวิดีโอแบบ non-linear ที่พัฒนาด้วย Rust โครงการนี้เพิ่มภาษาไทยให้เมนู เครื่องมือ และการตั้งค่า โดยใช้ระบบตัดต่อเดิมของต้นฉบับ
@@ -10,6 +10,15 @@ FilmCraft TH คือรุ่นปรับแต่งส่วนติด�
 > เป็นรุ่นดัดแปลงโดยชุมชน ไม่ใช่รุ่นภาษาไทยทางการจากทีม FilmCraft/ArtCraft รองรับการใช้งานที่ตรวจสอบแล้วบน macOS Apple Silicon ส่วน Windows/Linux ยังไม่ได้ทดสอบรุ่นภาษาไทยนี้
 
 ![หน้าตัดต่อวิดีโอภาษาไทย](docs/images/thai/editing.png)
+
+## รุ่นใหม่ 0.17.1-th.1 / What changed
+
+- อัปเดตฐานเป็น FilmCraft **0.17.1** พร้อมคงคำแปลไทย **3,763 รายการ**
+- รับการแก้ไขต้นฉบับที่จำกัดหน่วยความจำรายการแพ็กเก็ตขณะอ่าน OGG และชุดทดสอบที่เกี่ยวข้อง
+- เปลี่ยนช่องทางตรวจอัปเดตเป็น `tapanapon-com/filmcraft-th` เพื่อให้ใช้รุ่นภาษาไทยต่อเนื่อง รุ่นทดลองให้ดาวน์โหลดจาก Releases โดยตรง
+- แพ็กเกจ Mac Apple Silicon ยังลงนามแบบ ad-hoc และไม่ผ่าน Apple notarization
+
+Updated to upstream **FilmCraft 0.17.1**, retaining **3,763 Thai translations**. Includes the upstream OGG packet-list memory-budget fix and regression tests. Update checks now point to the Thai repository; download prereleases directly from Releases. The Mac Apple Silicon package remains ad-hoc signed and not Apple-notarized.
 
 ## ทำอะไรได้บ้าง
 
@@ -96,8 +105,8 @@ python3 tools/thai/smoke_macos.py "$PWD/dist/thai/FilmCraft.app/Contents/MacOS/F
 ## ต้นฉบับ เครดิต และสัญญาอนุญาต
 
 - **โครงการต้นฉบับ:** [storytold/filmcraft](https://github.com/storytold/filmcraft) โดย ArtCraft และผู้ร่วมพัฒนา
-- **commit ฐาน:** [`c9be14245a6c9da585ff906a6e0ca9c8200652ea`](https://github.com/storytold/filmcraft/commit/c9be14245a6c9da585ff906a6e0ca9c8200652ea) — รุ่นพื้นฐาน 0.17.0
-- **README ต้นฉบับ ณ commit ฐาน:** [ดูบน GitHub ต้นฉบับ](https://github.com/storytold/filmcraft/blob/c9be14245a6c9da585ff906a6e0ca9c8200652ea/README.md)
+- **commit ฐาน:** [`2fe0d0460da86621fd8b193dcc0a61f790106200`](https://github.com/storytold/filmcraft/commit/2fe0d0460da86621fd8b193dcc0a61f790106200) — รุ่นพื้นฐาน 0.17.1
+- **README ต้นฉบับ ณ commit ฐาน:** [ดูบน GitHub ต้นฉบับ](https://github.com/storytold/filmcraft/blob/2fe0d0460da86621fd8b193dcc0a61f790106200/README.md)
 - **ข้อความร่วมภาษาไทย:** [storytold/craft-i18n](https://github.com/storytold/craft-i18n/tree/c199dc459eb3f1f105f87edaf5b0b1f8f32ca846/locales/th)
 - โค้ดต้นฉบับและส่วนปรับแต่งภาษาไทยใช้ **MIT OR Apache-2.0** ตาม [LICENSE-MIT](LICENSE-MIT), [LICENSE-APACHE](LICENSE-APACHE) และ [NOTICE](NOTICE) โดยคงเครดิตเดิมไว้
 - [LICENSE](LICENSE) ที่มีอยู่ใน repository ปลายทางยังคงไว้ ไม่แทนที่สิทธิ์และเครดิตของต้นฉบับ

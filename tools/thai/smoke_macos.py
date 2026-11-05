@@ -40,6 +40,7 @@ try:
             if "still starting" not in str(error):
                 raise
             time.sleep(0.5)
+    call('ui.focus')
     assert call('ui.menu.invoke', {'id': 'app.language.thai'}) == 'th'
     call('ui.resize', {'width': 1440, 'height': 900})
     menus = call('ui.menu.list')

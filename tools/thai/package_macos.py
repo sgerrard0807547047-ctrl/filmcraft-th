@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Package the locally built binary without changing /Applications."""
 import plistlib
+import tomllib
 import shutil
 import subprocess
 from pathlib import Path
@@ -16,9 +17,10 @@ shutil.copy2(root / 'assets/app-icon/FilmCraft.icns', resources / 'FilmCraft.icn
 for name in ['NOTICE', 'LICENSE-MIT', 'LICENSE-APACHE']:
     shutil.copy2(root / name, resources / name)
 sha = subprocess.check_output(['git', 'rev-parse', 'HEAD'], cwd=root, text=True).strip()
-text = (root / 'packaging/macos/Info.plist.in').read_text().replace('@VERSION@', '0.17.0-th.1').replace('@SHORT_VERSION@', '0.17.0').replace('@BUILD_SHA@', sha + '-thai-local')
+version = tomllib.loads((root / 'apps/filmcraft/Cargo.toml').read_text())['package']['version']
+text = (root / 'packaging/macos/Info.plist.in').read_text().replace('@VERSION@', version).replace('@SHORT_VERSION@', version.split('-')[0]).replace('@BUILD_SHA@', sha + '-thai-local')
 info = plistlib.loads(text.encode())
-info['FilmCraftLocalBuild'] = 'Thai localization, 2026-11-04'
+info['FilmCraftLocalBuild'] = 'Thai localization, 2026-11-05'
 (contents / 'Info.plist').write_bytes(plistlib.dumps(info))
 (contents / 'PkgInfo').write_bytes(b'APPL????')
 (resources / 'th.lproj').mkdir(exist_ok=True)

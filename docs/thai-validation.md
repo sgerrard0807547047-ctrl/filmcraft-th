@@ -1,3 +1,20 @@
+# FilmCraft TH 0.17.1-th.1 — validation, 2026-11-05
+
+Updated from upstream release `v0.17.1` (`2fe0d0460da86621fd8b193dcc0a61f790106200`), retaining all 3,763 Thai catalog entries. The direct upstream tree delta adds the OGG packet-list memory budget and tests, version metadata, and the Linux signing-key workflow input.
+
+- `cargo xtask ci`: **passed** (fmt, workspace clippy, tests, doctests, layers, asset attribution, wasm for 49 crates). Test summaries report 4,695 passes, zero failures and 52 upstream ignored tests, including the localization-report invocation.
+- `python3 tools/thai/validate_catalog.py`: 3,763 entries, zero missing union keys; placeholders and escapes checked.
+- Release build passed. Isolated native smoke test passed for Thai menu selection, persisted preferences, demo project, and editing/settings/export screenshots; editing and export images inspected.
+- Update checks point to `tapanapon-com/filmcraft-th`. Prereleases should be downloaded directly from Releases.
+- Native app, CLI and UI crate report `0.17.1-th.1`; engine/codec crates retain upstream `0.17.1`. Applying the Thai suffix to codec versions changed H.264 SEI length and rate-control decisions, failing the pinned-slice test in the initial run. Scoping the distribution version to the app/UI resolved this without changing codec algorithms or test expectations; the final full CI passed.
+- macOS Apple Silicon package is ad-hoc signed, not Apple-notarized. This release was not manually tested on Windows/Linux.
+
+รายงานรอบสุดท้ายผ่านครบ คำแปลไทย 3,763 รายการยังอยู่ครบ และทดสอบหน้าจอจริงด้วยโปรไฟล์แยก ไม่เปลี่ยนงานหรือการตั้งค่าของผู้ใช้
+
+---
+
+## Historical validation for 0.17.0-th.1
+
 # ผลตรวจรุ่นภาษาไทย — 2026-11-04
 
 ตรวจบน macOS Apple Silicon ด้วย commit ฐาน `c9be14245a6c9da585ff906a6e0ca9c8200652ea` และส่วนปรับแต่งภาษาไทยใน repository นี้

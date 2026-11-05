@@ -10,6 +10,10 @@
 /// prompt shows both, and an AppImage's menu entry gets the icon.
 #[cfg(not(target_arch = "wasm32"))]
 pub const UPDATE_APP: craft_update::app::App = craft_update::app::App {
+    // Keep independent Thai builds on their own release channel.
+    repo: "tapanapon-com/filmcraft-th",
+    name: "FilmCraft TH",
+    developer: "Tapanapon (Thai edition)",
     icon_png: Some(include_bytes!("../../../assets/app-icon/hicolor/128x128/apps/ai.storyteller.filmcraft.png")),
     accent: Some([0x8b, 0x5c, 0xf6]),
     ..craft_update::suite::FILMCRAFT

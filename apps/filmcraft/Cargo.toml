@@ -1,7 +1,8 @@
 [package]
 name = "filmcraft"
 description = "FilmCraft desktop app"
-version.workspace = true
+# Thai distribution version; engine and codec crates keep the upstream version.
+version = "0.17.1-th.1"
 edition.workspace = true
 license.workspace = true
 default-run = "filmcraft"
