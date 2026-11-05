@@ -24,8 +24,8 @@ while ($SearchDir -and -not (Test-Path (Join-Path $SearchDir 'Cargo.toml'))) {
 if (-not $SearchDir) { throw "Could not locate repository root (Cargo.toml)" }
 $Root = $SearchDir
 
-$Version = '0.17.0-th.1'
-$MsiVersion = '0.17.0'
+$Version = '0.17.1-th.1'
+$MsiVersion = '0.17.1'
 
 $Dist = Join-Path $Root 'dist\thai'
 $TargetDir = if ($env:CARGO_TARGET_DIR) { $env:CARGO_TARGET_DIR } else { Join-Path $Root 'target' }
