@@ -12,15 +12,15 @@ from pathlib import Path
 root = Path(__file__).resolve().parents[2]
 p = root / 'crates/ui-egui/src/i18n/th.tsv'
 rows = {}
-for line in p.read_text().splitlines():
+for line in p.read_text(encoding='utf-8').splitlines():
     if line and not line.startswith('#'):
         c, s, t = line.split('\t')
         rows[(c, s)] = t
 if len(sys.argv) > 1:
-    for line in Path(sys.argv[1]).read_text().splitlines():
+    for line in Path(sys.argv[1]).read_text(encoding='utf-8').splitlines():
         d = json.loads(line)
         rows.setdefault(tuple(d['key']), d['translation'])
-for line in (root / 'tools/thai/reviewed.tsv').read_text().splitlines():
+for line in (root / 'tools/thai/reviewed.tsv').read_text(encoding='utf-8').splitlines():
     source, translated = line.split('\t')
     rows[('', source)] = translated
 for key, translated in list(rows.items()):
@@ -34,5 +34,5 @@ header = '''# Thai (th) interface catalog. context<TAB>English source<TAB>Thai t
 # AI-assisted translations; core editing terminology reviewed. Full human linguistic review pending.
 # Technical formats, product names, language names and keyboard key names retain their spelling.
 '''
-p.write_text(header + ''.join('\t'.join((*k, v)) + '\n' for k, v in sorted(rows.items())))
+p.write_text(header + ''.join('\t'.join((*k, v)) + '\n' for k, v in sorted(rows.items())), encoding='utf-8')
 print(f'Wrote {len(rows)} Thai entries')

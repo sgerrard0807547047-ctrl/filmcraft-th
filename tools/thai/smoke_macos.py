@@ -44,7 +44,7 @@ try:
     assert call('ui.menu.invoke', {'id': 'app.language.thai'}) == 'th'
     call('ui.resize', {'width': 1440, 'height': 900})
     menus = call('ui.menu.list')
-    (qa / 'menus.json').write_text(json.dumps(menus, ensure_ascii=False, indent=2))
+    (qa / 'menus.json').write_text(json.dumps(menus, ensure_ascii=False, indent=2), encoding='utf-8')
     assert any(m.get('id') == 'app.language.thai' and m.get('checked') for m in menus)
     call('engine.execute', {'command': 'file.openDemoProject', 'params': {}})
     call('ui.set', {'mode': 'edit'})
@@ -56,8 +56,8 @@ try:
     call('ui.set', {'mode': 'export'})
     call('ui.screenshot', {'path': str(qa / 'export.png')})
     state = call('ui.inspect')
-    (qa / 'state.json').write_text(json.dumps(state, ensure_ascii=False, indent=2))
-    prefs = json.loads((qa / 'data/preferences.json').read_text())
+    (qa / 'state.json').write_text(json.dumps(state, ensure_ascii=False, indent=2), encoding='utf-8')
+    prefs = json.loads((qa / 'data/preferences.json').read_text(encoding='utf-8'))
     assert prefs['general']['interfaceLanguage'] == 'th'
     print('PASS: Thai menu selection, preferences, demo project, editing/settings/export screenshots')
 finally:
