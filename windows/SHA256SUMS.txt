@@ -1,0 +1,2 @@
+45e9df8fa92a6418c978f0e3b56354ee3084ab51069aa535b1126abd04ef9afd  FilmCraft-TH-0.17.0-th.1-windows-x64.msi
+c6dcb2aeae38513890e9463996fc85ae3e82525f8b8bfeda818fd76337c879b3  FilmCraft-TH-0.17.0-th.1-windows-x64-portable.zip

@@ -1,5 +1,7 @@
 # FilmCraft TH — โปรแกรมตัดต่อวิดีโอภาษาไทย
 
+**ดาวน์โหลดสำหรับ Windows 11 / 10 (64-bit):** [โฟลเดอร์ `windows/`](windows/) · [ตัวติดตั้ง Windows (.msi)](windows/FilmCraft-TH-0.17.0-th.1-windows-x64.msi) · [รุ่นพกพา Portable (.zip)](windows/FilmCraft-TH-0.17.0-th.1-windows-x64-portable.zip) · [คู่มือและ SHA-256 สำหรับ Windows](windows/README.md)
+
 **ดาวน์โหลดสำหรับ Mac Apple Silicon:** [FilmCraft TH 0.17.0-th.1 (.dmg)](https://github.com/tapanapon-com/filmcraft-th/releases/download/v0.17.0-th.1/FilmCraft-TH-0.17.0-th.1-macOS-arm64.dmg) · [รายละเอียดรุ่นและ SHA-256](https://github.com/tapanapon-com/filmcraft-th/releases/tag/v0.17.0-th.1)
 
 แพ็กเกจ arm64 ประมาณ 28.5 MB ไม่รองรับ Intel ลงนามแบบ ad-hoc และยังไม่ผ่าน Apple notarization ทดสอบเปิดจาก DMG บน macOS 26.3.1 แล้ว ดูข้อจำกัดและขั้นตอนติดตั้งใน [บทความภาษาไทยและอังกฤษบน Tapanapon.com](https://tapanapon.com/blog/filmcraft-th-thai-video-editor)
@@ -7,7 +9,7 @@
 
 FilmCraft TH คือรุ่นปรับแต่งส่วนติดต่อภาษาไทยของ **[FilmCraft โดยทีม ArtCraft และผู้ร่วมพัฒนา](https://github.com/storytold/filmcraft)** โปรแกรมตัดต่อวิดีโอแบบ non-linear ที่พัฒนาด้วย Rust โครงการนี้เพิ่มภาษาไทยให้เมนู เครื่องมือ และการตั้งค่า โดยใช้ระบบตัดต่อเดิมของต้นฉบับ
 
-> เป็นรุ่นดัดแปลงโดยชุมชน ไม่ใช่รุ่นภาษาไทยทางการจากทีม FilmCraft/ArtCraft รองรับการใช้งานที่ตรวจสอบแล้วบน macOS Apple Silicon ส่วน Windows/Linux ยังไม่ได้ทดสอบรุ่นภาษาไทยนี้
+> เป็นรุ่นดัดแปลงโดยชุมชน ไม่ใช่รุ่นภาษาไทยทางการจากทีม FilmCraft/ArtCraft รองรับการใช้งานที่ตรวจสอบแล้วบน macOS Apple Silicon และ Windows 11 (x64)
 
 ![หน้าตัดต่อวิดีโอภาษาไทย](docs/images/thai/editing.png)
 
@@ -67,6 +69,35 @@ FilmCraft TH คือรุ่นปรับแต่งส่วนติด�
 | คำแปลที่ตรวจปรับ | [reviewed.tsv](tools/thai/reviewed.tsv) |
 | ตรวจแค็ตตาล็อก | [validate_catalog.py](tools/thai/validate_catalog.py) |
 | ทดสอบหน้าจอ | [smoke_macos.py](tools/thai/smoke_macos.py) |
+
+## สร้างและใช้งานบน Windows 11
+
+ต้องมี Rust toolchain (MSVC) และ Python 3 (หากต้องการสร้างแพ็กเกจ MSI ต้องมี .NET SDK และ WiX v5: `dotnet tool install --global wix --version 5.0.2`):
+
+```powershell
+# ตรวจความถูกต้องของแค็ตตาล็อกคำแปลภาษาไทย
+python tools/thai/validate_catalog.py
+
+# คอมไพล์และเปิดใช้งานบน Windows
+cargo run --release --locked -p filmcraft
+
+# ตรวจสอบความถูกต้องของคำแปลด้วย test suite
+cargo test --release --locked -p filmcraft-ui-egui --lib i18n::tests
+```
+
+### สร้างแพ็กเกจสำหรับ Windows 11 (.zip Portable และ .msi Installer)
+สร้างไฟล์ติดตั้งและแพ็กเกจ Portable ได้ในคำสั่งเดียว:
+```powershell
+powershell -ExecutionPolicy Bypass -File tools/thai/package_windows.ps1
+```
+จะได้ไฟล์ในโฟลเดอร์ `dist/thai/`:
+- `FilmCraft-TH-0.17.0-th.1-windows-x64-portable.zip` (แบบไม่ต้องติดตั้ง แตกไฟล์แล้วเปิด `filmcraft.exe` ได้ทันที)
+- `FilmCraft-TH-0.17.0-th.1-windows-x64.msi` (ไฟล์ติดตั้ง Windows Installer เมื่อติดตั้ง WiX Toolset แล้ว)
+
+### ทดสอบการทำงานอัตโนมัติบน Windows 11 (Smoke Test)
+```powershell
+python tools/thai/smoke_windows.py
+```
 
 ## สร้างบน macOS
 

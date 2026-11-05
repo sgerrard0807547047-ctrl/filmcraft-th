@@ -6,7 +6,7 @@ root = Path(__file__).resolve().parents[2]
 folder = root / 'crates/ui-egui/src/i18n'
 def entries(path):
     result = {}
-    for n, line in enumerate(path.read_text().splitlines(), 1):
+    for n, line in enumerate(path.read_text(encoding='utf-8').splitlines(), 1):
         if not line.strip() or line.startswith('#'):
             continue
         cols = line.split('\t')
