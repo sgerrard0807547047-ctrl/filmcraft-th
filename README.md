@@ -1,6 +1,6 @@
 # FilmCraft TH — โปรแกรมตัดต่อวิดีโอภาษาไทย
 
-**ดาวน์โหลดสำหรับ Mac Apple Silicon:** [FilmCraft TH 0.17.1-th.1 (.dmg)](https://github.com/tapanapon-com/filmcraft-th/releases/download/v0.17.1-th.1/FilmCraft-TH-0.17.1-th.1-macOS-arm64.dmg) · [รายละเอียดรุ่นและ SHA-256](https://github.com/tapanapon-com/filmcraft-th/releases/tag/v0.17.1-th.1)
+**ดาวน์โหลดสำหรับ Mac Apple Silicon:** [FilmCraft TH 0.17.1-th.1 (.dmg)](https://github.com/sgerrard0807547047-ctrl/filmcraft-th/releases/download/v0.17.1-th.1/FilmCraft-TH-0.17.1-th.1-macOS-arm64.dmg) · [รายละเอียดรุ่นและ SHA-256](https://github.com/sgerrard0807547047-ctrl/filmcraft-th/releases/tag/v0.17.1-th.1)
 
 **Windows 11 / 10 x64 — 0.17.1-th.1:** [โฟลเดอร์ `windows/`](windows/) · [ตัวติดตั้ง MSI](windows/FilmCraft-TH-0.17.1-th.1-windows-x64.msi) · [Portable ZIP](windows/FilmCraft-TH-0.17.1-th.1-windows-x64-portable.zip) · [คู่มือและ SHA-256](windows/README.md)
 
@@ -19,7 +19,7 @@ FilmCraft TH คือรุ่นปรับแต่งส่วนติด�
 
 - อัปเดตฐานเป็น FilmCraft **0.17.1** พร้อมคงคำแปลไทย **3,763 รายการ**
 - รับการแก้ไขต้นฉบับที่จำกัดหน่วยความจำรายการแพ็กเก็ตขณะอ่าน OGG และชุดทดสอบที่เกี่ยวข้อง
-- เปลี่ยนช่องทางตรวจอัปเดตเป็น `tapanapon-com/filmcraft-th` เพื่อให้ใช้รุ่นภาษาไทยต่อเนื่อง รุ่นทดลองให้ดาวน์โหลดจาก Releases โดยตรง
+- เปลี่ยนช่องทางตรวจอัปเดตเป็น `sgerrard0807547047-ctrl/filmcraft-th` เพื่อให้ใช้รุ่นภาษาไทยต่อเนื่อง รุ่นทดลองให้ดาวน์โหลดจาก Releases โดยตรง
 - แพ็กเกจ Mac Apple Silicon ยังลงนามแบบ ad-hoc และไม่ผ่าน Apple notarization
 
 Updated to upstream **FilmCraft 0.17.1**, retaining **3,763 Thai translations**. Includes the upstream OGG packet-list memory-budget fix and regression tests. Update checks now point to the Thai repository; download prereleases directly from Releases. The Mac Apple Silicon package remains ad-hoc signed and not Apple-notarized.

@@ -5,7 +5,7 @@ Updated from upstream release `v0.17.1` (`2fe0d0460da86621fd8b193dcc0a61f7901062
 - `cargo xtask ci`: **passed** (fmt, workspace clippy, tests, doctests, layers, asset attribution, wasm for 49 crates). Test summaries report 4,695 passes, zero failures and 52 upstream ignored tests, including the localization-report invocation.
 - `python3 tools/thai/validate_catalog.py`: 3,763 entries, zero missing union keys; placeholders and escapes checked.
 - Release build passed. Isolated native smoke test passed for Thai menu selection, persisted preferences, demo project, and editing/settings/export screenshots; editing and export images inspected.
-- Update checks point to `tapanapon-com/filmcraft-th`. Prereleases should be downloaded directly from Releases.
+- Update checks point to `sgerrard0807547047-ctrl/filmcraft-th`. Prereleases should be downloaded directly from Releases.
 - Native app, CLI and UI crate report `0.17.1-th.1`; engine/codec crates retain upstream `0.17.1`. Applying the Thai suffix to codec versions changed H.264 SEI length and rate-control decisions, failing the pinned-slice test in the initial run. Scoping the distribution version to the app/UI resolved this without changing codec algorithms or test expectations; the final full CI passed.
 - macOS Apple Silicon package is ad-hoc signed, not Apple-notarized. This release was not manually tested on Windows/Linux.
 
