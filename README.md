@@ -115,7 +115,7 @@ python tools/thai/smoke_windows.py
 ต้องมี Rust toolchain, Xcode Command Line Tools และ Python 3 สำหรับสคริปต์ช่วย ดูการติดตั้ง dependency เพิ่มเติมใน [คู่มือผู้ร่วมพัฒนา](docs/contributing.md)
 
 ```sh
-git clone https://github.com/tapanapon-com/filmcraft-th.git
+git clone https://github.com/sgerrard0807547047-ctrl/filmcraft-th.git
 cd filmcraft-th
 python3 tools/thai/validate_catalog.py
 cargo build --release --locked -p filmcraft
